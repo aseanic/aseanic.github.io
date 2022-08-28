@@ -251,3 +251,20 @@ https://19183.live.streamtheworld.com/RIA897FMAAC
 
 #EXTINF:-1 tvg-id="968" group-title="Radio" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" group-title="Singapore|Radio",Oli 968
 https://19183.live.streamtheworld.com/OLI968FM_PREM
+
+#☯☯ || VIETNAM CHANNELS || ☯☯
+
+#EXTINF:0 tvg-name="VOV1" tvg-logo="https://i.imgur.com/mbPvLmS.png" group-title="Radio", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+
+#EXTINF:0 tvg-name="VOV2" tvg-logo="https://i.imgur.com/rS7TG49.png" group-title="Radio", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+
+#EXTINF:0 tvg-name="VOV3" tvg-logo="https://i.imgur.com/1ZfyuG0.png" group-title="Radio", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+
+#EXTINF:0 tvg-name="VOV4" tvg-logo="https://i.imgur.com/gU6k2dJ.png" group-title="Radio", VOV4
+http://media.kythuatvov.vn:7031/;stream/%20
+
+#EXTINF:0 tvg-name="VOV5" tvg-logo="https://i.imgur.com/7o7hkWq.png" group-title="Radio", VOV5
+http://media.kythuatvov.vn:7007/;stream/
