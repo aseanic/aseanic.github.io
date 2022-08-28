@@ -254,17 +254,17 @@ https://19183.live.streamtheworld.com/OLI968FM_PREM
 
 #☯☯ || VIETNAM CHANNELS || ☯☯
 
-#EXTINF:0 tvg-name="VOV1" tvg-logo="https://i.imgur.com/mbPvLmS.png" group-title="Radio", VOV1
+#EXTINF:0 tvg-name="VOV1" tvg-logo="https://i.imgur.com/mbPvLmS.png" group-title="Radio" radio="true", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 
-#EXTINF:0 tvg-name="VOV2" tvg-logo="https://i.imgur.com/rS7TG49.png" group-title="Radio", VOV2
+#EXTINF:0 tvg-name="VOV2" tvg-logo="https://i.imgur.com/rS7TG49.png" group-title="Radio" radio="true", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 
-#EXTINF:0 tvg-name="VOV3" tvg-logo="https://i.imgur.com/1ZfyuG0.png" group-title="Radio", VOV3
+#EXTINF:0 tvg-name="VOV3" tvg-logo="https://i.imgur.com/1ZfyuG0.png" group-title="Radio" radio="true", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
-#EXTINF:0 tvg-name="VOV4" tvg-logo="https://i.imgur.com/gU6k2dJ.png" group-title="Radio", VOV4
+#EXTINF:0 tvg-name="VOV4" tvg-logo="https://i.imgur.com/gU6k2dJ.png" group-title="Radio" radio="true", VOV4
 http://media.kythuatvov.vn:7031/;stream/%20
 
-#EXTINF:0 tvg-name="VOV5" tvg-logo="https://i.imgur.com/7o7hkWq.png" group-title="Radio", VOV5
+#EXTINF:0 tvg-name="VOV5" tvg-logo="https://i.imgur.com/7o7hkWq.png" group-title="Radio" radio="true", VOV5
 http://media.kythuatvov.vn:7007/;stream/
