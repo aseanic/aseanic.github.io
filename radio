@@ -48,7 +48,6 @@ plugin://plugin.video.youtube/play/?video_id=IOOAOyredNI
 plugin://plugin.video.youtube/play/?video_id=MCti5WfPTnI
 
 #EXTINF:-1 group-title="Radio" tvg-id="724" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio",8FM
-#https://mediaprima.rastream.com/mediaprima-onefm
 plugin://plugin.video.youtube/play/?video_id=GOiCIPAtdHA
 
 #EXTINF:-1 group-title="Radio" tvg-id="725" radio="true" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
