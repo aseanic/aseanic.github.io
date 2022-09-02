@@ -39,19 +39,19 @@ plugin://plugin.video.youtube/play/?video_id=XATrzU3jnW4
 plugin://plugin.video.youtube/play/?video_id=w4Vssw4HQdM
 
 #EXTINF:-1 group-title="Radio" tvg-id="721" radio="true" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
-plugin://plugin.video.youtube/play/?video_id=l_8lsIWzgtQ
+plugin://plugin.video.youtube/play/?video_id=lkhk0sndlhw
 
 #EXTINF:-1 group-title="Radio" tvg-id="722" radio="true" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/04/kool-fm.png",Kool FM
-plugin://plugin.video.youtube/play/?video_id=IOOAOyredNI
+plugin://plugin.video.youtube/play/?video_id=5REW6wYIHIY
 
 #EXTINF:-1 group-title="Radio" tvg-id="723"  radio="true" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
-plugin://plugin.video.youtube/play/?video_id=MCti5WfPTnI
+plugin://plugin.video.youtube/play/?video_id=YF9Y9eb7zz8
 
 #EXTINF:-1 group-title="Radio" tvg-id="724" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio",8FM
-plugin://plugin.video.youtube/play/?video_id=GOiCIPAtdHA
+plugin://plugin.video.youtube/play/?video_id=D4kz2MHsgyA
 
 #EXTINF:-1 group-title="Radio" tvg-id="725" radio="true" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
-plugin://plugin.video.youtube/play/?video_id=It3415lOIUU
+plugin://plugin.video.youtube/play/?video_id=QlzHVxtxDjQ
 
 #EXTINF:-1 group-title="Radio"  radio="true" tvg-id="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",Classic Rock
 https://astro4.rastream.com/rock
