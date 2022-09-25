@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=RHAmPL6EHiA
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="853" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
 #https://astro1.rastream.com/myfm
-plugin://plugin.video.youtube/play/?video_id=qpmehIDE91g
+plugin://plugin.video.youtube/play/?video_id=t1YyM6Kf9TM
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="855" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
 #https://astro2.rastream.com/mix
@@ -28,11 +28,11 @@ plugin://plugin.video.youtube/play/?video_id=hrAevkC9mE4
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="858" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
 #https://astro3.rastream.com/melody
-plugin://plugin.video.youtube/play/?video_id=18RN83Ab9-k
+plugin://plugin.video.youtube/play/?video_id=0WihP4oU3W4
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="859" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
 #https://astro3.rastream.com/raaga
-plugin://plugin.video.youtube/play/?video_id=pigLRIfOXSQ
+plugin://plugin.video.youtube/play/?video_id=P8wAx305Hg8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="878" radio="true"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 #https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
@@ -40,7 +40,7 @@ plugin://plugin.video.youtube/play/?video_id=WWTSPuNapwk
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="876" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN FM 
 #https://astro3.rastream.com/astro-zayan
-plugin://plugin.video.youtube/play/?video_id=5mI5OH8usdI
+plugin://plugin.video.youtube/play/?video_id=jq9F--t5G4s
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="877" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GO XUAN FM 
 #https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8
@@ -48,9 +48,9 @@ plugin://plugin.video.youtube/play/?video_id=XATrzU3jnW4
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="863" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 #https://astro3.rastream.com/gegar
-plugin://plugin.video.youtube/play/?video_id=w4Vssw4HQdM
+plugin://plugin.video.youtube/play/?video_id=2JkDaTCls3I
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="721" radio="true" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="721" radio="true" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Buletin FM
 #https://mediaprima.rastream.com/mediaprima-hotfm
 plugin://plugin.video.youtube/play/?video_id=lkhk0sndlhw
 
