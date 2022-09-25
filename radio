@@ -219,7 +219,7 @@ https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id"RTBPelangi.bn" gradio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+#EXTINF:-1 tvg-id"RTBPelangi.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 
 #EXTINF:-1 tvg-id"RTBharmoni.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
