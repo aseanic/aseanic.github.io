@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=RHAmPL6EHiA
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="853" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
 #https://astro1.rastream.com/myfm
-plugin://plugin.video.youtube/play/?video_id=t1YyM6Kf9TM
+plugin://plugin.video.youtube/play/?video_id=_HSRU1UtFho
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="855" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
 #https://astro2.rastream.com/mix
@@ -20,7 +20,7 @@ plugin://plugin.video.youtube/play/?video_id=lwb-MHibpDE
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="856" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
 #https://astro2.rastream.com/era
-plugin://plugin.video.youtube/play/?video_id=4iyslSx5pIo
+plugin://plugin.video.youtube/play/?video_id=VaLGHpxGSFo
 
 #EXTINF:-1 group-title="Malaysia"  tvg-id="857" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
 #https://astro2.rastream.com/sinar
