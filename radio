@@ -24,7 +24,7 @@ plugin://plugin.video.youtube/play/?video_id=VaLGHpxGSFo
 
 #EXTINF:-1 group-title="Malaysia"  tvg-id="857" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
 #https://astro2.rastream.com/sinar
-plugin://plugin.video.youtube/play/?video_id=hrAevkC9mE4
+plugin://plugin.video.youtube/play/?video_id=LIuj-boV2tM
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="858" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
 #https://astro3.rastream.com/melody
@@ -34,7 +34,7 @@ plugin://plugin.video.youtube/play/?video_id=0WihP4oU3W4
 #https://astro3.rastream.com/raaga
 plugin://plugin.video.youtube/play/?video_id=P8wAx305Hg8
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="878" radio="true"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
+#EXTINF:-1 group-title="Malaysia" tvg-id="" radio="true"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 #https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 plugin://plugin.video.youtube/play/?video_id=WWTSPuNapwk
 
