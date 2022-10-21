@@ -287,23 +287,6 @@ https://19183.live.streamtheworld.com/RIA897FMAAC
 #EXTINF:-1 tvg-id="968" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" ,Oli 968
 https://19183.live.streamtheworld.com/OLI968FM_PREM
 
-#☯☯ || VIETNAM CHANNELS || ☯☯
-
-#EXTINF:0 tvg-id="VOV1" radio="true" tvg-logo="https://i.imgur.com/mbPvLmS.png" group-title="Vietnam", VOV1
-https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-
-#EXTINF:0 tvg-id="VOV2" radio="true" tvg-logo="https://i.imgur.com/rS7TG49.png" group-title="Vietnam", VOV2
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-
-#EXTINF:0 tvg-id="VOV3" radio="true" tvg-logo="https://i.imgur.com/1ZfyuG0.png" group-title="Vietnam", VOV3
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-
-#EXTINF:0 tvg-id="VOV4" radio="true" tvg-logo="https://i.imgur.com/gU6k2dJ.png" group-title="Vietnam", VOV4
-http://media.kythuatvov.vn:7031/;stream/%20
-
-#EXTINF:0 tvg-id="VOV5" radio="true" tvg-logo="https://i.imgur.com/7o7hkWq.png" group-title="Vietnam", VOV5
-http://media.kythuatvov.vn:7007/;stream/
-
 #☯☯ || PHILIPPINES CHANNELS || ☯☯
 
 
