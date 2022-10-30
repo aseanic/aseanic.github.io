@@ -5,87 +5,87 @@
 #EXTINF:-1 group-title="Malaysia"  tvg-id="852" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
 #https://astro1.rastream.com/hitz
 #plugin://plugin.video.youtube/play/?video_id=RHAmPL6EHiA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCO0sE62ll3AE33q9Tk-mV3w/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCO0sE62ll3AE33q9Tk-mV3w/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="853" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
 #https://astro1.rastream.com/myfm
 #plugin://plugin.video.youtube/play/?video_id=_HSRU1UtFho
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="855" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
 #https://astro2.rastream.com/mix
 #plugin://plugin.video.youtube/play/?video_id=wnm_cBh3DKM
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyqo8U-nWSCHyxWnI8zbQyA/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCyqo8U-nWSCHyxWnI8zbQyA/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="854" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
 #https://astro2.rastream.com/lite
 #plugin://plugin.video.youtube/play/?video_id=lwb-MHibpDE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzDknC7OXx6l9eEsgugjU2w/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzDknC7OXx6l9eEsgugjU2w/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="856" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
 #https://astro2.rastream.com/era
 #plugin://plugin.video.youtube/play/?video_id=VaLGHpxGSFo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNq5APn4lVabRaYCnTxiNIg/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCNq5APn4lVabRaYCnTxiNIg/live
 
 #EXTINF:-1 group-title="Malaysia"  tvg-id="857" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
 #https://astro2.rastream.com/sinar
 #plugin://plugin.video.youtube/play/?video_id=LIuj-boV2tM
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="858" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
 #https://astro3.rastream.com/melody
 #plugin://plugin.video.youtube/play/?video_id=0WihP4oU3W4
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVSW8HjAJIEblPVzk_enSBQ/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCVSW8HjAJIEblPVzk_enSBQ/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="859" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
 #https://astro3.rastream.com/raaga
 #plugin://plugin.video.youtube/play/?video_id=P8wAx305Hg8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj3Rr8EGakWWoU6Su4KWidw/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCj3Rr8EGakWWoU6Su4KWidw/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="" radio="true"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 #https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 #plugin://plugin.video.youtube/play/?video_id=WWTSPuNapwk
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="876" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN FM 
 #https://astro3.rastream.com/astro-zayan
 #plugin://plugin.video.youtube/play/?video_id=jq9F--t5G4s
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuKPnl1Mw9zKcjIIJinTg/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCaRuKPnl1Mw9zKcjIIJinTg/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="877" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GO XUAN FM 
 #https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8
 #plugin://plugin.video.youtube/play/?video_id=XATrzU3jnW4
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQXczYiv1zJ__Q0lpPyAUMQ/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCQXczYiv1zJ__Q0lpPyAUMQ/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="863" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 #https://astro3.rastream.com/gegar
 #plugin://plugin.video.youtube/play/?video_id=2JkDaTCls3I
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCd4d3fL-QZPCd9vMiUFhXLQ/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCd4d3fL-QZPCd9vMiUFhXLQ/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="721" radio="true" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
 #https://mediaprima.rastream.com/mediaprima-hotfm
 #plugin://plugin.video.youtube/play/?video_id=lkhk0sndlhw
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="722" radio="true" tvg-logo="https://i.imgur.com/rdLxnli.png",Buletin FM
 #https://mediaprima.rastream.com/mediaprima-koolfm
 #plugin://plugin.video.youtube/play/?video_id=5REW6wYIHIY
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCIAAIRr8ASmDvwOk6Agfvmw/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCIAAIRr8ASmDvwOk6Agfvmw/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="723"  radio="true" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
 #https://mediaprima.rastream.com/mediaprima-flyfm
 #plugin://plugin.video.youtube/play/?video_id=YF9Y9eb7zz8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCEpTWSFqICafylnJ0tdQpeA/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCEpTWSFqICafylnJ0tdQpeA/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="724" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Malaysia",8FM
 #https://mediaprima.rastream.com/mediaprima-onefm
 #plugin://plugin.video.youtube/play/?video_id=D4kz2MHsgyA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="725" radio="true" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 #https://mediaprima.rastream.com/mediaprima-molekfm
 #plugin://plugin.video.youtube/play/?video_id=QlzHVxtxDjQ
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA/live
 
 #EXTINF:-1 group-title="Malaysia"  radio="true" tvg-id="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",Classic Rock
 https://astro4.rastream.com/rock
