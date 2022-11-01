@@ -236,40 +236,40 @@ https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id"RTBPelangi.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+#EXTINF:-1 tvg-id"RTBPelangi.bn"  group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBharmoni.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+#EXTINF:-1 tvg-id"RTBharmoni.bn" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
 https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBPilihan.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+#EXTINF:-1 tvg-id"RTBPilihan.bn" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBNurislam.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+#EXTINF:-1 tvg-id"RTBNurislam.bn" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
 https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBPnasional.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+#EXTINF:-1 tvg-id"RTBPnasional.bn"  group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 
-#EXTINF:-1 tvg-id="95" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" ,CLASS 95
+#EXTINF:-1 tvg-id="95" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" ,CLASS 95
 https://19183.live.streamtheworld.com/CLASS95_PREM
 
-#EXTINF:-1 tvg-id="905" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" ,GOLD 905
+#EXTINF:-1 tvg-id="905" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" ,GOLD 905
 https://19183.live.streamtheworld.com/GOLD905_PREM
 
-#EXTINF:-1 tvg-id="987" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" ,987
+#EXTINF:-1 tvg-id="987" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" ,987
 https://19183.live.streamtheworld.com/987FM_PREM
 
-#EXTINF:-1 tvg-id="938" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" ,CNA938
+#EXTINF:-1 tvg-id="938" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" ,CNA938
 https://19183.live.streamtheworld.com/938NOW_PREM
 
-#EXTINF:-1 tvg-id="924" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony-924-logoImage.jpg" ,Symphony 924
+#EXTINF:-1 tvg-id="924" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony-924-logoImage.jpg" ,Symphony 924
 https://19183.live.streamtheworld.com/SYMPHONY924_PREM
 
-#EXTINF:-1 tvg-id="933" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" ,YES 933
+#EXTINF:-1 tvg-id="933" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" ,YES 933
 https://19183.live.streamtheworld.com/YES933_PRE
 
 #EXTINF:-1 tvg-id="972" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" ,LOVE 972
@@ -278,13 +278,13 @@ https://19183.live.streamtheworld.com/LOVE972FM_PREM
 #EXTINF:-1 tvg-id="958" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" ,CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM
 
-#EXTINF:-1 tvg-id="942" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" ,WARNA 94.2
+#EXTINF:-1 tvg-id="942" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" ,WARNA 94.2
 https://19183.live.streamtheworld.com/WARNA942FMAAC
 
-#EXTINF:-1 tvg-id="897" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" ,RIA 89.7
+#EXTINF:-1 tvg-id="897" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" ,RIA 89.7
 https://19183.live.streamtheworld.com/RIA897FMAAC
 
-#EXTINF:-1 tvg-id="968" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" ,Oli 968
+#EXTINF:-1 tvg-id="968" group-title="Singapore" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" ,Oli 968
 https://19183.live.streamtheworld.com/OLI968FM_PREM
 
 #☯☯ || INDONESIA CHANNELS || ☯☯
