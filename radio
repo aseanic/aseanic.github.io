@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml" refresh="3600"
 
+#EXTINF:-1 group-title="Malaysia"  tvg-id="bfm"  tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
+https://22283.live.streamtheworld.com/BFMAAC.aac
+
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Malaysia"  tvg-id="852"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
