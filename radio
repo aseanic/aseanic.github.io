@@ -1,76 +1,76 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml" refresh="3600"
+#EXTM3U url-tvg="https://github.com/weareblahs/epg/raw/master/astro.xml, https://github.com/weareblahs/epg/raw/master/rtmklik.xml" refresh="3600"
 
-#EXTINF:-1 group-title="Malaysia"  tvg-id="bfm"  tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
+#EXTINF:-1 group-title="Malaysia" tvg-id="bfm" radio="true" tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
 https://22283.live.streamtheworld.com/BFMAAC.aac
 
 #☯☯ || ASTRO CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Malaysia"  tvg-id="852"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
+#EXTINF:-1 group-title="Malaysia"  tvg-id="852" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
 #https://astro1.rastream.com/hitz
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCO0sE62ll3AE33q9Tk-mV3w/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="853"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="853" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
 #https://astro1.rastream.com/myfm
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="855"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="855" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
 #https://astro2.rastream.com/mix
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCyqo8U-nWSCHyxWnI8zbQyA/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
+#EXTINF:-1 group-title="Malaysia" tvg-id="854" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
 #https://astro2.rastream.com/lite
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzDknC7OXx6l9eEsgugjU2w/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="856" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
 #https://astro2.rastream.com/era
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCNq5APn4lVabRaYCnTxiNIg/live
 
-#EXTINF:-1 group-title="Malaysia"  tvg-id="857"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
+#EXTINF:-1 group-title="Malaysia"  tvg-id="857" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
 #https://astro2.rastream.com/sinar
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="858"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="858" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
 #https://astro3.rastream.com/melody
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCVSW8HjAJIEblPVzk_enSBQ/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="859"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="859" radio="true"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
 #https://astro3.rastream.com/raaga
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCj3Rr8EGakWWoU6Su4KWidw/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
+#EXTINF:-1 group-title="Malaysia" tvg-id="" radio="true" tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
 #https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN FM 
+#EXTINF:-1 group-title="Malaysia" tvg-id="876" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN FM 
 #https://astro3.rastream.com/astro-zayan
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCaRuKPnl1Mw9zKcjIIJinTg/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GO XUAN FM 
+#EXTINF:-1 group-title="Malaysia" tvg-id="877" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GO XUAN FM 
 #https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCQXczYiv1zJ__Q0lpPyAUMQ/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+#EXTINF:-1 group-title="Malaysia" tvg-id="863" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
 #https://astro3.rastream.com/gegar
 #plugin://plugin.video.youtube/play/?video_id=2JkDaTCls3I
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCd4d3fL-QZPCd9vMiUFhXLQ/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="721"  tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="721" radio="true"  tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
 #https://mediaprima.rastream.com/mediaprima-hotfm
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="722"  tvg-logo="https://i.imgur.com/rdLxnli.png",Buletin FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="722" radio="true"  tvg-logo="https://i.imgur.com/rdLxnli.png",Buletin FM
 #https://mediaprima.rastream.com/mediaprima-koolfm
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCIAAIRr8ASmDvwOk6Agfvmw/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="723"   tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="723" radio="true"   tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
 #https://mediaprima.rastream.com/mediaprima-flyfm
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCEpTWSFqICafylnJ0tdQpeA/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Malaysia",8FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="724" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Malaysia",8FM
 #https://mediaprima.rastream.com/mediaprima-onefm
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="725"  tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+#EXTINF:-1 group-title="Malaysia" tvg-id="725" radio="true"  tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 #https://mediaprima.rastream.com/mediaprima-molekfm
 https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA/live
 
