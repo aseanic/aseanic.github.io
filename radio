@@ -223,40 +223,40 @@ https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id"RTBPelangi.bn"  group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+#EXTINF:-1 tvg-id"RTBPelangi.bn"  radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBharmoni.bn" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+#EXTINF:-1 tvg-id"RTBharmoni.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
 https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBPilihan.bn" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+#EXTINF:-1 tvg-id"RTBPilihan.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBNurislam.bn" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+#EXTINF:-1 tvg-id"RTBNurislam.bn" radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
 https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"RTBPnasional.bn"  group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+#EXTINF:-1 tvg-id"RTBPnasional.bn"  radio="true" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 
-#EXTINF:-1 tvg-id="95" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" ,CLASS 95
+#EXTINF:-1 tvg-id="95" group-title="Singapore"  radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" ,CLASS 95
 https://19183.live.streamtheworld.com/CLASS95_PREM
 
-#EXTINF:-1 tvg-id="905" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" ,GOLD 905
+#EXTINF:-1 tvg-id="905" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" ,GOLD 905
 https://19183.live.streamtheworld.com/GOLD905_PREM
 
-#EXTINF:-1 tvg-id="987" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" ,987
+#EXTINF:-1 tvg-id="987" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" ,987
 https://19183.live.streamtheworld.com/987FM_PREM
 
-#EXTINF:-1 tvg-id="938" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" ,CNA938
+#EXTINF:-1 tvg-id="938" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" ,CNA938
 https://19183.live.streamtheworld.com/938NOW_PREM
 
-#EXTINF:-1 tvg-id="924" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony-924-logoImage.jpg" ,Symphony 924
+#EXTINF:-1 tvg-id="924" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony-924-logoImage.jpg" ,Symphony 924
 https://19183.live.streamtheworld.com/SYMPHONY924_PREM
 
-#EXTINF:-1 tvg-id="933" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" ,YES 933
+#EXTINF:-1 tvg-id="933" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" ,YES 933
 https://19183.live.streamtheworld.com/YES933_PRE
 
 #EXTINF:-1 tvg-id="972" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" ,LOVE 972
@@ -265,13 +265,13 @@ https://19183.live.streamtheworld.com/LOVE972FM_PREM
 #EXTINF:-1 tvg-id="958" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" ,CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM
 
-#EXTINF:-1 tvg-id="942" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" ,WARNA 94.2
+#EXTINF:-1 tvg-id="942" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" ,WARNA 94.2
 https://19183.live.streamtheworld.com/WARNA942FMAAC
 
-#EXTINF:-1 tvg-id="897" group-title="Singapore"  tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" ,RIA 89.7
+#EXTINF:-1 tvg-id="897" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria-897-logoImage.jpg" ,RIA 89.7
 https://19183.live.streamtheworld.com/RIA897FMAAC
 
-#EXTINF:-1 tvg-id="968" group-title="Singapore" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" ,Oli 968
+#EXTINF:-1 tvg-id="968" group-title="Singapore" radio="true" tvg-logo="https://www.melisten.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli-968-logoImage.png" ,Oli 968
 https://19183.live.streamtheworld.com/OLI968FM_PREM
 
 #☯☯ || INDONESIA CHANNELS || ☯☯
@@ -691,97 +691,97 @@ https://apps4.mcot.net/stream578.aac
 https://www.fm91bkk.com:8900/stream/1/
 
 #☯☯ || VIETNAM CHANNELS || ☯☯
-#EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/wQKQ2RQ/Kh-ng-c-ti-u-removebg-preview.png" radio="true" group-title="Vietnam" , PLADIO
+#EXTINF:-1 tvg-id="ON 365 FM" radio="true" tvg-logo="https://i.ibb.co/wQKQ2RQ/Kh-ng-c-ti-u-removebg-preview.png" radio="true" group-title="Vietnam" , PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/chunklist_b5000000.m3u8?cc
-#EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp" radio="true" group-title="Vietnam" , ON365 FM
+#EXTINF:-1 tvg-id="ON 365 FM" radio="true" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp" radio="true" group-title="Vietnam" , ON365 FM
 http://gg.gg/11fqum
-#EXTINF:-1 tvg-id="VOV FM 99.9MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" radio="true" group-title="Vietnam" , VOV FM 99.9MHz
+#EXTINF:-1 tvg-id="VOV FM 99.9MHz" radio="true" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" radio="true" group-title="Vietnam" , VOV FM 99.9MHz
 http://125.212.213.71:1935/live/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="VOV FM 95.6MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" radio="true" group-title="Vietnam" , VOV FM 95.6MHz
+#EXTINF:-1 tvg-id="VOV FM 95.6MHz" radio="true" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" radio="true" group-title="Vietnam" , VOV FM 95.6MHz
 http://125.212.213.71:1935/live/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="VOH FM 87.7MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/xnbldewtc2zh.jpg" radio="true" group-title="Vietnam" , VOH FM 87.7MHz
+#EXTINF:-1 tvg-id="VOH FM 87.7MHz" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/xnbldewtc2zh.jpg" radio="true" group-title="Vietnam" , VOH FM 87.7MHz
 http://125.212.213.71:1935/live/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="BẮC GIANG" tvg-logo="https://topsvn.com/images/truyenhinh/Radio-bac-giang.png" radio="true" group-title="Vietnam" , BẮC GIANG
+#EXTINF:-1 tvg-id="BẮC GIANG" radio="true" tvg-logo="https://topsvn.com/images/truyenhinh/Radio-bac-giang.png" radio="true" group-title="Vietnam" , BẮC GIANG
 https://live.bacgiangtv.vn/bgtvlive/Radio.m3u8
-#EXTINF:-1 tvg-id="BẮC KẠN" tvg-logo="https://3ssoft.vn/sites/default/files/backantv-logo.jpg" radio="true" group-title="Vietnam" , BẮC KẠN
+#EXTINF:-1 tvg-id="BẮC KẠN" radio="true" tvg-logo="https://3ssoft.vn/sites/default/files/backantv-logo.jpg" radio="true" group-title="Vietnam" , BẮC KẠN
 http://113.160.162.131:8080/hls/Radio.m3u8
-#EXTINF:-1 tvg-id="BẮC NINH" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/06/bang-gia-bac-ninh-620x420@2x.jpg" radio="true" group-title="Vietnam" , BẮC NINH
+#EXTINF:-1 tvg-id="BẮC NINH" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/06/bang-gia-bac-ninh-620x420@2x.jpg" radio="true" group-title="Vietnam" , BẮC NINH
 http://118.107.85.4:1935/Radio/bacninh_aac/Radio.m3u8
-#EXTINF:-1 tvg-id="VŨNG TÀU" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-vung-tau-400x267@2x.jpg" radio="true" group-title="Vietnam" , VŨNG TÀU
+#EXTINF:-1 tvg-id="VŨNG TÀU" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-vung-tau-400x267@2x.jpg" radio="true" group-title="Vietnam" , VŨNG TÀU
 http://113.163.216.23:1935/live/Radio1.sdp_audio/playlist.m3u8
-#EXTINF:-1 tvg-id="BẾN TRE" tvg-logo="https://i.ibb.co/TkPFCgk/bentre.png" radio="true" group-title="Vietnam" , BẾN TRE
+#EXTINF:-1 tvg-id="BẾN TRE" radio="true" tvg-logo="https://i.ibb.co/TkPFCgk/bentre.png" radio="true" group-title="Vietnam" , BẾN TRE
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
-#EXTINF:-1 tvg-id="BÌNH DƯƠNG" tvg-logo="https://mvlagency.net/wp-content/uploads/2018/01/quang-cao-Radio-binh-duong-1280x720.jpg" radio="true" group-title="Vietnam" , BÌNH DƯƠNG
+#EXTINF:-1 tvg-id="BÌNH DƯƠNG" radio="true" tvg-logo="https://mvlagency.net/wp-content/uploads/2018/01/quang-cao-Radio-binh-duong-1280x720.jpg" radio="true" group-title="Vietnam" , BÌNH DƯƠNG
 https://btvfm011220.cdn.vnns.io/84ca6c79b9109cb81c1e426fd81684971635333470/btv-fm.tms/chunks.m3u8
-#EXTINF:-1 tvg-id="BÌNH PHƯỚC" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/audio_livestream_poster.jpg" radio="true" group-title="Vietnam" , BÌNH PHƯỚC
+#EXTINF:-1 tvg-id="BÌNH PHƯỚC" radio="true" tvg-logo="https://media.baobinhphuoc.com.vn/upload/files/logo/audio_livestream_poster.jpg" radio="true" group-title="Vietnam" , BÌNH PHƯỚC
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
 #EXTINF:-1 tvg-id="BÌNH THUẬN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/Swftwgtfsz.png" radio="true" group-title="Vietnam" , BÌNH THUẬN
 http://202.43.109.142:1935/thbtRadio/btRadio/playlist.m3u8
-#EXTINF:-1 tvg-id="CÀ MAU" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/VvVfgWtzuC.jpg" radio="true" group-title="Vietnam" , CÀ MAU
+#EXTINF:-1 tvg-id="CÀ MAU" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/VvVfgWtzuC.jpg" radio="true" group-title="Vietnam" , CÀ MAU
 http://tv.ctvcamau.vn/live/Radio/Radio.m3u8
-#EXTINF:-1 tvg-id="CẦN THƠ" tvg-logo="https://canthotv.vn/wp-content/uploads/2018/01/thtpct.jpg" radio="true" group-title="Vietnam" , CẦN THƠ
+#EXTINF:-1 tvg-id="CẦN THƠ" radio="true" tvg-logo="https://canthotv.vn/wp-content/uploads/2018/01/thtpct.jpg" radio="true" group-title="Vietnam" , CẦN THƠ
 https://mekongpassion.com/live/Radio/playlist.m3u8
-#EXTINF:-1 tvg-id="ĐÀ NẴNG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/cd9vpt6yyW.png" radio="true" group-title="Vietnam" , ĐÀ NẴNG
+#EXTINF:-1 tvg-id="ĐÀ NẴNG" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/cd9vpt6yyW.png" radio="true" group-title="Vietnam" , ĐÀ NẴNG
 http://drtdnglive.e49a7c38.cdnviet.com/liveRadio/playlist.m3u8
-#EXTINF:-1 tvg-id="ĐỒNG NAI" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c5/%C4%90N-RTV.png/revision/latest?cb=20200910121259&path-prefix=vi" radio="true" group-title="Vietnam" , ĐỒNG NAI
+#EXTINF:-1 tvg-id="ĐỒNG NAI" radio="true" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c5/%C4%90N-RTV.png/revision/latest?cb=20200910121259&path-prefix=vi" radio="true" group-title="Vietnam" , ĐỒNG NAI
 http://118.107.85.5:1935/Radio/dongnai_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="ĐỒNG THÁP" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/wdcaAChpGy.png" radio="true" group-title="Vietnam" , ĐỒNG THÁP
+#EXTINF:-1 tvg-id="ĐỒNG THÁP" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/wdcaAChpGy.png" radio="true" group-title="Vietnam" , ĐỒNG THÁP
 http://202.43.109.144:1935/thdtRadio/thdtRadio/playlist.m3u8
-#EXTINF:-1 tvg-id="GIA LAI" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/eKdcLNrJhW.jpg" radio="true" group-title="Vietnam" , GIA LAI
+#EXTINF:-1 tvg-id="GIA LAI" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/eKdcLNrJhW.jpg" radio="true" group-title="Vietnam" , GIA LAI
 http://113.161.25.3:8134/hls/Radio/Radio.m3u8
-#EXTINF:-1 tvg-id="HẢI PHÒNG FM 93.7MHz" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/06/bang-gia-hai-phong-150x100@2x.jpg" radio="true" group-title="Vietnam" , HẢI PHÒNG FM 93.7MHzs
+#EXTINF:-1 tvg-id="HẢI PHÒNG FM 93.7MHz" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/06/bang-gia-hai-phong-150x100@2x.jpg" radio="true" group-title="Vietnam" , HẢI PHÒNG FM 93.7MHzs
 https://live.thhp.vn/937/index.m3u8
-#EXTINF:-1 tvg-id="HẢI PHÒNG FM GT 102.2MHz" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/06/bang-gia-hai-phong-150x100@2x.jpg" radio="true" group-title="Vietnam" , HẢI PHÒNG FM GT 102.2MHz
+#EXTINF:-1 tvg-id="HẢI PHÒNG FM GT 102.2MHz" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/06/bang-gia-hai-phong-150x100@2x.jpg" radio="true" group-title="Vietnam" , HẢI PHÒNG FM GT 102.2MHz
 https://live.thhp.vn/Radio/102/index.m3u8
-#EXTINF:-1 tvg-id="HÀ NAM" tvg-logo="http://1.bp.blogspot.com/-0fxx6mYMVvI/UwLDAGRwA1I/AAAAAAAACAA/dkG5y5hxHj8/s320/logo-hanam-tv.jpg" radio="true" group-title="Vietnam" , HÀ NAM
+#EXTINF:-1 tvg-id="HÀ NAM" radio="true" tvg-logo="http://1.bp.blogspot.com/-0fxx6mYMVvI/UwLDAGRwA1I/AAAAAAAACAA/dkG5y5hxHj8/s320/logo-hanam-tv.jpg" radio="true" group-title="Vietnam" , HÀ NAM
 http://103.90.220.236/thhnlive/Radio.m3u8
-#EXTINF:-1 tvg-id="HÀ TĨNH" tvg-logo="https://bvad.vn/wp-content/uploads/2017/03/ha-tinh.jpg" radio="true" group-title="Vietnam" , HÀ TĨNH
+#EXTINF:-1 tvg-id="HÀ TĨNH" radio="true" tvg-logo="https://bvad.vn/wp-content/uploads/2017/03/ha-tinh.jpg" radio="true" group-title="Vietnam" , HÀ TĨNH
 https://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
-#EXTINF:-1 tvg-id="HẬU GIANG FM 89.6MHz" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/logohg.png" radio="true" group-title="Vietnam" , HẬU GIANG FM 89.6MHz
+#EXTINF:-1 tvg-id="HẬU GIANG FM 89.6MHz" radio="true" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/logohg.png" radio="true" group-title="Vietnam" , HẬU GIANG FM 89.6MHz
 https://haugiangfm011220.cdn.vnns.io/c10859ddeb00c402a9f6ad05ae61fa5f1635335839/haugiang-fm.tms/chunks.m3u8
-#EXTINF:-1 tvg-id="HƯNG YÊN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/VCPkECsKtY.jpg" radio="true" group-title="Vietnam" , HƯNG YÊN
+#EXTINF:-1 tvg-id="HƯNG YÊN" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/VCPkECsKtY.jpg" radio="true" group-title="Vietnam" , HƯNG YÊN
 https://live.hungyentv.vn/hytvlive/Radio.m3u8
-#EXTINF:-1 tvg-id="KHÁNH HÒA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/A39Fgt94EH.png" radio="true" group-title="Vietnam" , KHÁNH HÒA
+#EXTINF:-1 tvg-id="KHÁNH HÒA" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/A39Fgt94EH.png" radio="true" group-title="Vietnam" , KHÁNH HÒA
 http://210.245.20.94/hls/Radio.m3u8
-#EXTINF:-1 tvg-id="KIÊN GIANG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/2nG2wFS6HV.png" radio="true" group-title="Vietnam" , KIÊN GIANG
+#EXTINF:-1 tvg-id="KIÊN GIANG" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/2nG2wFS6HV.png" radio="true" group-title="Vietnam" , KIÊN GIANG
 http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 tvg-id="KOM TUM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/h9Kmgekkfj.png" radio="true" group-title="Vietnam" , KOM TUM
+#EXTINF:-1 tvg-id="KOM TUM" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/h9Kmgekkfj.png" radio="true" group-title="Vietnam" , KOM TUM
 http://tv.kontumtv.vn/live/Radio/Radio.m3u8
-#EXTINF:-1 tvg-id="LAI CHÂU" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/RLLT6wy4Jd.jpg" radio="true" group-title="Vietnam" , LAI CHÂU
+#EXTINF:-1 tvg-id="LAI CHÂU" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/RLLT6wy4Jd.jpg" radio="true" group-title="Vietnam" , LAI CHÂU
 https://ll4mfr7mnaliv.vcdn.cloud/laichau/Radio/playlist.m3u8
-#EXTINF:-1 tvg-id="LÂM ĐỒNG" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-Radio-lam-dong.png" radio="true" group-title="Vietnam" , LÂM ĐỒNG
+#EXTINF:-1 tvg-id="LÂM ĐỒNG" radio="true" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-Radio-lam-dong.png" radio="true" group-title="Vietnam" , LÂM ĐỒNG
 http://118.107.85.4:1935/Radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="LẠNG SƠN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/kGDbTmvWzJ.png" radio="true" group-title="Vietnam" , LẠNG SƠN
+#EXTINF:-1 tvg-id="LẠNG SƠN" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/kGDbTmvWzJ.png" radio="true" group-title="Vietnam" , LẠNG SƠN
 http://live.langsontv.vn/lstvlive/Radio-transmux.m3u8
-#EXTINF:-1 tvg-id="LONG AN" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-long-an-400x267@2x.jpg" radio="true" group-title="Vietnam" , LONG AN
+#EXTINF:-1 tvg-id="LONG AN" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-long-an-400x267@2x.jpg" radio="true" group-title="Vietnam" , LONG AN
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/Radio.m3u8
-#EXTINF:-1 tvg-id="NGHỆ AN" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/Xzmc8Lcn6M.png" radio="true" group-title="Vietnam" , NGHỆ AN
+#EXTINF:-1 tvg-id="NGHỆ AN" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/Xzmc8Lcn6M.png" radio="true" group-title="Vietnam" , NGHỆ AN
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
-#EXTINF:-1 tvg-id="NINH BÌNH" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" radio="true" group-title="Vietnam" , NINH BÌNH
+#EXTINF:-1 tvg-id="NINH BÌNH" radio="true" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png" radio="true" group-title="Vietnam" , NINH BÌNH
 https://nbtv.vncdn.vn/nbtvlive/Radio.m3u8
-#EXTINF:-1 tvg-id="PHÚ YÊN" tvg-logo="https://cdn.webrad.io/images/logos/vietnamRadio-org/phu-yen.png" radio="true" group-title="Vietnam" , PHÚ YÊN
+#EXTINF:-1 tvg-id="PHÚ YÊN" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/vietnamRadio-org/phu-yen.png" radio="true" group-title="Vietnam" , PHÚ YÊN
 http://113.161.4.48:8080/phuyen/Radio.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NAM" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-quang-nam-150x100@2x.jpg" radio="true" group-title="Vietnam" , QUẢNG NAM
+#EXTINF:-1 tvg-id="QUẢNG NAM" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-quang-nam-150x100@2x.jpg" radio="true" group-title="Vietnam" , QUẢNG NAM
 http://113.161.6.157:8085/phatthanh/QRT.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NGÃI" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-quang-ngai-150x100@2x.jpg" radio="true" group-title="Vietnam" , QUẢNG NGÃI
+#EXTINF:-1 tvg-id="QUẢNG NGÃI" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-quang-ngai-150x100@2x.jpg" radio="true" group-title="Vietnam" , QUẢNG NGÃI
 http://118.107.85.5:1935/Radio/quangngai_aac/Radio.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NINH 1" tvg-logo="https://i.ibb.co/R2kKQ1w/quangninh.png" radio="true" group-title="Vietnam" , QUẢNG NINH 1
+#EXTINF:-1 tvg-id="QUẢNG NINH 1" radio="true" tvg-logo="https://i.ibb.co/R2kKQ1w/quangninh.png" radio="true" group-title="Vietnam" , QUẢNG NINH 1
 http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 tvg-id="QUẢNG NINH 2" tvg-logo="https://i.ibb.co/R2kKQ1w/quangninh.png" radio="true" group-title="Vietnam" , QUẢNG NINH 2
+#EXTINF:-1 tvg-id="QUẢNG NINH 2" radio="true" tvg-logo="https://i.ibb.co/R2kKQ1w/quangninh.png" radio="true" group-title="Vietnam" , QUẢNG NINH 2
 http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 tvg-id="QUẢNG TRỊ" tvg-logo="https://i.ibb.co/ckjxWC5/quangtri.png" radio="true" group-title="Vietnam" , QUẢNG TRỊ
+#EXTINF:-1 tvg-id="QUẢNG TRỊ" radio="true" tvg-logo="https://i.ibb.co/ckjxWC5/quangtri.png" radio="true" group-title="Vietnam" , QUẢNG TRỊ
 http://mediatech.vncdn.vn/qrtvlive/Radio.m3u8
-#EXTINF:-1 tvg-id="SÓC TRĂNG FM 100.4MHz" tvg-logo="https://i.ytimg.com/vi/7Du-idc0GRA/maxresdefault.jpg" radio="true" group-title="Vietnam" , SÓC TRĂNG FM 100.4MHz
+#EXTINF:-1 tvg-id="SÓC TRĂNG FM 100.4MHz" radio="true" tvg-logo="https://i.ytimg.com/vi/7Du-idc0GRA/maxresdefault.jpg" radio="true" group-title="Vietnam" , SÓC TRĂNG FM 100.4MHz
 http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
-#EXTINF:-1 tvg-id="SƠN LA" tvg-logo="https://i.ibb.co/WgQYRGQ/sonla.png" radio="true" group-title="Vietnam" , SƠN LA
+#EXTINF:-1 tvg-id="SƠN LA" radio="true" tvg-logo="https://i.ibb.co/WgQYRGQ/sonla.png" radio="true" group-title="Vietnam" , SƠN LA
 http://118.107.85.5:1935/Radio/sonla_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="TIỀN GIANG FM 96.2MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/RUxQ8FKD6c.jpg" radio="true" group-title="Vietnam" , TIỀN GIANG FM 96.2MHz
+#EXTINF:-1 tvg-id="TIỀN GIANG FM 96.2MHz" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/RUxQ8FKD6c.jpg" radio="true" group-title="Vietnam" , TIỀN GIANG FM 96.2MHz
 http://thtg.vn/live/Radio/Radiolive.m3u8
-#EXTINF:-1 tvg-id="THÁI BÌNH" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/rBHkNXby55.jpg" radio="true" group-title="Vietnam" , THÁI BÌNH
+#EXTINF:-1 tvg-id="THÁI BÌNH" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/rBHkNXby55.jpg" radio="true" group-title="Vietnam" , THÁI BÌNH
 http://118.70.118.191:1935/tbtvlive/Radio/playlist.m3u8
-#EXTINF:-1 tvg-id="THỪA THIÊN HUẾ" tvg-logo="https://cdn.webrad.io/images/logos/vietnamRadio-org/thua-thien-hue.png" radio="true" group-title="Vietnam" , THỪA THIÊN HUẾ
+#EXTINF:-1 tvg-id="THỪA THIÊN HUẾ" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/vietnamRadio-org/thua-thien-hue.png" radio="true" group-title="Vietnam" , THỪA THIÊN HUẾ
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
-#EXTINF:-1 tvg-id="TUYÊN QUANG" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/YWzgFtNcYx.png" radio="true" group-title="Vietnam" , TUYÊN QUANG
+#EXTINF:-1 tvg-id="TUYÊN QUANG" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_Radios/YWzgFtNcYx.png" radio="true" group-title="Vietnam" , TUYÊN QUANG
 https://live.tuyenquangtv.vn/hls/Radio.m3u8
-#EXTINF:-1 tvg-id="YÊN BÁI" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-yen-bai.jpg" radio="true" group-title="Vietnam" , YÊN BÁI
+#EXTINF:-1 tvg-id="YÊN BÁI" radio="true" tvg-logo="https://quangcaoRadio.info/wp-content/uploads/2018/07/bang-gia-yen-bai.jpg" radio="true" group-title="Vietnam" , YÊN BÁI
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
