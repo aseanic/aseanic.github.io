@@ -124,7 +124,7 @@ https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
 #EXTINF:-1 tvg-id="TRAXXFM" group-title="Malaysia" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
 https://22243.live.streamtheworld.com/TRAXX_FMAAC.aac
 
-#EXTINF:-1 tvg-id="RTMK12" group-title="Malaysia" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
+#EXTINF:-1 tvg-id="AIFM" group-title="Malaysia" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
 
 #EXTINF:-1 tvg-id="MINNALFM" group-title="Malaysia" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",MINNAL FM 
