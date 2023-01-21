@@ -223,19 +223,19 @@ https://22243.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id"CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+#EXTINF:-1 tvg-id="CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+#EXTINF:-1 tvg-id="CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
 https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+#EXTINF:-1 tvg-id="CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
 https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+#EXTINF:-1 tvg-id="CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
 https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
-#EXTINF:-1 tvg-id"CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+#EXTINF:-1 tvg-id="CHN" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
