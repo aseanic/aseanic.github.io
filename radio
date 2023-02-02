@@ -563,8 +563,6 @@ https://ph-icecast-win.eradioportal.com:8443/monsterrx
 https://stream.zenolive.com/ktsuntffnpeuv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3cW8CO.png" radio="true" tvg-id="CHN" group-title="Philippines",Star FM
 http://node-22.zeno.fm/n51d54pctrquv?rj-ttl=5&rj-tok=AAABd8KK9r4AH0xsfAgNsn51Xw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" radio="true" tvg-id="CHN" group-title="Philippines",Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CId9ifi.png" radio="true" tvg-id="CHN" group-title="Philippines",TeleRadyo
 http://node-27.zeno.fm/vcv559su7mruv?rj-ttl=5&rj-tok=AAABd84ATQkAGayGAIHdxnRsZQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSjoJf0.jpg" radio="true" tvg-id="CHN" group-title="Philippines",V81 Radio
