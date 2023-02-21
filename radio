@@ -632,7 +632,7 @@ https://www.fm91bkk.com:8900/stream/1/
 #EXTINF:0 radio="true" tvg-id="CHN" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/city-life.png" group-title="Thailand",City Life FM
 http://onair.onair.network:8076/stream/1/
 
-#EXTINF:0 radio="true" tvg-id="CHN" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/phuket.png" group-title="Thailand",91.5 FM
+#EXTINF:0 radio="true" tvg-id="CHN" tvg-logo="https://pictr.com/images/2023/02/22/E1Yz1B.png" group-title="Thailand",91.5 FM
 https://stream.phuketfmradio.com/pfmMP3
 
 #EXTINF:0 radio="true" tvg-id="CHN" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/cu.png" group-title="Thailand",Chula FM
