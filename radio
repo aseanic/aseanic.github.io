@@ -331,7 +331,7 @@ https://svara-stream.radioddns.net:8443/samarinda_heartline?ver=900346
 http://hits.unikom.ac.id:9996/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" radio="true" tvg-id="CHN" group-title="Indonesia",Hitz FM
 https://s2.radio.co/s6929cb202/listen
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9FubDl.png" radio="true" tvg-id="CHN" group-title="Indonesia",Indika FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Indika_fm_1st.png/800px-Indika_fm_1st.png" radio="true" tvg-id="CHN" group-title="Indonesia",Indika FM
 https://s2.radio.co/sf58a82d7d/listen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KRAaxKW.png" radio="true" tvg-id="CHN" group-title="Indonesia",iRadio Bandung
 http://stream.radiojar.com/u6ppe6hswk8uv
