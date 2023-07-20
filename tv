@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz" refresh="3600"
 
 #☯☯ || RTM CHANNELS || ☯☯
 
@@ -258,6 +258,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380061.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" ch-number="553" tvg-logo="https://static1.squarespace.com/static/62821a0e46c8af53df7dc8ac/t/62e20a64aec9d111e7a2a991/1658980965004/channel_logo_DASIA+%281%29.png",Discovery Asia
 http://dmtn.tv:8080/live/steveny5997/54332611/380063.m3u8
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/main/science.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="BBCEarth" ch-number="554" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png",BBC Earth
 http://dmtn.tv:8080/live/steveny5997/54332611/380068.m3u8
