@@ -425,7 +425,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379982.m3u8
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 http://dmtn.tv:8080/live/steveny5997/54332611/379984.m3u8
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSuperSport5" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",Astro Supersport 5
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
 http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
