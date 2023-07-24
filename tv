@@ -470,7 +470,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571247&extension=
 http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571246&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571249&extension=m3u8&play_token=xdbt7BgLik
+http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 http://dmtn.tv:8080/live/steveny5997/54332611/380012.m3u8
