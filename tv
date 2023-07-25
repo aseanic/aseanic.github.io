@@ -72,7 +72,8 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571238&extension=
 http://dmtn.tv:8080/live/steveny5997/54332611/380128.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroAura" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571257&extension=m3u8&play_token=xdbt7BgLik
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/main/aura.m3u8
+#http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571257&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroVaanavil" ch-number="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 http://dmtn.tv:8080/live/steveny5997/54332611/380143.m3u8
