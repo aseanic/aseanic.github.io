@@ -345,31 +345,32 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryChannel" ch-number="552" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png",Discovery Channel
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26207.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380061.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" ch-number="553" tvg-logo="https://static1.squarespace.com/static/62821a0e46c8af53df7dc8ac/t/62e20a64aec9d111e7a2a991/1658980965004/channel_logo_DASIA+%281%29.png",Discovery Asia
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26209.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380063.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157530.m3u8
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571211&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="BBCEarth" ch-number="554" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png",BBC Earth
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26290.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380068.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="History" ch-number="555" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png",History
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26213.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380080.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" ch-number="556" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26211.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380066.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" ch-number="714" tvg-logo="https://resources.mynewsdesk.com/image/upload/c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_746/vxej8gxotm7gtzvuwaeg",Crime + Investigation
-https://ktpremium.com:443/live/LT1236/4566/26291.m3u8
+http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/6506/index.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380064.m3u8
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png",NASA TV 
