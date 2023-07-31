@@ -463,10 +463,12 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380160.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/379977.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA 1
-http://dmtn.tv:8080/live/steveny5997/54332611/379989.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26308.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379989.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena2" ch-number="802" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",ASTRO ARENA 2
-http://dmtn.tv:8080/live/steveny5997/54332611/379990.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26306.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379990.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://pictr.com/images/2023/05/13/E8ulc6.png",ASTRO ARENA BOLA 1
 https://ktpremium.com:443/live/LT1236/4566/912889.m3u8
@@ -477,43 +479,55 @@ https://ktpremium.com:443/live/LT1236/4566/912890.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380005.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571245&extension=m3u8&play_token=xdbt7BgLik
+https://ktpremium.com:443/live/LT1236/4566/26312.m3u8
+#http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571245&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571248&extension=m3u8&play_token=xdbt7BgLik
+https://ktpremium.com:443/live/LT1236/4566/26313.m3u8
+#http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571248&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571247&extension=m3u8&play_token=xdbt7BgLik
+https://ktpremium.com:443/live/LT1236/4566/26314.m3u8
+#http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571247&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571246&extension=m3u8&play_token=xdbt7BgLik
+https://ktpremium.com:443/live/LT1236/4566/26315.m3u8
+#http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571246&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
-http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26314.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
-http://dmtn.tv:8080/live/steveny5997/54332611/380012.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26309.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380017.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV 1
-http://dmtn.tv:8080/live/steveny5997/54332611/379992.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26318.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379992.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV2" ch-number="810" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2
 http://dmtn.tv:8080/live/steveny5997/54332611/379995.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS 1
-http://dmtn.tv:8080/live/steveny5997/54332611/379996.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26321.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379996.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",BEIN SPORTS 2
-http://dmtn.tv:8080/live/steveny5997/54332611/379998.m3u8
+https://ktpremium.com:443/live/LT1236/4566/912557.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379998.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
-http://dmtn.tv:8080/live/steveny5997/54332611/380000.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26322.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380000.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
-http://dmtn.tv:8080/live/steveny5997/54332611/380002.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26324.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380002.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
-http://dmtn.tv:8080/live/steveny5997/54332611/380009.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26326.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380009.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -522,7 +536,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/380010.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="WWENetwork" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network
-http://dmtn.tv:8080/live/steveny5997/54332611/380007.m3u8
+https://ktpremium.com:443/live/LT1236/4566/26328.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380007.m3u8
 
 #EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
