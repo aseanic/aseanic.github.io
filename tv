@@ -99,7 +99,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380126.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-https://ktpremium.com:443/live/LT1236/4566/25968.m3u
+https://ktpremium.com:443/live/LT1236/4566/25968.m3u8
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroXiaoTaiYang" ch-number="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",Astro Xiao Tai Yang
 https://ktpremium.com:443/live/LT1236/4566/912841.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380018.m3u8
