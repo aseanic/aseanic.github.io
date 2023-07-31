@@ -1,49 +1,55 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" refresh="3600"
 
-#☯☯ || RTM CHANNELS || ☯☯
+#☯☯ || MYTV CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-http://dmtn.tv:8080/live/steveny5997/54332611/380114.m3u8
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
-http://dmtn.tv:8080/live/steveny5997/54332611/380133.m3u8
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
+https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg",TVS
-http://dmtn.tv:8080/live/steveny5997/54332611/380109.m3u8
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg",TVS
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
-http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571208&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
+http://dmtn.tv:8080/live/steveny5997/54332611/380132.m3u8
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
-http://dmtn.tv:8080/live/steveny5997/54332611/380135.m3u8
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png",8TV
-http://dmtn.tv:8080/live/steveny5997/54332611/380139.m3u8
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="8TV" ch-number="148" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png",8TV
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
-http://dmtn.tv:8080/live/steveny5997/54332611/380134.m3u8
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="TV9" ch-number="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="OKEY" ch-number="146" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
 
-#EXTINF:-1 group-title="RTM" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Negara
+#EXTINF:-1 group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
 
 #☯☯ || ASTRO CHANNELS || ☯☯
@@ -506,7 +512,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380010.m3u8
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="WWENetwork" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network
 http://dmtn.tv:8080/live/steveny5997/54332611/380007.m3u8
 
-#EXTINF:-1 group-title="RTM;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
+#EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
 #☯☯ || RADIO CHANNELS || ☯☯
