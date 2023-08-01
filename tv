@@ -15,7 +15,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https:
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/07/31/EfPZuZ.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
-https://live.mana2.my/Tv5/tracks-v2a1/mono.m3u8
+https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/07/31/EfPZuZ.png" tvg-id="TV6" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
@@ -56,8 +56,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158347.m3u8
-#https://ktpremium.com:443/live/LT1236/4566/912833.m3u8
+#http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158347.m3u8
+https://ktpremium.com:443/live/LT1236/4566/912833.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
@@ -76,6 +76,7 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157489.m3u8
 #http://speedtrademarket.com/live/irinaspicy/citra
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
 #http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
 #http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/497611
 
@@ -186,7 +187,8 @@ https://ktpremium.com:443/live/LT1236/4566/912848.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380025.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCM" ch-number="321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
-http://dmtn.tv:8080/live/steveny5997/54332611/380157.m3u8
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157512.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380157.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixChineseChannel" ch-number="325" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
 http://dmtn.tv:8080/live/steveny5997/54332611/380164.m3u8
@@ -208,7 +210,8 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/380141.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunMusic" ch-number="212" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music
-http://dmtn.tv:8080/live/steveny5997/54332611/380142.m3u8
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157496.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380142.m3u8
 
 #EXTINF:-1  group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="Adithya" ch-number="214" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
 http://dmtn.tv:8080/live/steveny5997/54332611/380138.m3u8
