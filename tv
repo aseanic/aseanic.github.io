@@ -65,15 +65,15 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157489.m3u8
-#https://ktpremium.com:443/live/LT1236/4566/25834.m3u8
+#http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157489.m3u8
+https://ktpremium.com:443/live/LT1236/4566/25834.m3u8
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571238&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
-#http://shareex@195.26.87.217/live?channelId=941609&deviceMac=00:1A:79:33:E9:41
+https://ktpremium.com:443/live/LT1236/4566/25867.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-#http://speedtrademarket.com/live/irinaspicy/citra
+https://ktpremium.com:443/live/LT1236/4566/913177.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
