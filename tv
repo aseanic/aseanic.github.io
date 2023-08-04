@@ -57,12 +57,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 #http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158347.m3u8
-https://ktpremium.com:443/live/LT1236/4566/912833.m3u8
-#http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
+#https://ktpremium.com:443/live/LT1236/4566/912833.m3u8
+http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
-#http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
+#http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
+http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157489.m3u8
@@ -76,7 +76,7 @@ https://ktpremium.com:443/live/LT1236/4566/25867.m3u8
 https://ktpremium.com:443/live/LT1236/4566/913177.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
+http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
 #http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
 #http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/497611
 
@@ -84,7 +84,6 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/380128.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroAura" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
-https://raw.githubusercontent.com/aseanic/aseanic.github.io/main/aura.m3u8
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571257&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroVaanavil" ch-number="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
@@ -569,8 +568,7 @@ https://ktpremium.com:443/live/LT1236/4566/26315.m3u8
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571246&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
-https://ktpremium.com:443/live/LT1236/4566/26314.m3u8
-#http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
+http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 https://ktpremium.com:443/live/LT1236/4566/26309.m3u8
@@ -603,7 +601,7 @@ https://ktpremium.com:443/live/LT1236/4566/26324.m3u8
 https://ktpremium.com:443/live/LT1236/4566/26326.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380009.m3u8
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",PREMIER SPORTS
@@ -673,27 +671,6 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/988.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
 https://ktpremium.com:443/live/LT1236/4566/26298.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://www.nettvpro.live/uploads/allimg/21/1-2104151IH40-L.jpg" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2104151I9310-L.jpg" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/0/06/CMT_Music_logo.png/revision/latest?cb=20210320210149" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",CMTMUSIC
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZdNowfL1JtqeLr4fT8ccsd_clnKgamtyhY9pfCpsDWBEja-QUe7RnMyuzD5LC_eeEng&usqp=CAU" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Yo%21_MTV_Raps_1987.svg/revision/latest?cb=20220102001126" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png", MTV HD
-http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/2130/index.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png", MTV Classic
-http://3twmdqlu.megatv.fun/iptv/GUUCGDH5MLMXSB/19148/index.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/now80.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
