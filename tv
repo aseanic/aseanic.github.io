@@ -268,7 +268,7 @@ http://iptv12k.com:35461/test167/12345/333
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=926153&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-id="472" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",Animax
-http://iptv12k.com:35461/test167/12345/184
+#http://iptv12k.com:35461/test167/12345/184
 
 #EXTINF:-1 group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/19/EMx0OD.png",meWATCH LIVE 1
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=941678&extension=m3u8&play_token=xdbt7BgLik
@@ -460,6 +460,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380104.m3u8
 
 #EXTINF:-1 tvg-id="AstroTutorTVSK" group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/412_144.png",Astro Tutor TV SK 
 http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71030
+
+#EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Animax" ch-number="620" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax
+http://iptv12k.com:35461/test167/12345/605
 
 #☯☯ || MOVIES CHANNELS || ☯☯
 
