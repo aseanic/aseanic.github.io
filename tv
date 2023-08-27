@@ -121,8 +121,19 @@ http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1724
 #http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=571226&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroAOD354" ch-number="354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 354
-#https://ktpremium.com:443/live/LT1236/4566/25993.m3u8
+http://iptv12k.com:35461/test167/12345/701
 
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
+http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
+
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png",Astro Live Event 2
+http://dmtn.tv:8080/live/steveny5997/54332611/380011.m3u8
+
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAH4Jr.png",Astro Live Event 3
+#http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71026
+#http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71079
+#http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71105
+http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71146
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
@@ -603,7 +614,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379986.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" ch-number="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71109
-http://dmtn.tv:8080/live/steveny5997/54332611/380017.m3u8
+http://dmtn.tv:8080/live/steveny5997/54332611/380012.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV 1
 #https://ktpremium.com:443/live/LT1236/4566/26318.m3u8
@@ -641,6 +652,9 @@ http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71108
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="WWENetwork" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1698
 http://dmtn.tv:8080/live/steveny5997/54332611/380007.m3u8
+
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="FightSports" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
+http://iptv12k.com:35461/test167/12345/946
 
 #EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
