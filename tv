@@ -515,6 +515,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380037.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 #https://ktpremium.com:443/live/LT1236/4566/26080.m3u8
 
+#EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
 #EXTINF:-1 tvg-id="411.unifi" tvg-name="CinemaWorld" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
 http://iptv12k.com:35461/test167/12345/186
 
@@ -545,7 +548,8 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380168.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png",BBC WORLD
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71122
-http://dmtn.tv:8080/live/steveny5997/54332611/380182.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380182.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -554,7 +558,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71064
 http://dmtn.tv:8080/live/steveny5997/54332611/380172.m3u8
 
-#EXTINF:-1 tvg-id="CNA" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
+#EXTINF:-1 tvg-id="CNA;Singapore" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="CNBCAsia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png",CNBC ASIA
@@ -665,6 +669,9 @@ http://iptv12k.com:35461/test167/12345/946
 
 #EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/09/03/EWPS9j.md.jpg",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #☯☯ || RADIO CHANNELS || ☯☯
 
