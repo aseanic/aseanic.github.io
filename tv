@@ -584,7 +584,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380160.m3u8
 #☯☯ || SPORTS CHANNELS || ☯☯
 
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" ch-number="801" tvg-logo="https://pictr.com/images/2023/05/19/EMxTMA.png",ASTRO Supersport UHD
+#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersportUHD" ch-number="801" tvg-logo="https://pictr.com/images/2023/05/19/EMxTMA.png",ASTRO Supersport UHD
 http://dmtn.tv:8080/live/steveny5997/54332611/379977.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA 1
