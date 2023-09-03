@@ -72,7 +72,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
 http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1706
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-#https://ktpremium.com:443/live/LT1236/4566/913177.m3u8
+http://iptv12k.com:35461/test167/12345/721
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
@@ -513,7 +513,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380036.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/380037.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
-#https://ktpremium.com:443/live/LT1236/4566/26080.m3u8
+http://iptv12k.com:35461/test167/12345/596
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
