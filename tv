@@ -70,6 +70,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1706
+#http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 http://iptv12k.com:35461/test167/12345/721
@@ -101,7 +102,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
 http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1723
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroXiaoTaiYang" ch-number="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",Astro Xiao Tai Yang
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1714
-http://dmtn.tv:8080/live/steveny5997/54332611/380018.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380018.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroShuangXing" ch-number="307" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png",Astro Shuang Xing
 #https://ktpremium.com:443/live/LT1236/4566/25970.m3u8
@@ -125,10 +126,12 @@ http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/1724
 http://iptv12k.com:35461/test167/12345/701
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
-http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
+http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71079
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png",Astro Live Event 2
-http://dmtn.tv:8080/live/steveny5997/54332611/380011.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380011.m3u8
+http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71105
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAH4Jr.png",Astro Live Event 3
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71026
@@ -433,7 +436,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380089.m3u8
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Primetime" ch-number="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png",PRIMEtime
 #https://ktpremium.com:443/live/LT1236/4566/901189.m3u8
-http://dmtn.tv:8080/live/steveny5997/54332611/380049.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380049.m3u8
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="HITS" ch-number="706" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS
 #http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71089
@@ -477,7 +480,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380100.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/380104.m3u8
 
 #EXTINF:-1 tvg-id="AstroTutorTVSK" group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/412_144.png",Astro Tutor TV SK 
-http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71030
+#http://muka03.wanicelife.com:8880/mmNgmvu9uL/Y4qXXjdk2n/71030
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Animax" ch-number="620" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax
 http://iptv12k.com:35461/test167/12345/605
