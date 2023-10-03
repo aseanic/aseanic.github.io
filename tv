@@ -59,12 +59,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158347.m3u8
 #https://ktpremium.com:443/live/LT1236/4566/912833.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
+#https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepprimaa.m3u8
+#https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepprimaa.m3u8
+http://stream1.foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/21.ts?token=HRYOAEAMQVhAVgMGBgAFUwBUBwVTV1UIBAMCBVVQAQdWAVUEVlECVQcWH0YWRRQBAlw7ClMTXgJUGBMUF1RBaQ9QRFsRU1BTVxYfRhFYCwFBC1VVDgRTAFQDAFRIE0NfAhZcQwFcVVtWFh9GAEkSARFfBQ9oVQFGDFdUQ15fRloKGEQOXTsHBw9VXQBHC0RUQR1GCkRBRgoLQV0NSBNRXxJGBxVWRllAUwcCUkcdRAcMRAoXRUhGCkd5aENIE1ZOElEIEloLDUBYFkcXRx1EDRBuFgZERRZVBFlUE0YLEQZEGEQMUhw8AQ1aXQEGRQ8LDUJGWRUARhxHWV4PDUVcRDlEDwURXkFXVQAARhg=
+
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
