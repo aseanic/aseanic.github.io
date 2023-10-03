@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -672,7 +672,8 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379980.m3u8
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/1720
-http://dmtn.tv:8080/live/steveny5997/54332611/379982.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379982.m3u8
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/1719
@@ -695,7 +696,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379995.m3u8
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS 1
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/71104
-http://dmtn.tv:8080/live/steveny5997/54332611/379996.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/379996.m3u8
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
+
 
 #EXTINF:-1 tvg-id="beINSports2" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",BEIN SPORTS 2
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/71102
@@ -703,7 +706,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379998.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/71101
-http://dmtn.tv:8080/live/steveny5997/54332611/380000.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380000.m3u8
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
+
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/71106
@@ -711,7 +716,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380002.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
 #http://muka03.wanicelife.com:8880/29us04223n02/reyger734/71107
-http://dmtn.tv:8080/live/steveny5997/54332611/380009.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380009.m3u8
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/159?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -724,7 +731,8 @@ http://muka03.wanicelife.com:8880/29us04223n02/reyger734/71108
 http://dmtn.tv:8080/live/steveny5997/54332611/380007.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="FightSports" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
-http://iptv12k.com:35461/test167/12345/946
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
+
 
 #EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
