@@ -267,20 +267,25 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71032
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5 
-http://iptv12k.com:35461/test167/12345/328
+#http://iptv12k.com:35461/test167/12345/328
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Channel5HD
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
 #http://iptv12k.com:35461/test167/12345/332
-http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71054
+#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71054
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Channel8HD
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U 
-http://iptv12k.com:35461/test167/12345/330
+#http://iptv12k.com:35461/test167/12345/330
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=ChannelUHD
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria 
-http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1700
+#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1700
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=SuriaHD
 
 #EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Channel Vasantham 
-http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1699
+#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1699
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=VasanthamHD
 
 #EXTINF:-1 tvg-id="ROCK Action HD" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Action
 #https://ktpremium.com:443/live/LT1236/4566/656639.m3u8
