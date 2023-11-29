@@ -119,7 +119,8 @@ http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAecHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroQuanJiaHD" ch-number="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
-http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1728
+#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1728
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroQJ
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1725
