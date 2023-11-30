@@ -101,6 +101,9 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRaniaHD
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71025
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAuraHD
 
+#EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPremierHD
+
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroVaanavil" ch-number="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 #http://dmtn.tv:8080/live/steveny5997/54332611/380143.m3u8
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVaanavilHD
@@ -109,7 +112,8 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVaanavilHD
 http://iptv12k.com:35461/test167/12345/675
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
-http://dmtn.tv:8080/live/steveny5997/54332611/380126.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380126.m3u8
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVellithiraiHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
 http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
@@ -196,6 +200,7 @@ http://dmtn.tv:8080/live/steveny5997/54332611/380186.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBMagic" ch-number="305" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png",TVB Magic
 #https://ktpremium.com:443/live/LT1236/4566/924367.m3u8
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=TVBMagic
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1718
