@@ -21,13 +21,15 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1732
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/07/31/EfPZuZ.png" tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
-http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71024?play_token=shareext
+#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71024?play_token=shareext
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=TVAlhijrah
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/07/31/EfPZuZ.png" tvg-id="TVS" ch-number="122" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg",TVS
-#http://
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=TVS
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/07/31/EfPZuZ.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
-http://dmtn.tv:8080/live/steveny5997/54332611/380132.m3u8
+#http://dmtn.tv:8080/live/steveny5997/54332611/380132.m3u8
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AwesomeTV
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/07/31/EfPZuZ.png" tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1731
@@ -75,7 +77,6 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPrimaHD
 #http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1701
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroOasisHD
-
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2023/04/18/En67pG.png" tvg-id="AstroWarna" ch-number="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
