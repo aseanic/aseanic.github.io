@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" refresh="3600"
+#EXT-X-CERTIFICATE-URI:http://default.chinanetcenter.com
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -63,7 +64,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 #https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
-#EXTVLCOPT:http-referrer=http://wspull.qiandaoapp.com
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
 
