@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -157,7 +157,8 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVaanavilHD
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVinmeenHD" ch-number="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",Astro Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVinmeenHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -175,16 +176,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
-#https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1723
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAecHD
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAecHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQuanJiaHD" ch-number="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0e7dbe25e6c49f9b525e614fc4aa60c:02223965e33f7bf1e6c21278063bb508
-#https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1728
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroQJ
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroQJ
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -524,24 +525,24 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Animax
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",HBO [SG]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",HBO [SG]
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",HBO Hits [SG]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",HBO Hits [SG]
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Singapore" group-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family [SG]
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="Singapore" group-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family [SG]
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Singapore" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature [SG]
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature [SG]
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -679,8 +680,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71120
 #http://dmtn.tv:8080/live/steveny5997/54332611/380070.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",E!
-#http://iptv12k.com:35461/test167/12345/637
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",E! US
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174636&extension=ts
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",E! CA
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176882&extension=ts
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Comedy Central US
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174596&extension=ts
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Comedy Central UK
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30552&extension=ts
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 #http://iptv12k.com:35461/test167/12345/635
@@ -735,8 +745,24 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174626&ex
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45281&extension=ts
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2024/01/06/EyrTW2.png", Discovery Family
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174623&extension=ts
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174625&extension=ts
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2024/01/06/EyrviU.png", Discovery Velocity
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176878&extension=ts
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Turbo.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrFw9.png", Discovery Turbo
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45279&extension=ts
+
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.History.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrJOu.png", Discovery History
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45283&extension=ts
+
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" ch-number="550" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -795,7 +821,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174762&ex
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic CA
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=20535&extension=ts
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic UK
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic UK
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30526&extension=ts
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild UK
@@ -996,7 +1022,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #Movies
 
-#EXTINF:-1 tvg-id="411.unifi" tvg-name="CinemaWorld" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="CinemaWorld" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://visionplus.id 
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
@@ -1294,6 +1320,28 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/09/03/EWPVL9.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF: -1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30493&extension=ts
+#EXTINF: -1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNZ3Y.png" group-title="Sports", SKY SPORTS NEWS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30494&extension=ts
+#EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports", SKY SPORTS MIX
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30495&extension=ts
+#EXTINF: -1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports", SKY SPORTS MAIN EVENT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30496&extension=ts
+#EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports", SKY SPORTS GOLF
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30497&extension=ts
+#EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports", SKY SPORTS FOOTBALL
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30498&extension=ts
+#EXTINF: -1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports", SKY SPORTS F1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30499&extension=ts
+#EXTINF: -1 tvg-id="SkySp.ArenaHD.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="Sports", SKY SPORTS ARENA
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30500&extension=ts
+#EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNg6Z.png" group-title="Sports", SKY SPORTS NFL
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30501&extension=ts
+#EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports", SKY SPORTS CRICKET
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30502&extension=ts
+
+
 #☯☯ || RADIO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
@@ -1452,20 +1500,36 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="988 FM" tvg-logo="https://pictr.com/images/2023/07/12/EIrq7Y.png",988 FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/988.m3u8
+#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/988.m3u8
 
 
 #☯☯ || MUSIC CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
+#EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://pictr.com/images/2024/01/06/EyrXag.png",MTV Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71099
 
+#EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HD.uk" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174760&extension=ts
+#EXTINF:-1 tvg-id="MTV.HD.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr97x.png", MTV
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174759&extension=ts
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrRpv.png", MTV2
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174758&extension=ts
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrqjV.png", MTVU
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174761&extension=ts
+#EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr3iQ.png", MTV Hits
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45264&extension=ts
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrDI1.png", MTV Club
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45265&extension=ts
+#EXTINF:-1 tvg-id="MTV.80s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyN0aA.png", MTV 80s
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45266&extension=ts
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyNE7I.png", MTV 00s
+http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45267&extension=ts
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
 
@@ -1726,7 +1790,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 
 
-#Religi
+#Religion
 
 #EXTINF:0 tvg-id+'id="MuslimTV.id"" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
