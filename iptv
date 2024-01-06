@@ -706,7 +706,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30552&ext
 
 #☯☯ || KIDS CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Astro;Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroCeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria
+#EXTINF:-1 group-title="Kids;Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroCeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
@@ -714,7 +714,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/380100.m3u8
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCeriaHD
 
-#EXTINF:-1 tvg-id="AstroTutorTVSMK" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV SMK
+#EXTINF:-1 tvg-id="AstroTutorTVSMK" group-title="Kids;Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV SMK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
@@ -826,54 +826,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71037
 #http://dmtn.tv:8080/live/steveny5997/54332611/380037.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#http://iptv12k.com:35461/test167/12345/596
-#http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
-
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="Thrill.hk" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-#http://iptv12k.com:35461/test167/12345/261
-
-#Movies
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="CinemaWorld" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#EXTINF:0 tvg-id="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",IMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:0 tvg-id="GALAXY" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
-https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#EXTINF:0 tvg-id="GALAXYPremium" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
-https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Zee Bioskop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
-https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #☯☯ || NEWS CHANNELS || ☯☯
 
@@ -1784,7 +1738,44 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
+#Movies
 
+#EXTINF:-1 tvg-id="Thrill.hk" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#http://iptv12k.com:35461/test167/12345/261
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;CinemaWorld" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:0 tvg-id="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:0 tvg-id="GALAXY" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:0 tvg-id="GALAXYPremium" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #Religion
 
