@@ -1419,19 +1419,19 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Animax
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://pictr.com/images/2024/01/08/Eyz6F9.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1441,7 +1441,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
