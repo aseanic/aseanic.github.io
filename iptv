@@ -89,16 +89,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
 #https://linears-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
-#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
+http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1702
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPrimaHD
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPrimaHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,8 +113,8 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroOasisHD
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzUrKeL5iqw_9atJ6Dnlv8k=-VNo/dash-wv/jitp-linearwm/2402/default.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
-#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,8 +124,8 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
-#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
+#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
+http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
