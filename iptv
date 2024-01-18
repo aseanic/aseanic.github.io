@@ -47,7 +47,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
-https://linearjitp0202-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/380132.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AwesomeTV
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71021?play_token=shareext
@@ -162,7 +162,7 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71025
 #EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
-https://linearjitp0202-playback.astro.com.my/dash-wv/linear/5070/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPremierHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" ch-number="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
@@ -182,7 +182,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" ch-number="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
-https://linearjitp0202-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/380126.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVellithiraiHD
  
@@ -739,7 +739,7 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71080
 #EXTINF:-1 tvg-id="AstroTutorTV" group-title="Kids;Astro" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV SMK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
-https://linearjitp0202-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/380104.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" ch-number="615" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
@@ -833,7 +833,7 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71058
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Showcase" ch-number="413" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-https://linearjitp0202-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 #http://dmtn.tv:8080/live/steveny5997/54332611/380052.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" ch-number="411" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
@@ -1048,7 +1048,7 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1713
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://linearjitp0202-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71109
 #http://dmtn.tv:8080/live/steveny5997/54332611/380012.m3u8
 
