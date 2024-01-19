@@ -993,6 +993,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroArena2HD
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://pictr.com/images/2023/05/13/E8ulc6.png",ASTRO ARENA BOLA 1
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
@@ -1001,6 +1002,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroArenaBola1HD
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png",ASTRO ARENA BOLA 2
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
@@ -1009,6 +1011,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroArenaBola2HD
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
@@ -1018,6 +1021,7 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1722
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroSupersport1HD
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
@@ -1027,6 +1031,7 @@ http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1721
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroSupersport2HD
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
 https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
