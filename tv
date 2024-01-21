@@ -517,10 +517,10 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=20535&ext
 #EXTINF:-1 tvg-id="Nat.Geo.HD.uk" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic UK
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30526&extension=ts
 
-#EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic Asia
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic Asia
 http://ktpremium.com:2095/PPT6832/62843/26197
 
-#EXTINF:-1 tvg-id="NatGeoWild" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild Asia
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild Asia
 http://ktpremium.com:2095/PPT6832/62843/26205
 
 #EXTINF:-1 tvg-id="NatGeoWild.HD.uk" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild UK
