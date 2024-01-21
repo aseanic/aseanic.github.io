@@ -409,7 +409,7 @@ http://ktpremium.com:2095/PPT6832/62843/26291
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 #http://iptv12k.com:35461/test167/12345/635
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
+#EXTINF:-1 tvg-id="Travelxp HD" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorChannel" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
@@ -421,7 +421,7 @@ https://outsidetv-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8ndG.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Global Fashion Channel
 #https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Local.Programming.Dummy.us" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2024/01/07/EyUIxc.png", FashionTV⁴ᴷ
+#EXTINF:0 type="stream" tvg-id="FashionTV HD" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2024/01/07/EyUIxc.png", FashionTV⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Fashion TV Midnight Secrets HD
@@ -664,7 +664,7 @@ http://ktpremium.com:2095/PPT6832/62843/26076
 #http://dmtn.tv:8080/live/steveny5997/54332611/380034.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="414" tvg-id="HBOFamily1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
-http://ktpremium.com:2095/PPT6832/62843/916400.m3u8
+http://ktpremium.com:2095/PPT6832/62843/916400
 #http://dmtn.tv:8080/live/steveny5997/54332611/380036.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="415" tvg-id="HBOHits1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
