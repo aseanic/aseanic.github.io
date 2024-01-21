@@ -383,7 +383,8 @@ http://ktpremium.com:2095/PPT6832/62843/26286
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=FoodNetworkHD
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71092
+http://ktpremium.com:2095/PPT6832/62843/916125
+$http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71092
 #http://dmtn.tv:8080/live/steveny5997/54332611/380074.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AsianFoodNetworkHD
 
@@ -470,7 +471,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45279&ext
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.History.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrJOu.png", Discovery History
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45283&extension=ts
-
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191959
@@ -1194,7 +1194,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #http://ktpremium.com:2095/PPT6832/62843/73607
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
-#http://210.210.155.37/qwr9ew/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
+http://37.49.225.197:8080/F33476/7458dae3/298550
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
 http://103.152.118.53:8000/oxygen/nettv-hd/index.m3u8?token=J6f9LiQpR54w8nrE
