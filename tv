@@ -1097,6 +1097,9 @@ http://ktpremium.com:2095/PPT6832/62843/25848
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191887
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=RockEntertainment
 
+#EXTINF:-1 group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="HITSNow" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW 
+http://ktpremium.com:2095/PPT6832/62843/25990
+
 #EXTINF:-1 tvg-id="Animax HD" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
 http://ktpremium.com:2095/PPT6832/62843/26240
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191845
