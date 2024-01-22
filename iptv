@@ -123,7 +123,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHTK5Fr9pZ-C0vhBRUiyoU2E=LiR-/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
@@ -142,7 +141,7 @@ https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrfooGsoSfYHUoQ5Y
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#https://linears-playback.astro.com.my/vsg/419Ajf15x1bWlOH8AoCeMdfNvFENh79-Y-_iLi-siAHNY=bV46/dash-wv/jitp-dashisowm/2700/default_primary.mpd?PID=&PAID=2700&deviceIdType=adid&deviceId=955a05bf820f37d35177f8dfa71a3ffb&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-decbd7fe-b144-4a31-9535-8bad6ff97999&optin=true&hhid=2b210a8531cb05efadbe465c3fc4e515&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
+#https://linears-playback.astro.com.my/vsg/419Ajf15x1bWlOH8AoCeMdfNvFENh79-Y-_iLi-siAHNY=bV46/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 http://ktpremium.com:2095/PPT6832/62843/25852
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
@@ -156,12 +155,10 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
 
-
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mpd
-
 
 #EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
