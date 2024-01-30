@@ -6,32 +6,25 @@ https://22283.live.streamtheworld.com/BFMAAC.aac
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Malaysia"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
-#https://astro1.rastream.com/hitz
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6Fh/live
+https://stream.rcs.revma.com/488kt4sbv4uvv/4_wz3vwwfr778l02/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="MY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
-#https://astro1.rastream.com/myfm
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live
+https://stream.rcs.revma.com/hc3unrtbv4uvv/5_2nil8rpupjuw02/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
-#https://astro2.rastream.com/mix
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyqo8U-nWSCHyxWnI8zbQyA/live
+https://stream.rcs.revma.com/v5pq3htbv4uvv/1_1iq54zaftd1pn02/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="LITE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
-#https://astro2.rastream.com/lite
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzDknC7OXx6l9eEsgugjU2w/live
+https://n02.rcs.revma.com/bn4ex8sbv4uvv?rj-ttl=5&rj-tok=AAABjVg9MS8A1SugSBLfa_5dbQ
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
-#https://astro2.rastream.com/era
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNq5APn4lVabRaYCnTxiNIg/live
+https://stream.rcs.revma.com/crec9cmbv4uvv/5_169p6814wdxdj02/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia"  tvg-id="SINAR"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
-#https://astro2.rastream.com/sinar
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg/live
+https://stream.rcs.revma.com/azatk0tbv4uvv/5_38voejof20x202/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="MELODY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
-#https://astro3.rastream.com/melody
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCVSW8HjAJIEblPVzk_enSBQ/live
+https://n07a-eu.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjFwRjLEAEt28uBBwa5thng
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="RAAGA"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
 #https://astro3.rastream.com/raaga
@@ -50,9 +43,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaRuKPnl1Mw9z
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXczYiv1zJ__Q0lpPyAUMQ/live
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-#https://astro3.rastream.com/gegar
-#plugin://plugin.video.youtube/play/?video_id=2JkDaTCls3I
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCd4d3fL-QZPCd9vMiUFhXLQ/live
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/1_1x9iy8cr54xp802/playlist.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="24.7.Dummy.us" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
 #https://mediaprima.rastream.com/mediaprima-hotfm
