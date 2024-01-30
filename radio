@@ -533,7 +533,7 @@ http://node-02.zeno.fm:80/1n8mba13zqruv?rj-ttl=5&rj-tok=AAABd71VoMIAqmerQClkP_PC
 https://i.klikhost.com/8274/;stream.mp3
 
 #☯☯ || PHILIPPINES CHANNELS || ☯☯
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2023/02/03/ElL191.png" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Super Radyo DZBB
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2023/02/03/ElL191.png" tvg-id="24.7.Dummy.us" radio="true" group-title="Radio-PH",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLfKFH5.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",DZRH News
 https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
