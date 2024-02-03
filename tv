@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -723,11 +723,6 @@ http://ktpremium.com:2095/PPT6832/62843/26156
 #http://dmtn.tv:8080/live/steveny5997/54332611/380172.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=SkyNewsHD
 
-#EXTINF:-1 tvg-id="CNA" group-title="News;Singapore" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191903
-#http://ktpremium.com:2095/PPT6832/62843/25837
-
 #EXTINF:-1 tvg-id="CNBCAsia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png",CNBC ASIA
 http://ktpremium.com:2095/PPT6832/62843/26195
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71098
@@ -1094,6 +1089,12 @@ http://ktpremium.com:2095/PPT6832/62843/25848
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1699
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=VasanthamHD
 
+#EXTINF:-1 tvg-id="CNA" group-title="Singapore;News" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191903
+#http://ktpremium.com:2095/PPT6832/62843/25837
+
+
 #EXTINF:-1 tvg-id="ROCK Action HD" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Action
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=RockAction
 
@@ -1191,14 +1192,14 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extensi
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Indosiar.id"  tvg-logo="https://i.postimg.cc/VkqBd3X2/indosiar.png", Indosiar
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-#http://ktpremium.com:2095/PPT6832/62843/73617
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+http://ktpremium.com:2095/PPT6832/62843/73617
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/XNrPpYqh/sctv.png", SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-#http://ktpremium.com:2095/PPT6832/62843/73607
+#http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+http://ktpremium.com:2095/PPT6832/62843/73607
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
 http://37.49.225.197:8080/F33476/7458dae3/298550
@@ -1274,16 +1275,16 @@ http://37.49.225.197:8080/F33476/7458dae3/166416
 
 #Entertainment
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",FMN
+#EXTINF:0 tvg-id="FMN.id" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",FMN
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60465
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_94.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",Vision Prime
+#EXTINF:0 tvg-id="VisionPrime.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_94.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",Vision Prime
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60280
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",OK TV
+#EXTINF:0 tvg-id="OKTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",OK TV
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60484 
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_86.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment",ENT 
+#EXTINF:0 tvg-id="Ent.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_86.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment",ENT 
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60278
 
 #Sports 
