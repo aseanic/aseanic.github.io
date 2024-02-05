@@ -980,6 +980,9 @@ https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30494&extension=ts
 
 #EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports", SKY SPORTS MIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7305fa96d356316f2d544bfc78a6922c:0003a6c61c2b2f7f0a9d760ac83c06d8
+https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30495&extension=ts
 
 #EXTINF: -1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports", SKY SPORTS MAIN EVENT
@@ -989,6 +992,9 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30496&extension=ts
 
 #EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports", SKY SPORTS GOLF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3546a8bd8d03e6f3ca48629ea45ebb8:0003276bbe0b7f5c9c05ec201bddf545
+https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_hd/Live/channel(skysportsgolf)/manifest_hd.mpd
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30497&extension=ts
 
 #EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports", SKY SPORTS FOOTBALL
@@ -1010,7 +1016,15 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30500&ext
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30501&extension=ts
 
 #EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports", SKY SPORTS CRICKET
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30502&extension=ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df0ec40586d641f3d4728ab5fd62adc3:0003f2a72d21efd159d45a3a74decd84
+https://linear002-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(skysportscricket)/manifest_hd.mpd
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30502&extension=ts
+
+#EXTINF: -1 tvg-id="SkySpNBA.HD.uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_NBA.png" group-title="Sports", SKY SPORTS NBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea5626c0aa092c382ca58151b5f4b208:0036c4e453ae2a044f4c861ed73b560a
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
 
 
 #☯☯ || RADIO CHANNELS || ☯☯
