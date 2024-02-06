@@ -127,7 +127,7 @@ https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSy7Oj8Cv4iUPFYI
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfse_nKgf23cxebr08B8IPhQ=Fy4U/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
