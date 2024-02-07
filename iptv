@@ -508,7 +508,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 #http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174626&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45281&extension=ts
@@ -615,7 +615,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! CA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176882&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176882&extension=ts
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174596&extension=ts
