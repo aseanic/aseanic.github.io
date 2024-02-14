@@ -128,8 +128,8 @@ http://ktpremium.com:2095/PPT6832/62843/25852
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #http://dmtn.tv:8080/live/steveny5997/54332611/380128.m3u8
@@ -160,6 +160,7 @@ http://ktpremium.com:2095/PPT6832/62843/25959
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 #http://dmtn.tv:8080/live/steveny5997/54332611/380126.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVellithiraiHD
+http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71100?play_token=shareext
  
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
 #http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
@@ -275,8 +276,8 @@ http://ktpremium.com:2095/PPT6832/62843/25972
 #http://dmtn.tv:8080/live/steveny5997/54332611/380020.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",TVB Entertainment News
-http://mytv-extra.com:80/t12mgxyb335/9832948789/192006
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71043
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/192006
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71043
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
 http://ktpremium.com:2095/PPT6832/62843/25977
@@ -317,8 +318,8 @@ http://ktpremium.com:2095/PPT6832/62843/26181
 http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71036
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunMusic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191993
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71029
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191993
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71029
 #http://dmtn.tv:8080/live/steveny5997/54332611/380142.m3u8
 
 #EXTINF:-1  group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
@@ -458,7 +459,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 #http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174626&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45281&extension=ts
