@@ -1169,24 +1169,22 @@ http://ktpremium.com:2095/PPT6832/62843/73619
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://i.postimg.cc/wBPhPgzy/inews.png",iNews
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/inews.m3u8
+http://103.113.116.150:25461/mtm1/12345/8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="ANTV.id" tvg-logo="https://i.postimg.cc/HL3wtXZ2/antv.png",ANTV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Indosiar.id"  tvg-logo="https://i.postimg.cc/VkqBd3X2/indosiar.png", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+http://103.113.116.150:25461/mtm1/12345/3
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/XNrPpYqh/sctv.png", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
+http://103.113.116.150:25461/mtm1/12345/4
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
 http://37.49.225.197:8080/F33476/7458dae3/298550
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
-http://103.152.118.53:8000/oxygen/nettv-hd/index.m3u8?token=J6f9LiQpR54w8nrE
+http://103.113.116.150:25461/mtm1/12345/11
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MetroTV.id" tvg-logo="https://i.postimg.cc/nhFY93Tz/metro-tv.png",Metro TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extension=ts&play_token=GVZS088tcf 
@@ -1213,10 +1211,10 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extensi
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60285
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="tvOne.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+http://103.113.116.150:25461/mtm1/12345/9
 
 #EXTINF:-1 tvg-id="SEAToday" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
-
+https://link.zozotv.xyz:443/rozila969/abc12345/145
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
@@ -1225,10 +1223,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RTV" tvg-logo="https://pictr.com/images/2023/05/18/E8snHv.png",Rajawali TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%2841869351-4a9c-4e57-b54b-8cf5dfc919e1%29/index.m3u8 
+#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%2841869351-4a9c-4e57-b54b-8cf5dfc919e1%29/index.m3u8 
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TVRI.id" tvg-logo="https://pictr.com/images/2023/05/18/E8s4nV.png",TVRI Nasional
-http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53965
+https://link.zozotv.xyz:443/rozila969/abc12345/359
 
 #EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JAK TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf
