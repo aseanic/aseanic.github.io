@@ -179,7 +179,7 @@ https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrZMP6NdDdeUdLMmf
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpJZfBESU-5ThOqfadHlCXVA=twBb/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpJZfBESU-5ThOqfadHlCXVA=twBb/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
