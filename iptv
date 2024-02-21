@@ -172,7 +172,8 @@ https://linears-playback.astro.com.my/vsg/41LA3Vg1DbNDzt62QgDhxO2L1FDFvoPatJAgVd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 https://linears-playback.astro.com.my/vsg/41xQh1MqYZ305uP-o2O606rds9HxsfBYa5ETf7AZwie28=whKJ/dash-wv/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
