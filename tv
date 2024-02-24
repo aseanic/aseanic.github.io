@@ -112,8 +112,9 @@ http://ktpremium.com:2095/PPT6832/62843/25852
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
+http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #http://dmtn.tv:8080/live/steveny5997/54332611/380128.m3u8
@@ -223,6 +224,9 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 #☯☯ || CHINESE CHANNELS || ☯☯
+
+#EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="LongLongFun" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",LongLongFun
+http://50.7.234.10:8278/Prima/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
 http://ktpremium.com:2095/PPT6832/62843/25961
