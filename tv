@@ -444,13 +444,6 @@ http://ktpremium.com:2095/PPT6832/62843/26209
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.HDTV.(SCIHD).us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71073
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174626&extension=ts
-
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
-
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45281&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
@@ -508,26 +501,18 @@ http://ktpremium.com:2095/PPT6832/62843/26288
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174762&extension=ts
 
-#EXTINF:-1 tvg-id="National.Geographic.Canada.HDTV.(NGCHD).ca" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic CA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=20535&extension=ts
-
-#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic UK
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30526&extension=ts
-
-#EXTINF:-1 tvg-id="NatGeoWild.HD.uk" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild UK
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53363
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=30525&extension=ts
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.HDTV.(East).(SMITHHD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Gon.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" ,Smithsonian
 #https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53561
 
 #EXTINF:-1 tvg-id="NASA.Television.(NASA).us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
-
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="AXN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
 http://ktpremium.com:2095/PPT6832/62843/26282
@@ -560,15 +545,11 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71135
 #http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174636&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! CA
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176882&extension=ts
-
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174596&extension=ts
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
 
-#EXTINF:-1 tvg-id="ComedyCentHD.uk" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central UK
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30552&extension=ts
-
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53319
 
 #☯☯ || KIDS CHANNELS || ☯☯
 
@@ -617,13 +598,11 @@ http://ktpremium.com:2095/PPT6832/62843/912562
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191980
 
 #EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png", Disney Channel
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174628&extension=ts
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUCqf.png", Disney Junior Music
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174629&extension=ts
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
 #EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png", Disney Junior
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174630&extension=ts
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53479
 #EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png", Disney XD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174632&extension=ts
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
 
 #☯☯ || MOVIES CHANNELS || ☯☯
 
