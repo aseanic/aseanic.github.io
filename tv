@@ -447,22 +447,22 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174623&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174623&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Life.Channel.(DLIF).us"  tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174625&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174625&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/54963
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Velocity.HDTV.(DVHD).ca"  tvg-logo="https://pictr.com/images/2024/01/06/EyrviU.png", Discovery Velocity
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176878&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176878&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53671
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Turbo.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrFw9.png", Discovery Turbo
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45279&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45279&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.History.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrJOu.png", Discovery History
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45283&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45283&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191959
@@ -542,7 +542,7 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71135
 #http://dmtn.tv:8080/live/steveny5997/54332611/380149.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! US
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174636&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174636&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
@@ -854,25 +854,25 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF: -1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30493&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30493&extension=ts
 #EXTINF: -1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNZ3Y.png" group-title="Sports", SKY SPORTS NEWS
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30494&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30494&extension=ts
 #EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports", SKY SPORTS MIX
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30495&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30495&extension=ts
 #EXTINF: -1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports", SKY SPORTS MAIN EVENT
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30496&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30496&extension=ts
 #EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports", SKY SPORTS GOLF
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30497&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30497&extension=ts
 #EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports", SKY SPORTS FOOTBALL
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30498&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30498&extension=ts
 #EXTINF: -1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports", SKY SPORTS F1
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30499&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30499&extension=ts
 #EXTINF: -1 tvg-id="SkySp.ArenaHD.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="Sports", SKY SPORTS ARENA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30500&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30500&extension=ts
 #EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNg6Z.png" group-title="Sports", SKY SPORTS NFL
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30501&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30501&extension=ts
 #EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports", SKY SPORTS CRICKET
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30502&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30502&extension=ts
 
 
 #☯☯ || RADIO CHANNELS || ☯☯
@@ -980,21 +980,21 @@ http://ktpremium.com:2095/PPT6832/62843/26298
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191957
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174760&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174760&extension=ts
 #EXTINF:-1 tvg-id="MTV.HD.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr97x.png", MTV
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174759&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174759&extension=ts
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrRpv.png", MTV2
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174758&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174758&extension=ts
 #EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrqjV.png", MTVU
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174761&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174761&extension=ts
 #EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr3iQ.png", MTV Hits
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45264&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45264&extension=ts
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrDI1.png", MTV Club
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45265&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45265&extension=ts
 #EXTINF:-1 tvg-id="MTV.80s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyN0aA.png", MTV 80s
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45266&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45266&extension=ts
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyNE7I.png", MTV 00s
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45267&extension=ts
+#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45267&extension=ts
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
 
@@ -1318,96 +1318,97 @@ http://37.49.225.197:8080/F33476/7458dae3/157585
 #EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Tawaf TV
 http://muka03.wanicelife.com:8880/48msk050004/62869843/60346
 
-#☯☯ || THAILAND CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="NBT 2 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT 2 HD
+#☯☯ || THAI CHANNELS || ☯☯
+
+#EXTINF:-1 tvg-id="NBT 2 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
 
-#EXTINF:-1 tvg-id="TPBS.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/OFsQwvv.png",TPBS
+#EXTINF:-1 tvg-id="TPBS.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
 
-#EXTINF:-1 tvg-id="ALTV4.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
+#EXTINF:-1 tvg-id="ALTV4.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.png",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
 
-#EXTINF:-1  tvg-id="TV5 HD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
+#EXTINF:-1  tvg-id="TV5 HD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.png",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
+#EXTINF:-1 tvg-id="Boomerang.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Boomerang_2.png",Boomerang Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
-#EXTINF:-1 tvg-id="T-Sports7.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-Sports7
+#EXTINF:-1 tvg-id="T-Sports7.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/T-SPorts_7_Final.png",T-Sports7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 
-#EXTINF:-1 tvg-id="Parliament.th" group-title="Thailand" tvg-logo="https://i.imgur.com/Jfdy937.png",Parliament
+#EXTINF:-1 tvg-id="Parliament.th" group-title="Thailand" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png",Parliament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
 
-#EXTINF:-1  tvg-id="TNN.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN
+#EXTINF:-1  tvg-id="TNN.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R2_0053.png",TNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
 
-#EXTINF:-1 tvg-id="TVB Thai.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB Thai
+#EXTINF:-1 tvg-id="TVB Thai.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBThai.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JKN 18.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
+#EXTINF:-1 tvg-id="JKN 18.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 
-#EXTINF:-1 tvg-id="Nation TV.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
+#EXTINF:-1 tvg-id="Nation TV.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0021.png",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 
-#EXTINF:-1 tvg-id="Workpoint TV.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/oxf6BRn.png",Workpoint TV
+#EXTINF:-1 tvg-id="Workpoint TV.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0015_R.png",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 
-#EXTINF:-1 tvg-id="True 4 U.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/tXb8NiE.png",True 4 U
+#EXTINF:-1 tvg-id="True 4 U.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0054.png",True 4 U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
 
-#EXTINF:-1 tvg-id="GMM25.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM25
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0019.png",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
 
-#EXTINF:-1 tvg-id="CH8.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH8
+#EXTINF:-1 tvg-id="CH8.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0006.png",CH8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 
-#EXTINF:-1 tvg-id="MONO.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO
+#EXTINF:-1 tvg-id="MONO.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0016.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
 
-#EXTINF:-1 tvg-id="MCOT HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
+#EXTINF:-1 tvg-id="MCOT HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
 
-#EXTINF:-1 tvg-id="ONE 31 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/9apyiI0.png",ONE 31 HD
+#EXTINF:-1 tvg-id="ONE 31 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0012.png",ONE 31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
 
-#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/ArasZJO.png",Thairath TV HD
+#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0013_R.png",Thairath TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 
-#EXTINF:-1 tvg-id="3 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/lHbIKfF.png",3 HD
+#EXTINF:-1 tvg-id="3 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.png",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 
-#EXTINF:-1 tvg-id="AmarinTV HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/S6gvvf9.png",AmarinTV HD
+#EXTINF:-1 tvg-id="AmarinTV HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 
-#EXTINF:-1 tvg-id="CH7 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/vxnLkTz.png",CH7 HD
+#EXTINF:-1 tvg-id="CH7 HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 
-#EXTINF:-1 tvg-id="PPTV HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
+#EXTINF:-1 tvg-id="PPTV HD.th" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
