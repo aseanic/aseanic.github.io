@@ -117,7 +117,7 @@ http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe62
 #http://ktpremium.com:2095/A1270/3388/25867
 ##http://ktpremium.com:2095/A1270/3388/912836
 #http://metatvpro.com:25461/live/LT186743/8181/16.m3u8
-http://50.7.234.10:8278/ /playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
