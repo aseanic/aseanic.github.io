@@ -91,7 +91,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-id="116.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",Sensasi 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
+https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227598.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT%2FE8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704175902%3AUTC%2C1004320541%2C14.1.254.135%2C20230704175902%2Curn:Huawei:liveTV:XTV55631601%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.186_80&hms_devid=1790&it=H4sIAAAAAAAAA0XMwQoCIRCA4bfxKDrGrh08FUEXCba6xuSMsmAr6bbQ28dG0P3__rli4OPedZFsH_vQxaA2AMYimUAKtwY0IZNo_PTFGREw53FKvtDKrsPuppVUEkBLsOK87g4Zk4Nv6V-PO9c_G7guY2BHLcoFm8SUKiecxzLJU8b3peZf8gEXj9EWmQAAAA
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -877,38 +877,29 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://pictr.com/images/2023/05/13/E8ulc6.png",ASTRO ARENA BOLA 1
-#https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-http://ktpremium.com:2095/live/PPT6832/62843/912889.m3u8
-
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png",ASTRO ARENA BOLA 2
-#https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-http://ktpremium.com:2095/live/PPT6832/62843/912890.m3u8
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
-http://ktpremium.com:2095/live/PPT6832/62843/26312.m3u8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tVXhNelEyTUdJdFlqVmxaQzAwWVRObExXRTNNMkV0T1RRMlpUYzJPV1F3TTJZMSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDgxMzcyMSwiaWF0IjoxNzAwMjA5NzIxfQ.-YTH9ihJNWGAjnqGNC44zu23e4Ru33UcnaufeePNbb8"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
-#https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-http://ktpremium.com:2095/live/PPT6832/62843/26313.m3u8
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default.mpd
+http://metatvpro.com:25461/live/C783388/36785/145.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
-#https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
-#https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvLiKxMijhSc_w_7t8ycVvps=FrJy/dash-wv/jitp-dashisowm/2701/default.mpd
-http://ktpremium.com:2095/live/PPT6832/62843/26314.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
