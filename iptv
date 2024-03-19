@@ -310,11 +310,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 #☯☯ || CHINESE CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="LongLongFun" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",LongLongFun
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5112
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5112/default.mpd
-
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
