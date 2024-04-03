@@ -159,14 +159,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-https://linears-playback.astro.com.my/vsg/41lBuT6FEwXD_nQ60n9Vx4D7RmINNqtE8KsAHCBP_7vA8=TB4v/dash-wv/jitp-linearwm/1004/default_ott.mpd
-#http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#https://linears-playback.astro.com.my/vsg/41lBuT6FEwXD_nQ60n9Vx4D7RmINNqtE8KsAHCBP_7vA8=TB4v/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://mykingtv.net:2082/mkhairil77/60192752752/8445
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 https://linears-playback.astro.com.my/vsg/41nwJaCgtNqzuF_vdq9G7pz4Vy-SPf52jACjIuIC-Oh1k=erKD/dash-wv/jitp-linearwm/1000/default_primary.mpd
-#http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -176,21 +176,20 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-https://linears-playback.astro.com.my/vsg/41BkgTICUam6HwBbIYx3GUCa3q0LHz6mavdo8JNiZPgug=gM74/dash-wv/jitp-dashisowm/2402/default_primary.mpd
-#http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#https://linears-playback.astro.com.my/vsg/41BkgTICUam6HwBbIYx3GUCa3q0LHz6mavdo8JNiZPgug=gM74/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+http://startv365.com:80/live/0664251418/9924187372/191874.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://linears-playback.astro.com.my/vsg/416SxC7TczLdoc692N4HwTREPc9CkSVmNlAE-Dk1DS584=DpgG/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-#http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#https://linears-playback.astro.com.my/vsg/416SxC7TczLdoc692N4HwTREPc9CkSVmNlAE-Dk1DS584=DpgG/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+http://mykingtv.net:2082/mkhairil77/60192752752/8454
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" ch-number="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
 ##https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
-http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -230,13 +229,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5103
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
+http://mykingtv.net:2082/mkhairil77/60192752752/8483
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" ch-number="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2507
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2507/default.mpd
-http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mykingtv.net:2082/mkhairil77/60192752752/8485
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -328,7 +328,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBMagic" ch-number="305" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/501_144.png",TVB Magic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5107/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5107/default.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
