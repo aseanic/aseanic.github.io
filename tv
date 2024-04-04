@@ -1215,9 +1215,21 @@ http://mykingtv.net:2082/mkhairil77/60192752752/5277
 #EXTINF:-1 group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/19/EMxB86.png",meWATCH LIVE 2
 #https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://pictr.com/images/2024/01/08/Eyz6F9.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
 
 #☯☯ || KOREAN CHANNELS || ☯☯
-
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="KBSWorld" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World
 #http://ktpremium.com:2095/A1270/3388/26006
