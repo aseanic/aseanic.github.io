@@ -92,7 +92,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 
 #☯☯ || ASTRO CHANNELS || ☯☯
 
-
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 #http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
@@ -113,11 +112,12 @@ http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1702
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1701
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1701
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroOasisHD
 #http://ktpremium.com:2095/A1270/3388/912835
 #http://metatvpro.com:25461/live/C783388/36785/15.m3u8
 #http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mykingtv.net:2082/mkhairil77/60192752752/8451
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
@@ -1108,10 +1108,34 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="529.unifi" tvg-logo="https://pictr.com/images/2023/05/26/EMkGl8.png",Luxe TV
-https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+#https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/26/EMkLox.png",NASA TV
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
+
+#☯☯ || RADIO CHANNELS || ☯☯
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://pictr.com/images/2023/07/12/EIrOaI.png",Kool101 FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png",8FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
+#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="988 FM" tvg-logo="https://pictr.com/images/2023/07/12/EIrq7Y.png",988 FM
+#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/988.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
