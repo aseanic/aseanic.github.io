@@ -786,13 +786,14 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
 #EXTINF:-1 group-title="News;Astro" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-id="AstroAwani" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest?cb=20200922172412",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #http://ktpremium.com:2095/A1270/3388/26167
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191859
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1704
 #http://dmtn.tv:8080/live/steveny5997/54332611/380056.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAwaniHD
 #http://metatvpro.com:25461/live/C783388/36785/229.m3u8
-http://mykingtv.net:2082/mkhairil77/60192752752/8479
+#http://mykingtv.net:2082/mkhairil77/60192752752/8479
 
 #EXTINF:-1 group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-id="BernamaTV" tvg-logo="https://bernama.com/bm/img/bernama.png",BERNAMA
 #http://ktpremium.com:2095/A1270/3388/26169
