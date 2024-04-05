@@ -165,8 +165,9 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8445
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-https://linears-playback.astro.com.my/vsg/41nwJaCgtNqzuF_vdq9G7pz4Vy-SPf52jACjIuIC-Oh1k=erKD/dash-wv/jitp-linearwm/1000/default_primary.mpd
-http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
+#https://linears-playback.astro.com.my/vsg/41nwJaCgtNqzuF_vdq9G7pz4Vy-SPf52jACjIuIC-Oh1k=erKD/dash-wv/jitp-linearwm/1000/default_primary.mpd
+#http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
+http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
