@@ -1209,17 +1209,17 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
 #☯☯ || MUSIC CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://pictr.com/images/2024/01/06/EyrXag.png",MTV Asia
+#EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533.m3u8
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533.m3u8
 #EXTINF:-1 tvg-id="MTV.HD.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr97x.png", MTV
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369.m3u8
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369.m3u8
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrRpv.png", MTV2
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532.m3u8
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532.m3u8
 #EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrqjV.png", MTVU
 #http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174761&extension=ts
 #EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr3iQ.png", MTV Hits
