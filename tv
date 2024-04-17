@@ -10,10 +10,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #http://ktpremium.com:2095/A1270/3388/25810
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1732
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1732
 ##http://ktpremium.com:2095/A1270/3388/912827
 ##http://ktpremium.com:2095/A1270/3388/912828
 #http://metatvpro.com:25461/live/C783388/36785/3.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8432
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 #https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
@@ -23,12 +24,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVAlhijrah" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
 #http://ktpremium.com:2095/A1270/3388/25906
-http://mytv-extra.com:80/t12mgxyb335/9832948789/192000
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/192000
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71024?play_token=shareext
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=TVAlhijrah
 #http://metatvpro.com:25461/live/C783388/36785/19.m3u8
 #http://50.7.234.10:8278/Alhijrah/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/mkhairil77/60192752752/8480
+http://mykingtv.net:2082/mkhairil77/60192752752/8480
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71148?play_token=shareext
@@ -121,12 +122,13 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8451
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1706
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 #http://ktpremium.com:2095/A1270/3388/25867
 ##http://ktpremium.com:2095/A1270/3388/912836
 #http://metatvpro.com:25461/live/C783388/36785/16.m3u8
 #http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mykingtv.net:2082/mkhairil77/60192752752/8449
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
@@ -138,20 +140,21 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8454
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=Sensasi
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/1705
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 #http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #http://dmtn.tv:8080/live/steveny5997/54332611/380128.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRaniaHD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191866
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191866
 #http://50.7.234.10:8278/Rania/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mykingtv.net:2082/mkhairil77/60192752752/8455
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71025
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71025
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAuraHD
 #http://50.7.234.10:8278/Aura/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mykingtv.net:2082/mkhairil77/60192752752/8456
 
 #EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPremierHD
@@ -207,7 +210,7 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8485
 http://mykingtv.net:2082/mkhairil77/60192752752/8486
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 311
-http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71049?play_token=shareext
+#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71049?play_token=shareext
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAOD352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 352
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AOD352
@@ -443,12 +446,12 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8476
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
 #http://ktpremium.com:2095/A1270/3388/26286
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191925
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191925
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71091
 #http://dmtn.tv:8080/live/steveny5997/54332611/380072.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=FoodNetworkHD
 #http://50.7.234.10:8278/Foodnetwork/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
+http://mykingtv.net:2082/mkhairil77/60192752752/6635
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
 #http://ktpremium.com:2095/A1270/3388/916125
@@ -755,6 +758,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191902
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Showcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
 #http://ktpremium.com:2095/A1270/3388/916399
 #http://dmtn.tv:8080/live/steveny5997/54332611/380052.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8409
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
 #http://ktpremium.com:2095/A1270/3388/26076
