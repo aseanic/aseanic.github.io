@@ -84,6 +84,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8441
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
@@ -110,7 +111,8 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8445
 #http://ktpremium.com:2095/A1270/3388/25862
 #http://metatvpro.com:25461/live/C783388/36785/14.m3u8
 #http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
+#http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8447
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
@@ -1039,6 +1041,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/09/03/EWPVL9.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="MUTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzAGr.png",MUTV
+http://mykingtv.net:2082/mkhairil77/60192752752/7271
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="LFCTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
+http://mykingtv.net:2082/mkhairil77/60192752752/7218
 
 #EXTINF: -1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
 #http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30493&extension=ts
