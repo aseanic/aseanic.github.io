@@ -102,6 +102,7 @@ https://web.hypp.tv:443//PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=cente
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8441
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
@@ -166,7 +167,7 @@ http://mykingtv.net:2082/mkhairil77/60192752752/8444
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfpQr1cOeBDbCN6EsOjqx5Jk=oWxq/dash-wv/jitp-linearwm/1000/default_ott.mpd
-http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
+http://mykingtv.net:2082/mkhairil77/60192752752/8446
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
