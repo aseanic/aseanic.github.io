@@ -1693,6 +1693,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:0 tvg-id="MyCinema" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Mycinema
+http://mykingtv.net:2082/mkhairil77/60192752752/8658
+#EXTINF:0 tvg-id="MyCinemaAsia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",MyCinemaAsia
+http://mykingtv.net:2082/mkhairil77/60192752752/8660
+#EXTINF:0 tvg-id="MyFamilyChannel" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",MyfamilyChannel
+http://mykingtv.net:2082/mkhairil77/60192752752/8662
+
 #Religion
 
 #EXTINF:0 tvg-id+'id="MuslimTV.id"" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Muslim TV
