@@ -67,9 +67,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 
 #EXTINF:-1 tvg-id="118.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",INSPIRASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=1900d0fd8dfd2357ca2685c66628bf07&key=9c105cc68caa9cf65315e06ef50860ab
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #EXTINF:-1 tvg-id="113.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",SALAM HD
