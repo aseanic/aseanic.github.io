@@ -159,9 +159,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHUvkjYx1EzOYylwf2FQTbmk=9Kox/dash-wv/jitp-linearwm/1004/default_ott.mpd
-http://mykingtv.net:2082/mkhairil77/60192752752/8444
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJJMm90PT0maD1HMFpsQVFObVptUmpaUVI9
+#http://mykingtv.net:2082/mkhairil77/60192752752/8444
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
