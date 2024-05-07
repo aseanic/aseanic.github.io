@@ -98,22 +98,22 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 #☯☯ || NATIONAL CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
-https://23733.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
 #EXTINF:-1 tvg-id="NASFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
-https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
 #EXTINF:-1 tvg-id="TRAXXFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
-https://22243.live.streamtheworld.com/TRAXX_FMAAC.aac
+https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 
 #EXTINF:-1 tvg-id="AIFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
-https://23693.live.streamtheworld.com/AI_FMAAC.aac
+https://28093.live.streamtheworld.com/AI_FMAAC.aac
 
 #EXTINF:-1 tvg-id="MINNALFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",MINNAL FM 
-https://22243.live.streamtheworld.com/MINNAL_FMAAC.aac
+https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
 
 #EXTINF:-1 tvg-id="ASYIKFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.6ad70c17.jpg",Radio Asyik
-https://23733.live.streamtheworld.com/ASYIK_FMAAC.aac
+https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",BEST FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv
@@ -139,7 +139,7 @@ https://22243.live.streamtheworld.com/LABUAN_FMAAC.aac
 https://22243.live.streamtheworld.com/KEDAH_FMAAC.aac
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kl.cf9e2e96.jpg",KL FM
-https://23733.live.streamtheworld.com/KL_FMAAC.aac
+https://28103.live.streamtheworld.com/KL_FMAAC.aac
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kelantan.8be90a2d.jpg",Kelantan FM
 https://22243.live.streamtheworld.com/KELANTAN_FMAAC.aac
