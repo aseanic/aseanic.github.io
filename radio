@@ -264,9 +264,9 @@ https://19183.live.streamtheworld.com/OLI968FM_PREM
 
 #☯☯ || INDONESIA CHANNELS || ☯☯
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Ardan Radio
-http://listento.ardanradio.com:1059/;
+http://listento.ardanradio.com:1059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/10AMLB7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bahana FM
-http://stream.bahanafm.co.id:8100/;
+https://s1.cloudmu.id/listen/bahana/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PxKGf3.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bahtera Yudha FM
 http://streaming.bahterayudhafm.com:8050/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxrbLeH.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bali United FM
@@ -274,17 +274,17 @@ http://sgp1.onlivestreaming.net:10690/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0z7ldFJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Brava Radio
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZ3uMC6.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Delta FM
-http://live.masima.cloud:9002/deltafm
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",EBS FM
 http://streaming.suzanafm.com:8100/;stream.nsv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T0J1BLp.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elfara FM
-http://207.244.251.202:8300/;stream.mp3
+http://pu.klikhost.com:8192/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vs1emEN.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elshinta
 https://stream-ssl.arenastreaming.com:8000/jakarta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxu6Ots.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",FBI Radio Bali
-http://server.fbifm.com:9180/fbibaliradio
+https://fbi.siar.us:8100/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCQdUKT.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gajahmada FM
-https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+https://server.radioimeldafm.co.id/listen/gajahmadafm/gajahmadafm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMKLrdx.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gamasi
 http://45.64.97.211:9504/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tE876xm.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gen FM Jakarta
