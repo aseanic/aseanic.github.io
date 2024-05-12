@@ -105,10 +105,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://ktpremium.com:2095/A1270/3388/912833
 #http://metatvpro.com:25461/live/C783388/36785/13.m3u8
 #http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8445
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8445
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6575.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6576.m3u8
-http://hotz.vip:2082/live/zoufafa/zoufafa/6577.m3u8
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6577.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
@@ -118,9 +118,9 @@ http://hotz.vip:2082/live/zoufafa/zoufafa/6577.m3u8
 #http://metatvpro.com:25461/live/C783388/36785/14.m3u8
 #http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #http://startv365.com:80/live/0664251418/9924187372/191865.m3u8
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8447
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8447
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8
-http://hotz.vip:2082/live/zoufafa/zoufafa/6579.m3u8
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6579.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://dmtn.tv:8080/live/steveny5997/54332611/380022.m3u8
@@ -129,27 +129,27 @@ http://hotz.vip:2082/live/zoufafa/zoufafa/6579.m3u8
 #http://ktpremium.com:2095/A1270/3388/912835
 #http://metatvpro.com:25461/live/C783388/36785/15.m3u8
 #http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8451
-http://hotz.vip:2082/live/zoufafa/zoufafa/6574.m3u8
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8451
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6574.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 #http://ktpremium.com:2095/A1270/3388/25867
 ##http://ktpremium.com:2095/A1270/3388/912836
 #http://metatvpro.com:25461/live/C783388/36785/16.m3u8
 #http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8449
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8449
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 #http://ktpremium.com:2095/A1270/3388/25852
 #http://metatvpro.com:25461/live/C783388/36785/17.m3u8
 #http://50.7.234.10:8278/Citra/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8454
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8454
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6582.m3u8
-http://hotz.vip:2082/live/zoufafa/zoufafa/6583.m3u8
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6583.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Astro Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
@@ -162,15 +162,15 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRaniaHD
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191866
 #http://50.7.234.10:8278/Rania/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8455
-http://hotz.vip:2082/live/zoufafa/zoufafa/6585.m3u8
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8455
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6585.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/71025
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroAuraHD
 #http://50.7.234.10:8278/Aura/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8456
-http://hotz.vip:2082/live/zoufafa/zoufafa/6586.m3u8
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/8456
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6586.m3u8
 
 #EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroPremierHD
