@@ -161,9 +161,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 #http://trtv.my.id/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOWpvSjAzWXpNMUx6SWFZYUVmWTJJMm90PT0maD1HMFpsQVFObVptUmpaUVI9
-http://mykingtv.net:2082/gadget1k85/pass1k85/8444
+#http://mykingtv.net:2082/gadget1k85/pass1k85/8444
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6575.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6576.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6577.m3u8
@@ -171,8 +172,9 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/8444
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfpQr1cOeBDbCN6EsOjqx5Jk=oWxq/dash-wv/jitp-linearwm/1000/default_ott.mpd
-http://mykingtv.net:2082/NorHalizam69/Halizam111731/8447
+#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8447
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6579.m3u8
 
