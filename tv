@@ -663,6 +663,9 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/7128
 #http://metatvpro.com:25461/live/C783388/36785/214.m3u8
 http://mykingtv.net:2082/gadget1k85/pass1k85/7135
 
+#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1870
+
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! US
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174636&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
@@ -897,7 +900,7 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71113
 
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersportUHD" tvg-logo="https://pictr.com/images/2023/05/19/EMxTMA.png",ASTRO Supersport UHD
-#http://dmtn.tv:8080/live/steveny5997/54332611/379977.m3u8
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1722
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA 1
 #http://ktpremium.com:2095/A1270/3388/26308
