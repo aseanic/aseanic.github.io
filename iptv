@@ -66,34 +66,32 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 ##https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
 #EXTINF:-1 tvg-id="118.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",INSPIRASI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #EXTINF:-1 tvg-id="113.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",SALAM HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
 
 #EXTINF:-1 tvg-id="121.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #EXTINF:-1 tvg-id="141.unifi"  tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",PESONA
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #EXTINF:-1 tvg-id="116.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",Sensasi 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227598.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT%2FE8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704175902%3AUTC%2C1004320541%2C14.1.254.135%2C20230704175902%2Curn:Huawei:liveTV:XTV55631601%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.186_80&hms_devid=1790&it=H4sIAAAAAAAAA0XMwQoCIRCA4bfxKDrGrh08FUEXCba6xuSMsmAr6bbQ28dG0P3__rli4OPedZFsH_vQxaA2AMYimUAKtwY0IZNo_PTFGREw53FKvtDKrsPuppVUEkBLsOK87g4Zk4Nv6V-PO9c_G7guY2BHLcoFm8SUKiecxzLJU8b3peZf8gEXj9EWmQAAAA
+https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQtXW3007NbNTdF6%2FBijmLq3lc3RrxE9g7cy1w5j6hEAD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240509111821%3AUTC%2C1005926113%2C118.100.29.203%2C20240509111821%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHpluk6KEnjYmJQRPQq1noUomFagsm_r2ieJ2ZN3lDwJp2G43JIhMZVKpKVwsJyVIBCSNAqgRJScMiPXKvJavRuba3uTcTdi7WFxBccCmBy4SV093WoZ2X-dhVFDT8sYLCs61Jm9jwJ0aO1gayOLS-50eHr1Nw84RROatBBqlUSyEEpIoNU1pivH0adsW49t0dA5m9t19AN-gisTvWN7SUY0e6H537cYdgPjZvDqTJHfQAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png", DEGUP 
 https://web.hypp.tv:443//PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84y3usL46ekX4z6HfPL7ju%2BT%2FE8WgnGuV2Kpf7nZRV575l1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704175902%3AUTC%2C1004320541%2C14.1.254.135%2C20230704175902%2Curn:Huawei:liveTV:XTV55631601%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.186_80&hms_devid=1790&it=H4sIAAAAAAAAA0XMwQoCIRCA4bfxKDrGrh08FUEXCba6xuSMsmAr6bbQ28dG0P3__rli4OPedZFsH_vQxaA2AMYimUAKtwY0IZNo_PTFGREw53FKvtDKrsPuppVUEkBLsOK87g4Zk4Nv6V-PO9c_G7guY2BHLcoFm8SUKiecxzLJU8b3peZf8gEXj9EWmQAAAA
 
@@ -786,6 +784,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #☯☯ || NEWS CHANNELS || ☯☯
