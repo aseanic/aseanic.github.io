@@ -14,8 +14,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 ##http://ktpremium.com:2095/A1270/3388/912827
 ##http://ktpremium.com:2095/A1270/3388/912828
 #http://metatvpro.com:25461/live/C783388/36785/3.m3u8
-http://mykingtv.net:2082/gadget1k85/pass1k85/8432
-#https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+#http://mykingtv.net:2082/gadget1k85/pass1k85/8432
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 #https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
@@ -52,8 +52,8 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/8442
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191968
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1731
 #http://metatvpro.com:25461/live/C783388/36785/5.m3u8
-http://mykingtv.net:2082/gadget1k85/pass1k85/8435
-#https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+#http://mykingtv.net:2082/gadget1k85/pass1k85/8435
+https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV
 #http://ktpremium.com:2095/A1270/3388/912830
@@ -63,8 +63,8 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/8435
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191836
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1730
 #http://metatvpro.com:25461/live/C783388/36785/6.m3u8
-http://mykingtv.net:2082/gadget1k85/pass1k85/8437
-#https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+#http://mykingtv.net:2082/gadget1k85/pass1k85/8437
+https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
 #http://ktpremium.com:2095/A1270/3388/25813
@@ -73,8 +73,8 @@ http://mykingtv.net:2082/gadget1k85/pass1k85/8437
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79323
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1729
 #http://metatvpro.com:25461/live/C783388/36785/7.m3u8
-http://mykingtv.net:2082/gadget1k85/pass1k85/8439
-#https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+#http://mykingtv.net:2082/gadget1k85/pass1k85/8439
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="OKEY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
