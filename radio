@@ -44,7 +44,7 @@ https://stream.rcs.revma.com/cn0zcqsbv4uvv
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/rdLxnli.png",Buletin FM
+#EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://pictr.com/images/2024/05/17/xP9m61.jpg",Kool FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
@@ -271,7 +271,7 @@ https://s1.cloudmu.id/listen/bahana/radio.mp3
 http://streaming.bahterayudhafm.com:8050/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxrbLeH.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bali United FM
 http://sgp1.onlivestreaming.net:10690/stream
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xPO2u6.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Brava Radio
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xP9ZC5.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Brava Radio
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZ3uMC6.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Delta FM
 https://s1.cloudmu.id/listen/delta_fm/radio.mp3
@@ -349,7 +349,7 @@ http://live.kissfm-medan.com:8080/kissfm.mp3
 http://202.164.223.22:8222/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JwasnDm.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",M Radio Surabaya
 https://c4.siar.us/proxy/mradio/stream
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xPOsHI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Madama Radio
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xP9x7v.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Madama Radio
 https://ssg.streamingmurah.com:8228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcWLRdv.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Medan FM
 http://streaming.cityradio.id:8000/medanfm.ogg
@@ -359,7 +359,7 @@ http://103.53.189.18:8010/;
 http://server.menara-fm.com:10280/menarafmbali
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkll2H2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Mercurius Top FM
 http://server-by.antoners.com:8020/mercurius
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xPkEAJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Merdeka FM
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xP9788.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Merdeka FM
 http://streaming.merdekafm.com:8020/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q3GdSKJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Metta FM
 http://c1.siar.us:10136/stream
@@ -513,7 +513,7 @@ http://server-by.antoners.com:8020/topfm
 http://stream.radiojar.com/qv4muvhswk8uv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VQewXh7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax FM Semarang
 http://stream.radiojar.com/fr9zqhv80k8uv
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xPk602.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax Jakarta
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xP95aX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax Jakarta
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ5dmbm.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trendy FM
 http://i.klikhost.net:8018/;
