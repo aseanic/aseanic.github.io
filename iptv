@@ -788,6 +788,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HEROES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Heroes
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5114/default_primary.mpd
+
 #☯☯ || NEWS CHANNELS || ☯☯
 
 
