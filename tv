@@ -138,13 +138,15 @@ http://hotz.vip:2082/live/zoufafa/zoufafa/6574.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 #http://ktpremium.com:2095/A1270/3388/25867
 ##http://ktpremium.com:2095/A1270/3388/912836
 #http://metatvpro.com:25461/live/C783388/36785/16.m3u8
 #http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #http://mykingtv.net:2082/gadget1k85/pass1k85/8449
+http://hotz.vip:2082/live/zoufafa/zoufafa/6580.m3u8
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6581.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
@@ -767,12 +769,13 @@ http://hotz.vip:2082/live/zoufafa/zoufafa/6610.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
 #http://ktpremium.com:2095/A1270/3388/26011
-http://mytv-extra.com:80/t12mgxyb335/9832948789/79320
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/79320
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1697
 #http://dmtn.tv:8080/live/steveny5997/54332611/380042.m3u8
 #http://metatvpro.com:25461/live/C783388/36785/193.m3u8
 #http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #http://mykingtv.net:2082/gadget1k85/pass1k85/8457
+http://hotz.vip:2082/live/zoufafa/zoufafa/6584.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Cinemax" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191902
