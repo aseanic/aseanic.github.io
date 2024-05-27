@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="3600"
 
-#EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
-https://28103.live.streamtheworld.com/BFMAAC.aac
-
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Radio-MY" radio="true"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
@@ -208,6 +205,9 @@ https://28163.live.streamtheworld.com/TAWAU_FMAAC.aac
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-keningau.84553559.jpg",Keningau FM
 https://28163.live.streamtheworld.com/KENINGAU_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
+https://28103.live.streamtheworld.com/BFMAAC.aac
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
