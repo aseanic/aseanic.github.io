@@ -359,7 +359,7 @@ http://103.53.189.18:8010/;
 http://server.menara-fm.com:10280/menarafmbali
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkll2H2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Mercurius Top FM
 http://server-by.antoners.com:8020/mercurius
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/17/xP9788.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Merdeka FM
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/05/27/x0JYh2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Merdeka FM
 http://streaming.merdekafm.com:8020/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q3GdSKJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Metta FM
 http://c1.siar.us:10136/stream
