@@ -105,11 +105,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1705
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 #http://ktpremium.com:2095/A1270/3388/912833
 #http://metatvpro.com:25461/live/C783388/36785/13.m3u8
 #http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-http://mykingtv.net:2082/NorHalizam69/Halizam111731/8445
+#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8445
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6575.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6576.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6577.m3u8
@@ -463,7 +463,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 #http://ktpremium.com:2095/A1270/3388/26285
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191029
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191029
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191994
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/71090
 #http://dmtn.tv:8080/live/steveny5997/54332611/380090.m3u8
@@ -474,7 +474,7 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/8476
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
 #http://ktpremium.com:2095/A1270/3388/26286
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191925
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191925
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/71091
 #http://dmtn.tv:8080/live/steveny5997/54332611/380072.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=FoodNetworkHD
@@ -601,7 +601,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191878
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png",History
 #http://ktpremium.com:2095/A1270/3388/26213
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191945
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191945
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/71074
 #http://dmtn.tv:8080/live/steveny5997/54332611/380080.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=HistoryHD
@@ -611,7 +611,7 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/5300
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
 #http://ktpremium.com:2095/A1270/3388/26211
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71075
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71075
 #http://dmtn.tv:8080/live/steveny5997/54332611/380066.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AnimalPlanetHD
 #http://metatvpro.com:25461/live/C783388/36785/308.m3u8
@@ -620,7 +620,7 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/5296
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
 #http://ktpremium.com:2095/A1270/3388/26288
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191910
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191910
 #http://dmtn.tv:8080/live/steveny5997/54332611/380064.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=CrimeInvestigationHD
 #http://metatvpro.com:25461/live/C783388/36785/310.m3u8
@@ -643,7 +643,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="AXN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
 #http://ktpremium.com:2095/A1270/3388/26282
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71087
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71087
 #http://dmtn.tv:8080/live/steveny5997/54332611/380050.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AXNHD
 #http://metatvpro.com:25461/live/C783388/36785/207.m3u8
@@ -808,7 +808,7 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/7126
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="415" tvg-id="HBOHits1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 #http://ktpremium.com:2095/A1270/3388/26077
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71037
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71037
 #http://dmtn.tv:8080/live/steveny5997/54332611/380037.m3u8
 #http://metatvpro.com:25461/live/C783388/36785/203.m3u8
 http://mykingtv.net:2082/NorHalizam69/Halizam111731/7124
