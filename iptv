@@ -187,8 +187,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #https://linears-playback.astro.com.my/vsg/41BkgTICUam6HwBbIYx3GUCa3q0LHz6mavdo8JNiZPgug=gM74/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 #http://startv365.com:80/live/0664251418/9924187372/191874.m3u8
 #http://mykingtv.net:2082/NorHalizam69/Halizam111731/8448
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
-http://hotz.vip:2082/live/zoufafa/zoufafa/6580.m3u8
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6580.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
