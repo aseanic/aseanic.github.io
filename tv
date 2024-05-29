@@ -138,14 +138,14 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/8451
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://dmtn.tv:8080/live/steveny5997/54332611/379997.m3u8
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 #http://ktpremium.com:2095/A1270/3388/25867
 ##http://ktpremium.com:2095/A1270/3388/912836
 #http://metatvpro.com:25461/live/C783388/36785/16.m3u8
 #http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #http://mykingtv.net:2082/NorHalizam69/Halizam111731/8449
-http://hotz.vip:2082/live/zoufafa/zoufafa/6580.m3u8
+#http://hotz.vip:2082/live/zoufafa/zoufafa/6580.m3u8
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6581.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
@@ -296,10 +296,10 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
 #http://ktpremium.com:2095/A1270/3388/25961
 ##http://ktpremium.com:2095/A1270/3388/912840
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191950
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191950
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1715
 #http://dmtn.tv:8080/live/steveny5997/54332611/380017.m3u8
-http://mykingtv.net:2082/NorHalizam69/Halizam111731/8469
+#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8469
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBSAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",TVBS Asia
 #http://ktpremium.com:2095/A1270/3388/25986
@@ -333,15 +333,15 @@ http://hotz.vip:2082/live/zoufafa/zoufafa/6615.m3u8
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBJade" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",TVB Jade
 #http://ktpremium.com:2095/A1270/3388/25972
 ##http://ktpremium.com:2095/A1270/3388/912845
-http://mytv-extra.com:80/t12mgxyb335/9832948789/192014
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71040
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/192014
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71040
 #http://dmtn.tv:8080/live/steveny5997/54332611/380020.m3u8
 #http://metatvpro.com:25461/live/C783388/36785/54.m3u8
 #http://50.7.234.10:8278/Tvbjade/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",TVB Entertainment News
-http://mytv-extra.com:80/t12mgxyb335/9832948789/192006
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71043
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/192006
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71043
 #http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
@@ -394,8 +394,8 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/8498
 http://mykingtv.net:2082/NorHalizam69/Halizam111731/5183
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunMusic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191993
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71029
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191993
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71029
 #http://dmtn.tv:8080/live/steveny5997/54332611/380142.m3u8
 #http://metatvpro.com:25461/live/C783388/36785/26.m3u8
 #http://50.7.234.10:8278/Sunmusic/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
@@ -446,9 +446,9 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/5179
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ZeeTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil
 #http://ktpremium.com:2095/A1270/3388/25949
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/192017
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71032
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71032
 #http://metatvpro.com:25461/live/C783388/36785/32.m3u8
-http://mykingtv.net:2082/NorHalizam69/Halizam111731/5184
+#http://mykingtv.net:2082/NorHalizam69/Halizam111731/5184
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191890
@@ -475,11 +475,11 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/8476
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
 #http://ktpremium.com:2095/A1270/3388/26286
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191925
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71091
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71091
 #http://dmtn.tv:8080/live/steveny5997/54332611/380072.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=FoodNetworkHD
 #http://50.7.234.10:8278/Foodnetwork/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-http://mykingtv.net:2082/NorHalizam69/Halizam111731/6635
+#http://mykingtv.net:2082/NorHalizam69/Halizam111731/6635
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
 #http://ktpremium.com:2095/A1270/3388/916125
@@ -499,8 +499,8 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/5301
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
 #http://ktpremium.com:2095/A1270/3388/26296
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191918
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71097
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191918
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71097
 #http://dmtn.tv:8080/live/steveny5997/54332611/380078.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=DmaxHD
 #http://metatvpro.com:25461/live/C783388/36785/292.m3u8
@@ -557,7 +557,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191912
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.HDTV.(SCIHD).us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
-#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71073
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71073
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
@@ -591,8 +591,8 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71137?play_token=shareext
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="BBCEarth" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png",BBC Earth
 #http://ktpremium.com:2095/A1270/3388/26290
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191878
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/71119
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191878
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71119
 #http://dmtn.tv:8080/live/steveny5997/54332611/380068.m3u8
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=BBCEarthHD
 #http://metatvpro.com:25461/live/C783388/36785/295.m3u8
@@ -651,7 +651,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://mykingtv.net:2082/NorHalizam69/Halizam111731/7130
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",Lifetime
-http://muka03.wanicelife.com:8880/48msk050004/62869843/60466
+http://muka03.wanicelife.com:8880/D12m2370/88152514/60466
 #http://ktpremium.com:2095/A1270/3388/656641.m3u8
 #http://dmtn.tv:8080/live/steveny5997/54332611/380089.m3u8
 #http://50.7.234.10:8278/Lifetime/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
@@ -680,7 +680,7 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/1870
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174636&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
 
-#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",Comedy Central US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
@@ -747,13 +747,13 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71061
 #http://50.7.234.10:8278/Dreamworks/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 http://mykingtv.net:2082/NorHalizam69/Halizam111731/5290
 
-#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png", Disney Channel
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png",Disney Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
 
-#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png", Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png",Disney Junior
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53479
 
-#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png", Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png",Disney XD
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
 
 #☯☯ || MOVIES CHANNELS || ☯☯
