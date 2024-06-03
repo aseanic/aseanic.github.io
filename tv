@@ -841,7 +841,7 @@ http://iptv12k.com:35461/80236053010/645789/607
 http://mykingtv.net:2082/zaki880/8890/8409
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
-http://iptv12k.com:35461/live/80236053010/645789/259.ts
+http://iptv12k.com:35461/live/80236053010/645789/599.ts
 #http://ktpremium.com:2095/A1270/3388/26076
 ##http://ktpremium.com:2095/A1270/3388/916397.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191943
@@ -858,12 +858,12 @@ http://iptv12k.com:35461/80236053010/645789/597
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6604.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="415" tvg-id="HBOHits1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
-http://iptv12k.com:35461/80236053010/645789/598
+#http://iptv12k.com:35461/80236053010/645789/598
 #http://ktpremium.com:2095/A1270/3388/26077
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/71037
 #http://dmtn.tv:8080/live/steveny5997/54332611/380037.m3u8
 #http://metatvpro.com:25461/live/C783388/36785/203.m3u8
-#http://mykingtv.net:2082/zaki880/8890/7124
+http://mykingtv.net:2082/zaki880/8890/7124
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -1324,7 +1324,7 @@ http://mykingtv.net:2082/zaki880/8890/7149
 #EXTINF:-1 group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW 
 #http://ktpremium.com:2095/A1270/3388/25990
 #http://50.7.234.10:8278/Prima/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-http://iptv12k.com:35461/live/80236053010/645789/183.ts
+#http://iptv12k.com:35461/live/80236053010/645789/183.ts
 
 #EXTINF:-1 tvg-id="Animax.(HD).sg" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
 http://iptv12k.com:35461/live/80236053010/645789/184.ts
@@ -1356,7 +1356,7 @@ http://iptv12k.com:35461/live/80236053010/645789/259.ts
 
 #EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6603.m3u8
-http://iptv12k.com:35461/live/80236053010/645789/598.ts
+#http://iptv12k.com:35461/live/80236053010/645789/598.ts
 
 #EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
@@ -1366,7 +1366,7 @@ http://iptv12k.com:35461/80236053010/645789/597
 #EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6605.m3u8
-http://iptv12k.com:35461/80236053010/645789/596
+http://iptv12k.com:35461/live/80236053010/645789/598.ts
 
 #EXTINF:-1 tvg-id="CINEMAX.(HD).sg" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
