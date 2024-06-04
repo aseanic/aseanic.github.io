@@ -841,7 +841,7 @@ http://iptv12k.com:35461/80236053010/645789/607
 http://mykingtv.net:2082/zaki880/8890/8409
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
-http://iptv12k.com:35461/live/80236053010/645789/599.ts
+http://iptv12k.com:35461/80236053010/645789/599
 #http://ktpremium.com:2095/A1270/3388/26076
 ##http://ktpremium.com:2095/A1270/3388/916397.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191943
@@ -1352,11 +1352,11 @@ http://mykingtv.net:2082/zaki880/8890/6954
 #EXTINF:-1 tvg-id="HBO.HD.sg" tvg-logo="https://pictr.com/images/2024/01/08/Eyz6F9.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6602.m3u8
-http://iptv12k.com:35461/live/80236053010/645789/259.ts
+http://iptv12k.com:35461/80236053010/645789/259
 
 #EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6603.m3u8
-#http://iptv12k.com:35461/live/80236053010/645789/598.ts
+http://iptv12k.com:35461/80236053010/645789/598
 
 #EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
@@ -1366,7 +1366,7 @@ http://iptv12k.com:35461/80236053010/645789/597
 #EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
 #http://hotz.vip:2082/live/zoufafa/zoufafa/6605.m3u8
-http://iptv12k.com:35461/live/80236053010/645789/598.ts
+http://iptv12k.com:35461/80236053010/645789/596
 
 #EXTINF:-1 tvg-id="CINEMAX.(HD).sg" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
