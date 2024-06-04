@@ -266,7 +266,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2706
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 #http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71049?play_token=shareext
-http://iptv12k.com:35461/live/80236053010/645789/701.ts
+http://iptv12k.com:35461/live/80236053010/645789/705.ts
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAOD352" ch-number="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 352
 #KODIPROP:inputstream.adaptive.license_type=clearkey
