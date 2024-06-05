@@ -659,9 +659,6 @@ http://iptv12k.com:35461/80236053010/645789/597
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBOHits1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 http://mykingtv.net:2082/zaki880/8890/7124
 
-
-
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://pictr.com/images/2024/01/08/Eyz6F9.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
@@ -674,7 +671,7 @@ http://iptv12k.com:35461/80236053010/645789/597
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 http://iptv12k.com:35461/80236053010/645789/596
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
 http://iptv12k.com:35461/80236053010/645789/255
 
 #☯☯ || KOREAN CHANNELS || ☯☯
