@@ -793,7 +793,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U3tNDHMRkqO50xIbKZDvug", "kid":"i7MdiZKf+O9W3tJSZGtHEA" } ], "type":"temporary" }
