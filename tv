@@ -238,7 +238,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #☯☯ || LIFESTYLE CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
-http://iptv12k.com:35461/80236053010/645789/605
+http://iptv12k.com:35461/80236053010/645789/2057
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
 http://iptv12k.com:35461/80236053010/645789/638
@@ -253,7 +253,7 @@ http://iptv12k.com:35461/80236053010/645789/641
 http://iptv12k.com:35461/80236053010/645789/279
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="BBCLifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
-http://iptv12k.com:35461/80236053010/645789/178
+http://iptv12k.com:35461/80236053010/645789/2061
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
@@ -371,7 +371,7 @@ http://mykingtv.net:2082/zaki880/8890/5275
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191996
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
-http://mykingtv.net:2082/zaki880/8890/5280
+http://iptv12k.com:35461/80236053010/645789/2094
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
 http://iptv12k.com:35461/80236053010/645789/289
@@ -805,6 +805,9 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/60484
 #EXTINF:0 tvg-id="Ent.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_86.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment",ENT 
 http://muka03.wanicelife.com:8880/D12m2370/88152514/60278
 
+#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/New_mnc_music_logo_2020.png/revision/latest?cb=20200119023024" group-title="Indonesia;Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Music TV
+http://iptv12k.com:35461/80236053010/645789/2081
+
 #Sports 
 
 #Movies
@@ -839,7 +842,7 @@ http://mykingtv.net:2082/zaki880/8890/8662
 #Religion
 
 #EXTINF:0 tvg-id+'id="MuslimTV.id"" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Muslim TV
-http://iptv12k.com:35461/80236053010/645789/1766
+http://iptv12k.com:35461/80236053010/645789/2087
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13"group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",TV9
 http://iptv12k.com:35461/80236053010/645789/1779
