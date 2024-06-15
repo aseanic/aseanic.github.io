@@ -560,15 +560,19 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/160
 #http://mykingtv.net:2082/zaki880/8890/8414
 
 #EXTINF:-1 tvg-id="beINSports2" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",BEIN SPORTS 2
-http://iptv12k.com:35461/80236053010/645789/961
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173
+#http://iptv12k.com:35461/80236053010/645789/961
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/161
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174
 #http://iptv12k.com:35461/80236053010/645789/960
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182
 #http://iptv12k.com:35461/80236053010/645789/647
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MkDf.png",EUROSPORT2
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/183
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/140
