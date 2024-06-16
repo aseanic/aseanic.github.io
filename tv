@@ -18,13 +18,13 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVAlhijrah" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
-http://iptv12k.com:35461/80236053010/645789/726
+http://mykingtv.net:2082/zaki880/8890/8480
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
-http://iptv12k.com:35461/80236053010/645789/745
+http://mykingtv.net:2082/zaki880/8890/8458
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="AwesomeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
-http://iptv12k.com:35461/80236053010/645789/743
+http://mykingtv.net:2082/zaki880/8890/8442
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
@@ -50,7 +50,7 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-#http://mykingtv.net:2082/zaki880/8890/8441
+http://mykingtv.net:2082/zaki880/8890/8441
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
@@ -61,31 +61,31 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
-http://iptv12k.com:35461/80236053010/645789/735
+http://mykingtv.net:2082/zaki880/8890/8444
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
-http://iptv12k.com:35461/80236053010/645789/734
+http://mykingtv.net:2082/zaki880/8890/8446
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
-http://iptv12k.com:35461/80236053010/645789/732
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1701
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
-http://iptv12k.com:35461/80236053010/645789/733
+http://mykingtv.net:2082/zaki880/8890/8448
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-http://iptv12k.com:35461/80236053010/645789/721
+http://mykingtv.net:2082/zaki880/8890/8453
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
-http://iptv12k.com:35461/80236053010/645789/3748
+
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
-http://iptv12k.com:35461/80236053010/645789/728
+http://mykingtv.net:2082/zaki880/8890/8455
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
-http://iptv12k.com:35461/80236053010/645789/3949
+http://mykingtv.net:2082/zaki880/8890/8456
 
 #EXTINF:-1 tvg-id="AstroPremier" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
-http://iptv12k.com:35461/80236053010/645789/700
+
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 http://mykingtv.net:2082/zaki880/8890/5175
@@ -100,16 +100,16 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71100
 #http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-http://iptv12k.com:35461/80236053010/645789/709
+http://mykingtv.net:2082/zaki880/8890/5175
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 http://mykingtv.net:2082/zaki880/8890/8485
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
-http://iptv12k.com:35461/80236053010/645789/707
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 311
-http://iptv12k.com:35461/80236053010/645789/702
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71049?play_token=shareext
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71079
@@ -157,7 +157,7 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #☯☯ || CHINESE CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
-http://iptv12k.com:35461/80236053010/645789/708
+http://mykingtv.net:2082/zaki880/8890/8469
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBSAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",TVBS Asia
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71045
@@ -166,84 +166,84 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71045
 http://mykingtv.net:2082/zaki880/8890/8490
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
-http://iptv12k.com:35461/80236053010/645789/581
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1718
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBJade" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",TVB Jade
-http://iptv12k.com:35461/80236053010/645789/698
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71040
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",TVB Entertainment News
-http://iptv12k.com:35461/80236053010/645789/697
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71043
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
-http://iptv12k.com:35461/80236053010/645789/696
+http://mykingtv.net:2082/zaki880/8890/8491
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
-http://iptv12k.com:35461/80236053010/645789/249
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71046
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixChineseChannel" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
-http://iptv12k.com:35461/80236053010/645789/997
+
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixInfoNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News
-http://iptv12k.com:35461/80236053010/645789/998
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CTIAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia
-http://iptv12k.com:35461/80236053010/645789/694
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71042
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
-http://iptv12k.com:35461/80236053010/645789/1330
+http://mykingtv.net:2082/zaki880/8890/8498
 
 #China
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDrOZ.png" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png",Star Xing Kong
-http://iptv12k.com:35461/80236053010/645789/2101
+
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDmwY.png" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png",Dragon Shanghai TV
-http://iptv12k.com:35461/80236053010/645789/1309
+
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDi4n.png" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png",Hu Nan TV
-http://iptv12k.com:35461/80236053010/645789/1317
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/65
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXD6vB.png" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png",Jiang Su TV
-http://iptv12k.com:35461/80236053010/645789/2104
+
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDzpG.png" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png",An Hui TV
-http://iptv12k.com:35461/80236053010/645789/1308
+
 
 #☯☯ || INDIAN CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunTV" tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.png",Sun TV
-http://iptv12k.com:35461/80236053010/645789/991
+http://mykingtv.net:2082/zaki880/8890/5183
 
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunMusic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music
-http://iptv12k.com:35461/80236053010/645789/990
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71029
 
 #EXTINF:-1  group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
-http://iptv12k.com:35461/80236053010/645789/659
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71031
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",Sun News
-http://iptv12k.com:35461/80236053010/645789/1836
+
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",KTV
-http://iptv12k.com:35461/80236053010/645789/2282
+http://mykingtv.net:2082/zaki880/8890/5222
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunLife" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life
 http://mykingtv.net:2082/zaki880/8890/5178
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
-http://iptv12k.com:35461/80236053010/645789/673
+http://mykingtv.net:2082/zaki880/8890/5182
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71035
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png",Colors Tamil
-http://iptv12k.com:35461/80236053010/645789/982
+http://mykingtv.net:2082/zaki880/8890/5179
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ZeeTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil
-http://iptv12k.com:35461/80236053010/645789/216
+http://mykingtv.net:2082/zaki880/8890/5184
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
-http://iptv12k.com:35461/80236053010/645789/667
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191890
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png"  tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png",BollywooD ᴴᴰ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -255,24 +255,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/86
-#http://iptv12k.com:35461/80236053010/645789/2057
+
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
-http://iptv12k.com:35461/80236053010/645789/638
+http://mykingtv.net:2082/zaki880/8890/6635
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/87
-#http://iptv12k.com:35461/80236053010/645789/640
+
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/85
-#http://iptv12k.com:35461/80236053010/645789/641
+
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
-http://iptv12k.com:35461/80236053010/645789/279
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/47
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="BBCLifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
-http://iptv12k.com:35461/80236053010/645789/2061
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71120
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
@@ -306,7 +306,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/74
 #http://mykingtv.net:2082/zaki880/8890/6991
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
-http://iptv12k.com:35461/80236053010/645789/300
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191912
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.HDTV.(SCIHD).us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
@@ -327,23 +327,23 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
-http://iptv12k.com:35461/80236053010/645789/621
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/94
 
 #EXTINF:-1 group-title="Documentary"  group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="GlobalTrekker" tvg-logo="https://pictr.com/images/2023/07/24/EbLRlP.png",Global Trekker
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71137?play_token=shareext
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="BBCEarth" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png",BBC Earth
-http://iptv12k.com:35461/80236053010/645789/173
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71119
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png",History
-http://iptv12k.com:35461/80236053010/645789/296
+http://mykingtv.net:2082/zaki880/8890/5300
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/77
-#http://iptv12k.com:35461/80236053010/645789/633
+
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
-http://iptv12k.com:35461/80236053010/645789/634
+http://mykingtv.net:2082/zaki880/8890/5303
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
@@ -360,17 +360,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="AXN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
-http://iptv12k.com:35461/80236053010/645789/608
+http://mykingtv.net:2082/zaki880/8890/7130
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",Lifetime
-http://iptv12k.com:35461/80236053010/645789/275
+http://muka03.wanicelife.com:8880/D12m2370/88152514/60466
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="HITS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191946
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="WarnerTV" tvg-logo="https://pictr.com/images/2023/08/27/EA8Yhl.png",Warner TV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/29
-#http://iptv12k.com:35461/80236053010/645789/604
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
@@ -398,14 +397,12 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191996
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/99
-#http://iptv12k.com:35461/80236053010/645789/2094
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
-http://iptv12k.com:35461/80236053010/645789/289
+http://mykingtv.net:2082/zaki880/8890/5281
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="NickJr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/101
-#http://iptv12k.com:35461/80236053010/645789/290
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="MoonbugKids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png",Moonbug Kids
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71061
@@ -415,7 +412,6 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71061
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",DreamWorks
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/98
-#http://mykingtv.net:2082/zaki880/8890/5290
 
 #EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png",Disney Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
@@ -429,35 +425,31 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
 #☯☯ || MOVIES CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HITSMovies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-http://iptv12k.com:35461/80236053010/645789/602
+http://mykingtv.net:2082/zaki880/8890/7129
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
-http://iptv12k.com:35461/80236053010/645789/722
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/108
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Cinemax" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/25
-#http://iptv12k.com:35461/80236053010/645789/607
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Showcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
 http://mykingtv.net:2082/zaki880/8890/8409
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/21
-#http://iptv12k.com:35461/80236053010/645789/1748
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/40
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBOFamily1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/24
-#http://iptv12k.com:35461/80236053010/645789/1746
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBOHits1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/22
-#http://mykingtv.net:2082/zaki880/8890/7124
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/63
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Unifi Dunia Sinema
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="HEROES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Heroes
-http://iptv12k.com:35461/80236053010/645789/1824
+
 
 #☯☯ || NEWS CHANNELS || ☯☯
 
@@ -469,41 +461,41 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-id="BernamaTV" tvg-logo="https://bernama.com/bm/img/bernama.png",BERNAMA
-http://iptv12k.com:35461/80236053010/645789/723
+http://mykingtv.net:2082/zaki880/8890/8474
 
 #EXTINF:-1 tvg-id="CGTN" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png",CGTN
-http://iptv12k.com:35461/80236053010/645789/309
+http://mykingtv.net:2082/zaki880/8890/5305
 
 #EXTINF:-1 tvg-id="CNN" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/110
-#http://iptv12k.com:35461/80236053010/645789/594
+
 
 #EXTINF:-1 tvg-id="BBCNews" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png",BBC WORLD
-http://iptv12k.com:35461/80236053010/645789/187
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71122
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png",SKY NEWS
-http://iptv12k.com:35461/80236053010/645789/310
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71064
 
 #EXTINF:-1 tvg-id="CNBCAsia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png",CNBC ASIA
-http://iptv12k.com:35461/80236053010/645789/593
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71098
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl5qj.png",BLOOMBERG TV
-http://iptv12k.com:35461/80236053010/645789/590
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="DW" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW
-http://iptv12k.com:35461/80236053010/645789/622
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191922
 
 #EXTINF:-1 tvg-id="ABCAustralia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://eazie.tv/images/logos/sq/logo_abc_australia.png",ABC AUSTRALIA
-http://iptv12k.com:35461/80236053010/645789/286
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191837
 
 #EXTINF:-1 tvg-id="France24" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png",FRANCE 24
-http://iptv12k.com:35461/80236053010/645789/589
+http://muka03.wanicelife.com:8880/D12m2370/88152514/71113
 
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="Japan;News" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png" tvg-logo="https://pictr.com/images/2024/01/04/EXD849.png",398 NHK World Premium
-http://iptv12k.com:35461/80236053010/645789/308
+
 
 #☯☯ || SPORTS CHANNELS || ☯☯
 
@@ -513,70 +505,58 @@ http://iptv12k.com:35461/80236053010/645789/308
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ASTRO ARENA 1
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170
-#http://iptv12k.com:35461/80236053010/645789/966
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",ASTRO ARENA 2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171
-#http://iptv12k.com:35461/80236053010/645789/965
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola" tvg-logo="https://pictr.com/images/2023/05/13/E8ulc6.png",ARENA BOLA 1
-http://iptv12k.com:35461/80236053010/645789/688
+http://mykingtv.net:2082/zaki880/8890/18863
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola2" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png",ARENA BOLA 2
 http://mykingtv.net:2082/zaki880/8890/18864
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
-#http://iptv12k.com:35461/80236053010/645789/972
+
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167
-#http://iptv12k.com:35461/80236053010/645789/971
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168
-#http://iptv12k.com:35461/80236053010/645789/970
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169
-#http://iptv12k.com:35461/80236053010/645789/969
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
-http://iptv12k.com:35461/80236053010/645789/7981
+http://mykingtv.net:2082/zaki880/8890/8649
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/143
-#http://iptv12k.com:35461/80236053010/645789/992
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTVStadia" tvg-logo="https://pictr.com/images/2024/06/15/x78t4I.png",SPOTV Stadia
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235
-#http://iptv12k.com:35461/80236053010/645789/967
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2
-http://iptv12k.com:35461/80236053010/645789/3228
+http://muka03.wanicelife.com:8880/D12m2370/88152514/60482
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS 1
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/160
-#http://mykingtv.net:2082/zaki880/8890/8414
 
 #EXTINF:-1 tvg-id="beINSports2" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",BEIN SPORTS 2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173
-#http://iptv12k.com:35461/80236053010/645789/961
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174
-#http://iptv12k.com:35461/80236053010/645789/960
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182
-#http://iptv12k.com:35461/80236053010/645789/647
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MkDf.png",EUROSPORT2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/183
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/140
-#http://iptv12k.com:35461/80236053010/645789/651
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -586,10 +566,9 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/191868
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="WWENetwork" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/175
-#http://iptv12k.com:35461/80236053010/645789/652
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="FightSports.Id" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
-http://iptv12k.com:35461/80236053010/645789/314
+
 
 #EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
@@ -598,18 +577,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="MUTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzAGr.png",MUTV
-http://iptv12k.com:35461/80236053010/645789/2384
+http://mykingtv.net:2082/zaki880/8890/7271
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="LFCTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
-http://iptv12k.com:35461/80236053010/645789/2360
+http://mykingtv.net:2082/zaki880/8890/7218
 
 #EXTINF: -1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/147
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/176
-#http://iptv12k.com:35461/80236053010/645789/2337
+
 
 #EXTINF: -1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNZ3Y.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NEWS
-http://iptv12k.com:35461/80236053010/645789/2348
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
 
 #EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS MIX
 
@@ -618,10 +597,10 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/178
 
 #EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://pictr.com/images/2024/06/08/x5OTuB.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS ACTION
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/179
-#http://iptv12k.com:35461/80236053010/645789/2346
+
 
 #EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS GOLF
-http://iptv12k.com:35461/80236053010/645789/2342
+
 
 #EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS FOOTBALL
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/177
@@ -636,7 +615,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/180
 
 
 #EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS CRICKET
-http://iptv12k.com:35461/80236053010/645789/2344
+
 
 #EXTINF: -1 tvg-id="SkySpNBA.HD.uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_NBA.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NBA
 
@@ -646,7 +625,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/136
 #☯☯ || MUSIC CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
-http://iptv12k.com:35461/80236053010/645789/1781
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191957
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
@@ -708,19 +687,19 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5
-http://iptv12k.com:35461/80236053010/645789/328
+http://mykingtv.net:2082/zaki880/8890/8507
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
-http://iptv12k.com:35461/80236053010/645789/332
+http://mykingtv.net:2082/zaki880/8890/8508
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U
-http://iptv12k.com:35461/80236053010/645789/330
+http://mykingtv.net:2082/zaki880/8890/8509
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria
-http://iptv12k.com:35461/80236053010/645789/331
+http://mykingtv.net:2082/zaki880/8890/85010
 
 #EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Channel Vasantham
-http://iptv12k.com:35461/80236053010/645789/333
+http://mykingtv.net:2082/zaki880/8890/85011
 
 #EXTINF:-1 tvg-id="CNA" group-title="Singapore;News" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -732,20 +711,20 @@ http://mykingtv.net:2082/zaki880/8890/7148
 http://mykingtv.net:2082/zaki880/8890/7149
 
 #EXTINF:-1 tvg-id="452.unifi" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png" group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",HITS NOW 
-http://iptv12k.com:35461/80236053010/645789/603
+
 
 #EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
-http://iptv12k.com:35461/80236053010/645789/184
+http://mykingtv.net:2082/zaki880/8890/5277
 
 #EXTINF:-1 tvg-id="471.unifi" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
 http://mykingtv.net:2082/zaki880/8890/6954
 
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
-http://iptv12k.com:35461/80236053010/645789/599
+http://mykingtv.net:2082/zaki880/8890/7123
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBOFamily1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
-http://iptv12k.com:35461/80236053010/645789/597
+http://mykingtv.net:2082/zaki880/8890/6967
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBOHits1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 http://mykingtv.net:2082/zaki880/8890/7124
@@ -754,31 +733,30 @@ http://mykingtv.net:2082/zaki880/8890/7124
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
-http://iptv12k.com:35461/80236053010/645789/598
+http://mykingtv.net:2082/zaki880/8890/7124
 
 #EXTINF:-1 tvg-id="HBOFamily1" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
-http://iptv12k.com:35461/80236053010/645789/597
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/23
-#http://iptv12k.com:35461/80236053010/645789/596
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
-http://iptv12k.com:35461/80236053010/645789/255
+http://mykingtv.net:2082/zaki880/8890/7127
 
 #☯☯ || KOREAN CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="KBSWorld" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World
-http://iptv12k.com:35461/80236053010/645789/242
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191953
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="ONE" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE
-http://iptv12k.com:35461/80236053010/645789/711
+http://mykingtv.net:2082/zaki880/8890/8449
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="tvN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN
-http://iptv12k.com:35461/80236053010/645789/714
+http://mykingtv.net:2082/zaki880/8890/7134
 
 #EXTINF:-1 group-title="Korean;Movies" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="tvNMovies" tvg-logo="https://playtv.unifi.com.my:7050/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png",tvN Movies
-http://iptv12k.com:35461/80236053010/645789/715
+http://mykingtv.net:2082/zaki880/8890/7133
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="K-Plus" tvg-logo="https://pictr.com/images/2024/06/06/x5CxNl.png",KPlus
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/52
@@ -788,14 +766,13 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/52
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KIX.id" group-title="Korean" tvg-id="KIX.id" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8NYq.png",KIX
-http://iptv12k.com:35461/80236053010/645789/689
+http://mykingtv.net:2082/zaki880/8890/7138
 
 #☯☯ || INDO CHANNELS || ☯☯
 
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/V6VXx1c0/rcti.png",RCTI
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/7
-#http://iptv12k.com:35461/80236053010/645789/2185
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png",GTV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/9
@@ -803,23 +780,18 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/9
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/26Gy142h/mnctv.png",MNC TV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/8
-#http://iptv12k.com:35461/80236053010/645789/2175
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://i.postimg.cc/wBPhPgzy/inews.png",iNews
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/10
-#http://iptv12k.com:35461/80236053010/645789/1799
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="ANTV.id" tvg-logo="https://i.postimg.cc/HL3wtXZ2/antv.png",ANTV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/11
-#http://iptv12k.com:35461/80236053010/645789/1806
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Indosiar.id"  tvg-logo="https://i.postimg.cc/VkqBd3X2/indosiar.png",Indosiar
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/5
-#http://iptv12k.com:35461/80236053010/645789/2187
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/XNrPpYqh/sctv.png",SCTV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/2
-#http://iptv12k.com:35461/80236053010/645789/1811
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128
@@ -827,15 +799,12 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/13
-#http://iptv12k.com:35461/80236053010/645789/1813
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MetroTV.id" tvg-logo="https://i.postimg.cc/nhFY93Tz/metro-tv.png",Metro TV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/14
-#http://iptv12k.com:35461/80236053010/645789/1804
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="KompasTV.id" tvg-logo="https://i.postimg.cc/MKx1g9CD/kompas-tv.png",Kompas TV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/15
-#http://iptv12k.com:35461/80236053010/645789/1803
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://i.postimg.cc/qqrCV75R/cnn-indonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -848,15 +817,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/3
-#http://iptv12k.com:35461/80236053010/645789/1810
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/4
-#http://iptv12k.com:35461/80236053010/645789/1809
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="tvOne.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/12
-#http://iptv12k.com:35461/80236053010/645789/1805
 
 #EXTINF:-1 tvg-id="SEAToday" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
 #https://link.zozotv.xyz:443/rozila969/abc12345/145
@@ -873,15 +839,12 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/16
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TVRI.id" tvg-logo="https://pictr.com/images/2023/05/18/E8s4nV.png",TVRI Nasional
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/17
-#http://iptv12k.com:35461/80236053010/645789/1802
 
 #EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JAK TV
-http://iptv12k.com:35461/80236053010/645789/1784
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/pfgJoOE.jpg?1" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JTV
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8suAD.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BALI TV
-http://iptv12k.com:35461/80236053010/645789/1786
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_bdg_tv_2016.png/800px-Logo_bdg_tv_2016.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
@@ -900,7 +863,6 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/111
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BTV
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/18
-#http://iptv12k.com:35461/80236053010/645789/1801
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-logo="https://i.imgur.com/Y1EzIb9.jpg",DAAI TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
@@ -923,7 +885,7 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/60484
 http://muka03.wanicelife.com:8880/D12m2370/88152514/60278
 
 #EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/New_mnc_music_logo_2020.png/revision/latest?cb=20200119023024" group-title="Indonesia;Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Music TV
-http://iptv12k.com:35461/80236053010/645789/2081
+
 
 #Sports 
 
@@ -946,7 +908,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/27
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/50
 
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
-http://iptv12k.com:35461/80236053010/645789/1794
+http://mykingtv.net:2082/zaki880/8890/7132
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Movies" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
 http://mykingtv.net:2082/zaki880/8890/7131
@@ -964,7 +926,7 @@ http://mykingtv.net:2082/zaki880/8890/7153
 http://mykingtv.net:2082/zaki880/8890/7139
 
 #EXTINF:0 tvg-id="MyCinema" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Mycinema
-http://iptv12k.com:35461/80236053010/645789/1881
+http://mykingtv.net:2082/zaki880/8890/8658
 
 #EXTINF:0 tvg-id="MyCinemaAsia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",MyCinemaAsia
 http://mykingtv.net:2082/zaki880/8890/8660
@@ -975,28 +937,27 @@ http://mykingtv.net:2082/zaki880/8890/8662
 #Religion
 
 #EXTINF:0 tvg-id+'id="MuslimTV.id"" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Muslim TV
-http://iptv12k.com:35461/80236053010/645789/2087
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13"group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",TV9
-http://iptv12k.com:35461/80236053010/645789/1779
+
 
 #EXTINF:0 tvg-id="LIFE.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Life
 http://37.49.225.197:8080/F33476/7458dae3/157585
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",TV Muhammadiyah
-http://iptv12k.com:35461/80236053010/645789/1765
+
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Reformed 21
 https://ythls.armelin.one/channel/UCQo_L_h_01NjLYiNHUnjEJw.m3u8
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",EWTN
-http://iptv12k.com:35461/80236053010/645789/1764
+
 
 #EXTINF:0 tvg-id="AlQuranKareem.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Al Quran Al Kareem TV
-http://iptv12k.com:35461/80236053010/645789/1778
+
 
 #EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Tawaf TV
-http://iptv12k.com:35461/80236053010/645789/1776
+
 
 #EXTINF:-1 tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Fatwa TV
 https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
