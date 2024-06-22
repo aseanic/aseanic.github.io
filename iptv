@@ -99,7 +99,7 @@ https://web.hypp.tv:443//PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=cente
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
 #https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-http://mykingtv.net:2082/NorHalizam69/Halizam111731/8441
+http://mykingtv.net:2082/zaki880/8890/8441
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
@@ -160,24 +160,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i7xG78SD5RCaEP3MtRkyZG1k=trQr/dash-wv/jitp-linearwm/1004/default_primary.mpd
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-http://iptv12k.com:35461/live/80236053010/645789/735.ts
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8444
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6575.m3u8
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6576.m3u8
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6577.m3u8
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i76fknQsevuWijputx5bcVjM=o8UT/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgSuqQAh1qAiCjbudL2J3Dy8=8HUk/dash-wv/jitp-dashisowm/1000/default_primary.mpd
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-#https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfpQr1cOeBDbCN6EsOjqx5Jk=oWxq/dash-wv/jitp-linearwm/1000/default_ott.mpd
-http://iptv12k.com:35461/live/80236053010/645789/734.ts
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8447
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6578.m3u8
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6579.m3u8
+https://linears-playback.astro.com.my/vsg/41bXPmm6Wfa7GHGd9QuNMpgeMIozFhT-4pLSycafVc_FM=9pI-/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" ch-number="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -187,26 +175,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAQeKIb-5EfAXhZsyLoY81T4=-N3O/dash-wv/jitp-dashisowm/2402/default_primary.mpd
-http://iptv12k.com:35461/live/80236053010/645789/733.ts
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8448
-#http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6580.m3u8
+https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAVgmZ2a4Cf4k5jPY5Zpn2A0=mkaz/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNtwSYFWQeyIJUhnfTvIHVoc=qdej/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-http://iptv12k.com:35461/live/80236053010/645789/721.ts
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8454
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6582.m3u8
-#http://hotz.vip:2082/live/zoufafa/zoufafa/6583.m3u8
+https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNvV6iHGIl4G_EgfpbOCwGvE=As4e/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
-#http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
-http://iptv12k.com:35461/80236053010/645789/3748
-#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
-#http://mytv-extra.com:80/t12mgxyb335/9832948789/191867
+
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -246,15 +223,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/vsg/41J0U2Z_AuaDSPdCY-74gTkBClsaiVmqLgMLDDoXcENYw=_AYf/dash-wv/jitp-dashisowm/2400/default_primary.mpd
-http://iptv12k.com:35461/live/80236053010/645789/709.ts
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8483
+https://linears-playback.astro.com.my/vsg/41J0U2Z_AuaDSPdCY-74gTkOA6GSu9Fw_Z87QgqQhTsoM=1JoE/dash-wv/jitp-dashisowm/2400/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" ch-number="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2507
-#https://linears-playback.astro.com.my/vsg/41qh1co3431tvOBKzQcOjA33XfZpnKCa3NqW1wJFDdEJ0=L4Oe/dash-wv/jitp-dashisowm/2507/default_primary.mpd
-http://mykingtv.net:2082/zaki880/8890/8485
+https://linears-playback.astro.com.my/vsg/41qh1co3431tvOBKzQcOjA32ybbBGeKwyuBoplWpiuRjU=sa4h/dash-wv/jitp-dashisowm/2507/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -264,9 +238,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAODHD" ch-number="311" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 311
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2706
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
-#http://muka03.wanicelife.com:8880/29us05283n02/t6g7yuefr/71049?play_token=shareext
-http://iptv12k.com:35461/live/80236053010/645789/705.ts
+https://linears-playback.astro.com.my/vsg/418ch3s-mCLbKehZa_hqmvPrWX3UOq4Zh9sCdnlSD4Xkk=CUUi/dash-wv/jitp-linearwm/2706/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAOD352" ch-number="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 352
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -895,43 +867,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://pictr.com/images/2023/05/13/E8ulc6.png",ASTRO ARENA BOLA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5099
-#https://linears-playback.astro.com.my/vsg/41Sxt3DWhZdej265n7aXR92Fs2hl6-tBM4MuTtaFkOH18=g-5S/dash-wv/jitp-dashisowm/5099/default_primary.mpd
-http://mykingtv.net:2082/zaki880/8890/18863
+https://linears-playback.astro.com.my/vsg/41Sxt3DWhZdej265n7aXR92NSr6hJTQHiuYTy1bVJLuyE=24Hl/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png",ASTRO ARENA BOLA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5100
-#https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6uPhxj3BtKjxzwjnQ8hLPdU=ZKEm/dash-wv/jitp-linearwm/5100/default_primary.mpd
-http://mykingtv.net:2082/zaki880/8890/18864 
+https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6te9vmmXl3ddMeY_CK07y1s=z8cG/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" ch-number="811" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqQGZLeC0C5x_cXw3B5CVhao=a6jQ/dash-wv/jitp-dashisowm/601/default_primary.mpd
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/197514
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8416
-http://iptv12k.com:35461/live/80236053010/645789/972.ts
+https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqSH6lwY8xjpVEO-72qysD_o=aY7B/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm4Ym91RfXm_GCKfon9T298w=pzaP/dash-wv/jitp-dashisowm/2104/default_primary.mpd
-http://iptv12k.com:35461/80236053010/645789/971
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/197515
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8417
+https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEmxpotlyeVW3ls590TDXLT6A=tmgu/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYeEWYVdxP_8UsvV7od8Y8uw=U7uU/dash-wv/jitp-dashisowm/2701/default_primary.mpd
-http://iptv12k.com:35461/80236053010/645789/970
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/197516
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/8418
+https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYR3v85BKCdkmQe2RKtL3Dv4=jOQi/dash-wv/jitp-dashisowm/2701/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/197517
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
@@ -954,6 +914,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6o+kPMcQLkgc1EHFiy7LCA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="808.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV-STADIA.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",SPOTV Stadia
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1nOa7mx2dBdjmS03zGbxuA", "kid":"964dxxzFj7h2tOZZF0+cEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="809.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2-STADIA.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",SPOTV 2 Stadia
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5149/default_primary.mpd
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -971,9 +940,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 #EXTINF:-1 tvg-id="711.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",BEIN SPORTS 4
-https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+https://web.hypp.tv:443/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOyw6CMBRE_6bLhj4sYdEVxsTEoIno1lzaayUUqi2a-PeC4nZmzuSMEQxu11o0WZ4bIaTAlWTYFFgoMMIqKSyXuSEJH1XQnBjwvh1cFeyMnY_lhWU0o5wzyjip57uNB7csq2ffYNTijx0xvlqD2qYrfUGi4FxEB2MbBnrw8D5Fv0wI1osaU6rghVBcqoyTcU5rSN3UkBukMvR3iGh3wX0BfQWfkNzBdOCwgh718PT-x-2jnWw-IqajZvQAAAA&tenantId=6003
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1011,68 +980,47 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-name="MUTV.HD.uk" tvg-logo="https://pictr.com/images/2024/02/02/EkIgRY.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#http://mykingtv.net:2082/NorHalizam69/Halizam111731/7271
+http://mykingtv.net:2082/zaki880/8890/7271
 
 #EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-logo="https://pictr.com/images/2024/02/02/EkIafO.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Liverpool FC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6712bf2a84edcc93d001a9613f6fec:cfb5e2b73bef4f3c878f25ab86a7451f
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+http://mykingtv.net:2082/zaki880/8890/7218
 
 #EXTINF: -1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/147
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/176
 
-#EXTINF: -1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNZ3Y.png" group-title="Sports", SKY SPORTS NEWS
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=30494&extension=ts
+#EXTINF: -1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNZ3Y.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NEWS
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
 
-#EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports", SKY SPORTS MIX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
-https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(sportsmix50)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS MIX
 
-#EXTINF: -1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports", SKY SPORTS MAIN EVENT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
-https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS MAIN EVENT
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/178
 
-#EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports", SKY SPORTS GOLF
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000506039e623144c5d5185b2abab5f1:1d9d6af28efaf8e835c66979004798e8
-https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsgolf)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://pictr.com/images/2024/06/08/x5OTuB.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS ACTION
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/179
 
-#EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports", SKY SPORTS FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
-https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS GOLF
 
-#EXTINF: -1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports", SKY SPORTS F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005b57b9b4712e29641ac981ba8d3c2:ca13cdd1b96bf1877d2c7ad9ee37d52e
-https://linear005-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS FOOTBALL
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/177
 
-#EXTINF: -1 tvg-id="SkySp.ArenaHD.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="Sports", SKY SPORTS ARENA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051d383f4b7035278058d6c15f7681:7f51be41496a29cd1bd1a2179b2b2da4
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsarena)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS F1
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/129
 
-#EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNg6Z.png" group-title="Sports", SKY SPORTS NFL
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0005fbae047ef478db08e38cdb6152fc:26434f7b66bbb9edcec958759164c2b3
-https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsaction)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.ArenaHD.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS ARENA
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/180
 
-#EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports", SKY SPORTS CRICKET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3
-https://linear002-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd
+#EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNg6Z.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NFL
 
-#EXTINF: -1 tvg-id="SkySpNBA.HD.uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_NBA.png" group-title="Sports", SKY SPORTS NBA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportnba)/manifest_720.mpd
 
+#EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS CRICKET
+
+
+#EXTINF: -1 tvg-id="SkySpNBA.HD.uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_NBA.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NBA
+
+#EXTINF: -1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pictr.com/images/2024/06/15/x7MAGO.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS Tennis
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/136
 
 #☯☯ || RADIO CHANNELS || ☯☯
 
