@@ -223,8 +223,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Thangathirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2109
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" ch-number="306" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
