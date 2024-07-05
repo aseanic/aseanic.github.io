@@ -1513,6 +1513,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
 #Entertainment
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/DuniaLain.png",Dunia Lain
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" } 
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
 #EXTINF:0 tvg-id="FMN.id" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia",FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://visionplus.id 
