@@ -582,45 +582,46 @@ http://mykingtv.net:2082/zaki880/8890/7271
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="LFCTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
 http://mykingtv.net:2082/zaki880/8890/7218
 
-#EXTINF: -1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
-#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/147
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/176
-
-
-#EXTINF: -1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNZ3Y.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NEWS
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
-
-#EXTINF: -1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS MIX
-
-#EXTINF: -1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS MAIN EVENT
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/178
-
-#EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://pictr.com/images/2024/06/08/x5OTuB.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS ACTION
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/179
-
-
-#EXTINF: -1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS GOLF
-
-
-#EXTINF: -1 tvg-id="SkySp.Fball.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS FOOTBALL
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/177
-
-#EXTINF: -1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS F1
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/129
-
-#EXTINF: -1 tvg-id="SkySp.ArenaHD.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS ARENA
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/180
-
-#EXTINF: -1 tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://pictr.com/images/2024/01/06/EyNg6Z.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NFL
-
-
-#EXTINF: -1 tvg-id="SkySpCricket.HD.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS CRICKET
-
-
-#EXTINF: -1 tvg-id="SkySpNBA.HD.uk" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_NBA.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS NBA
-
-#EXTINF: -1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pictr.com/images/2024/06/15/x7MAGO.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png", SKY SPORTS Tennis
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/136
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium38/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium130/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium35/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/3pySViT.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium60/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://i.imgur.com/YcPGCZ5.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium36/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium37/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/BoB4qIE.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium70/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium65/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/L9nSw5W.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium449/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.imgur.com/d6Kzla9.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium554/index.m3u8|Origin=https://lewblivehdplay.ru
 
 #☯☯ || MUSIC CHANNELS || ☯☯
 
