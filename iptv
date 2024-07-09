@@ -33,7 +33,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="AwesomeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
@@ -1187,7 +1187,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+https://linearjitp03-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533.m3u8
