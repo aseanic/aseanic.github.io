@@ -104,7 +104,8 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71100?play_token=shareext
 #http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
 #http://mykingtv.net:2082/zaki880/8890/8483
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
@@ -183,7 +184,8 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/1726
 http://muka03.wanicelife.com:8880/D12m2370/88152514/1714
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
-http://mykingtv.net:2082/zaki880/8890/8491
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/50
+#http://mykingtv.net:2082/zaki880/8890/8491
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71046?play_token=shareext
@@ -198,7 +200,8 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71042
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
-http://mykingtv.net:2082/zaki880/8890/8498
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/44
+#http://mykingtv.net:2082/zaki880/8890/8498
 
 #China
 
@@ -315,7 +318,8 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/74
 #http://mykingtv.net:2082/zaki880/8890/6991
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191912
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/138
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191912
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.HDTV.(SCIHD).us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
@@ -348,8 +352,8 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71119
 http://mykingtv.net:2082/zaki880/8890/5300
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/77
-
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/45
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/77
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
 http://mykingtv.net:2082/zaki880/8890/5303
@@ -569,7 +573,8 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/89
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MkDf.png",EUROSPORT2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/183
@@ -611,7 +616,8 @@ https://webhdrunns.onlinehdhls.ru/lb/premium38/index.m3u8|Origin=https://lewbliv
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium130/index.m3u8|Origin=https://lewblivehdplay.ru
+#https://webhdrunns.onlinehdhls.ru/lb/premium130/index.m3u8|Origin=https://lewblivehdplay.ru
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/92
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
@@ -676,6 +682,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="LoveNature4K" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#http://gmlive.ddns.net:5000/kun5g/kun5g2024/94
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="529.unifi" tvg-logo="https://pictr.com/images/2023/05/26/EMkGl8.png",Luxe TV
 #https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
