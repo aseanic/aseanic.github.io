@@ -160,7 +160,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2PhhUkjxhY-Q0TNfJ7D9no9w=KCia//dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41oN22S51uUDo8E9ET1Tb2PhhUkjxhY-Q0TNfJ7D9no9w=KCia/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
