@@ -240,8 +240,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default_primary.m
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png",Astro Live Event 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
