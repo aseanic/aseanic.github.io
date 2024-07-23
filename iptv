@@ -1845,19 +1845,19 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 ---------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="118.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",INSPIRASI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227601/3221227601.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBQ4yQtjnn4TWNzyW6YccCDiH3gGqWujpao2pi7VXmFoVNSeV0L%2FAJPMn0FNsuQ79V%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240710060925%3AUTC%2C1005926113%2C118.100.198.102%2C20240710060925%2Curn:Huawei:liveTV:iptv21343%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBiD32bHhU1weNhJY2Ji0ET0an62f5MwmG5A4tsLite2X9s-gMLDTm6MFjxdGchwk3KRV4rnFeMrTI3SPFmTiK_CS04UOFd3tvB6xm6X7Z0lNKGcM5rmpJzr9g7skiyGtsIg2R-7YBhrhVJHQ0eIFKwNaKGvfUfPDt7X4JYIwXK5xsS0zzKRCZYz0s9qCbGZHPKAuPXtEwLqo7dfQBpwEckTVAMWC2hRdoNzP-4U9PTmA_u1k6j0AAAA&tenantId=6001
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/inspirasi/
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #EXTINF:-1 tvg-id="141.unifi"  tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",PESONA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWM1ZGFlNWItNjNjZi0zZGVhLTkyN2YtYWRkYjFlMjM0MTVi
 #EXTINF:-1 tvg-id="116.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",Sensasi
-https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBQ4yQtjnn4TWNzyW6YccCDh0egfNHwC1CCnCrmb5qu2Zjz8EPdGOUNy%2BNXJcB1z1gPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240710061100%3AUTC%2C1005926113%2C118.100.198.102%2C20240710061100%2Curn:Huawei:liveTV:SP000004015718%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAmpMLpxSVYoUuZXi9Fqt4ZlYwSYFJ1L_PnbrXnd3VjNnODq8WihRU-9qqMpXRrlOSmO62ghfSWgtWKHvJlnFHGIcptAkv2Kfp_2XFFxwpSSvdqxd794iwrZs7mNH2cp_7ET5MTiyvvT8gcIRQqaAeUgT_4j4Oee4TRi1m5o0i5vUO61etGbzmrYo16VhF5R9Gm_I5I8p_AK2RyzEbnBXBGowkp3uMf5x79kvNk_sP3Ey9AAAAA&tenantId=6001
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/sensasi/
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png", DEGUP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
