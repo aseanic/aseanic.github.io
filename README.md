@@ -6,7 +6,9 @@ Instruction:
 No manual EPG input is required as the EPG already intergrated inside the playlist header. Just input this simple url and you're done 
 
 For Kodi : https://aseanic.github.io/tv
+
 For OTT : https://aseanic.github.io/iptv
+
 For Radio : https://aseanic.github.io/radio
 
 Enjoy!
