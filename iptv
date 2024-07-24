@@ -31,7 +31,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="AwesomeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
-https://linearjitp03-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
@@ -180,12 +180,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=2105
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp03-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai"  group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
-https://linearjitp03-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Thangathirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -197,14 +199,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2400/index.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2400/default.mpd
 
 #EXTINF:-1 tvg-id="AstroQJ" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/jitp-dashisowm/2507/default_primary.mpd
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2507/index.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2507/default.mpd
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -214,8 +216,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 #EXTINF:-1  tvg-id="AstroAODHD" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 311
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2706/index.mpd
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAOD352" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 352
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -292,7 +293,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default.mpd
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5016/default.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,7 +304,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBJade" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",TVB Jade
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2600/default.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",TVB Entertainment News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -319,7 +322,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCM"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixChineseChannel" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,7 +346,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default.mpd
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/403/default.mpd
 
 #☯☯ || INDIAN CHANNELS || ☯☯
 
@@ -354,27 +359,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunMusic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5011/default.mpd
 
 #EXTINF:-1  group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/915/default.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunNews"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5087/default.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",KTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5088/default.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunLife"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmMEcIxCn2E+wtxTYZ1vdg", "kid":"4+G+lObBk/oheHzoQ122EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5089/default.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -384,7 +394,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png",Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -395,12 +406,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ZeeTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 
 #EXTINF:-1 tvg-id="ZeeCinema" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png"  tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png",BollywooD ᴴᴰ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
