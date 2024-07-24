@@ -444,7 +444,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
