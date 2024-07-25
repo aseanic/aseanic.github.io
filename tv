@@ -580,30 +580,35 @@ http://fixtv.shop:888/long/long/7949
 http://mykingtv.net:2082/zaki880/8890/18864
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1722
+http://fixtv.shop:888/long/long/7988
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1722
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1721
+http://fixtv.shop:888/long/long/7989
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1721
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1720
+http://fixtv.shop:888/long/long/7992
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1720
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1719
+http://fixtv.shop:888/long/long/7994
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1719
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1713
+http://fixtv.shop:888/long/long/7996
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1713
 #http://mykingtv.net:2082/zaki880/8890/8649
 
 #EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
 http://31.42.187.37:25461/watchpad13158/1234/328
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/143
 
-#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV" tvg-logo="https://pictr.com/images/2024/06/15/x78t4I.png",SPOTV Stadia
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV" tvg-logo="https://pictr.com/images/2024/06/15/x78t4I.png",SPOTV
 http://31.42.187.37:25461/watchpad13158/1234/110
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2
@@ -766,20 +771,25 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5
-http://mykingtv.net:2082/zaki880/8890/8507
+http://fixtv.shop:888/long/long/31
+#http://mykingtv.net:2082/zaki880/8890/8507
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
-http://mykingtv.net:2082/zaki880/8890/8508
+http://fixtv.shop:888/long/long/32
+#http://mykingtv.net:2082/zaki880/8890/8508
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U
-http://mykingtv.net:2082/zaki880/8890/8509
+http://fixtv.shop:888/long/long/33
+#http://mykingtv.net:2082/zaki880/8890/8509
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1700
+http://fixtv.shop:888/long/long/34
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1700
 #http://mykingtv.net:2082/zaki880/8890/8510
 
 #EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Channel Vasantham
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1699
+http://fixtv.shop:888/long/long/35
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1699
 #http://mykingtv.net:2082/zaki880/8890/8501
 
 #EXTINF:-1 tvg-id="CNA" group-title="Singapore;News" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
@@ -797,11 +807,11 @@ http://31.42.187.37:25461/watchpad13158/1234/335
 
 
 #EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
-http://mykingtv.net:2082/zaki880/8890/5277
+http://31.42.187.37:25461/watchpad13158/1234/92
+#http://mykingtv.net:2082/zaki880/8890/5277
 
 #EXTINF:-1 tvg-id="471.unifi" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
-http://mykingtv.net:2082/zaki880/8890/6954
-
+#http://mykingtv.net:2082/zaki880/8890/6954
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
 #http://mykingtv.net:2082/zaki880/8890/7123
