@@ -618,11 +618,13 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71118?play_token=shareext
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71101?play_token=shareext
+http://fixtv.shop:888/long/long/7977
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71101?play_token=shareext
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71106?play_token=shareext
+http://fixtv.shop:888/long/long/8959
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71106?play_token=shareext
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/89
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182
 
@@ -630,22 +632,25 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71106?play_token=shareext
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/183
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71107?play_token=shareext
+http://fixtv.shop:888/long/long/7979
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71107?play_token=shareext
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/140
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",PREMIER SPORTS
-http://muka03.wanicelife.com:8880/D12m2370/88152514/71108?play_token=shareext
+http://fixtv.shop:888/long/long/7980
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71108?play_token=shareext
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191868
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="WWENetwork" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network
-http://muka03.wanicelife.com:8880/D12m2370/88152514/1698
+http://fixtv.shop:888/long/long/7978
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1698
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/175
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="FightSports.Id" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
-
+http://fixtv.shop:888/long/long/8957
 
 #EXTINF:-1 group-title="MYTV;Sports" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
