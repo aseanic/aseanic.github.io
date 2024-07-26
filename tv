@@ -23,7 +23,8 @@ http://fixtv.shop:888/long/long/25
 #http://mykingtv.net:2082/zaki880/8890/8480
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
-http://31.42.187.37:25461/watchpad13158/1234/14
+http://fixtv.shop:888/long/long/28
+#http://31.42.187.37:25461/watchpad13158/1234/14
 #http://mykingtv.net:2082/zaki880/8890/8458
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="AwesomeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
@@ -53,7 +54,7 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+#https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #http://mykingtv.net:2082/zaki880/8890/8441
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
@@ -108,7 +109,8 @@ http://fixtv.shop:888/long/long/22
 
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
-http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
+http://fixtv.shop:888/long/long/118
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
 #http://mykingtv.net:2082/zaki880/8890/5175
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVinmeenHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",Astro Vinmeen
@@ -121,8 +123,9 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71100?play_token=shareext
 #http://dmtn.tv:8080/live/steveny5997/54332611/379001.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
+http://fixtv.shop:888/long/long/134
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
 #http://mykingtv.net:2082/zaki880/8890/8483
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
@@ -130,7 +133,8 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/1728
 #http://mykingtv.net:2082/zaki880/8890/8485
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191948
+http://fixtv.shop:888/long/long/138
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/191948
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1725
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAODHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD 311
@@ -257,10 +261,10 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71031?play_token=shareext
 
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",KTV
-http://mykingtv.net:2082/zaki880/8890/5222
+#http://mykingtv.net:2082/zaki880/8890/5222
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunLife" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life
-http://mykingtv.net:2082/zaki880/8890/5178
+#http://mykingtv.net:2082/zaki880/8890/5178
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71034?play_token=shareext
@@ -490,7 +494,7 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71058?play_token=shareext
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/25
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Showcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
-http://mykingtv.net:2082/zaki880/8890/8409
+#http://mykingtv.net:2082/zaki880/8890/8409
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
 http://31.42.187.37:25461/watchpad13158/1234/47
@@ -670,10 +674,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="MUTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzAGr.png",MUTV
-http://mykingtv.net:2082/zaki880/8890/7271
+#http://mykingtv.net:2082/zaki880/8890/7271
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="LFCTV.HD.uk" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
-http://mykingtv.net:2082/zaki880/8890/7218
+#http://mykingtv.net:2082/zaki880/8890/7218
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
