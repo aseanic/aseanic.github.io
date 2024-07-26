@@ -1006,7 +1006,7 @@ https://7pal.short.gy/SSF1uhd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png"Astro OLY 1
+#EXTINF:-1 tvg-id="OLY1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 1
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1014,7 +1014,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xqCbHYAdNjHNd9pIZXjd9g", "kid":"FgTsETWMbIgQK++Ktb3KEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro OLY 2
+#EXTINF:-1 tvg-id="OLY2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 2
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1022,7 +1022,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fHqYI2x9zOQ/EmkZAGC4oA", "kid":"1q/iRrPbBn34N/r8BneNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro OLY 3
+#EXTINF:-1 tvg-id="OLY3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 3
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1030,7 +1030,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ocORwepRV1bVJyly1rvXKQ", "kid":"ZKjwhJDZHe2J+XfYWHjREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro OLY 4
+#EXTINF:-1 tvg-id="OLY4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1038,7 +1038,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KI5/icnIcm2IB1Pdr55w7Q", "kid":"jLZ7f6NN5hUylHJUMJ1NEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro OLY 5
+#EXTINF:-1 tvg-id="OLY5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
 
 #☯☯ || RADIO CHANNELS || ☯☯
