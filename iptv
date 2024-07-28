@@ -572,7 +572,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default.mpd
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="HITS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
