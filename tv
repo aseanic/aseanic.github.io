@@ -1151,7 +1151,7 @@ https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Chinese"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Japanese"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Japan"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
 https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Chinese"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
 https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
