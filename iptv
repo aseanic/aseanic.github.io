@@ -911,16 +911,16 @@ https://7pal.short.gy/astross1
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
-https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqTyn3C1AFaw0PKqr4YUQ8_o=bIgH/dash-wv/jitp-dashisowm/601/default_primary.mpd
-#https://7pal.short.gy/astross2
+#https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqTyn3C1AFaw0PKqr4YUQ8_o=bIgH/dash-wv/jitp-dashisowm/601/default_primary.mpd
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
-https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYXG6tMYNp1KUgmZZvZTF4QA=JT94/dash-wv/jitp-dashisowm/2701/default_primary.mpd
-#https://7pal.short.gy/astross3
+#https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYXG6tMYNp1KUgmZZvZTF4QA=JT94/dash-wv/jitp-dashisowm/2701/default_primary.mpd
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
