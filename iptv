@@ -133,7 +133,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/1004/index.mpd
+http://linears-playback.astro.com.my/vsg/41-iMCUetn7HL9g9_DMfDMk3Yj3B9NsllhirBzWr8LUIs=x-6_/dash-wv/jitp-linearwm/1004/default_primary.mpd
+#https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/1004/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,13 +152,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2402/index.mpd
+http://linears-playback.astro.com.my/vsg/415udcIrJ4zS2GeFMfxANkJxTDx_9PHGjKWofPhs2W9Tc=Uxn-/dash-wv/jitp-linearwm/2402/default_primary.mpd
+#https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2402/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2700/index.mpd
+http://linears-playback.astro.com.my/vsg/4159jaNFDDC8yOSWA02qdAJ-tGkZcp0UMJ0oNv9Jttwiw=ExvB/dash-wv/jitp-linearwm/2700/default_primary.mpd
+#https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2700/index.mpd
 
 EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 
@@ -189,7 +192,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+http://linears-playback.astro.com.my/vsg/41rXGrlhtZe0sMiaD2-jntT7edtQ9FKdJJwmJKxzzokts=EwjD/dash-wv/jitp-linearwm/2105/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai"  group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -204,16 +207,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default.mpd
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jacsqFAaTetL/Dgf4XN+9A", "kid":"BighV9pOj5diOnDtAX+tEA" } ], "type":"temporary" }
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yek5yQ05ETUN4SnFFOHExdTdaUS1EVFFlY0N6cHE0algyZTJhMUQ1MjQxYnNJZ1h2aUpzekhhUUtQUlFFS3F3NzdCVDdXYmRHZjYyd2pKX05wVVJ6M2ZuSzUySlpaT1A4b1U5VVhyS1VCcktQOUFISndlclE4Q08wSlNDN3lUVFJZNVhrdlEwMnNILThqS2J5STVuNktDUVJGeTJ3WnNFQVl4MTU2MUpOckJVazcySGdBWlNMZ2N1WmZyOUlWVThMa3hBSXFmRFhvYkE2TjBQZnFReUhSc3VleVhvZ1lEMVFjYVYxSmlkWXV1am5OMVQ0U3pFVjJIQVYtZk5zX09FVTJ6UUs1RkQwVkxrME5VaHVqSmRaZEE5VFZMS0pIZ25CbXl4Z1FCVURnNERCRG94NkFBQVA5U2ZjaTNocnJWOFpHTUJzcndBbWxockJsN1F2aDIxdnNkX2l1VG54eFU2cS1ZUDF5ZWE2WGVvc2s3SjRRS2VnOWNpa0RlTW9teTc3bE9QQXJrZXZDNnRhMjI2NkpyWW9uMHFpa3hhUTFmYUtRaDdvZ0szUGJPQjBYUE1jby1YRkVaUFVNN19FaThndHFoTjluZGhsRFBsdDlRcTVsWWpLWmZ2enpHSS1FNEVWQVVnTkxDVzlUWlhRPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xOTE1NTg1OSIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJmMGVmMjMzYTAwMjk0YWY0ODQzMWNhZTlhMTQ2NTExNyIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h6TnJDTkRNQ3hKcUU4cTF1N1pRLURUUWVjQ3pwcTRqWDJlMmExRDUyNDFic0lnWHZpSnN6SGFRS1BSUUVLcXc3N0JUN1diZEdmNjJ3akpfTnBVUnozZm5LNTJKWlpPUDhvVTlVWHJLVUJyS1A5QUhKd2VyUThDTzBKU0M3eVRUUlk1WGt2UTAyc0gtOGpLYnlJNW42S0NRUkZ5Mndac0VBWXgxNTYxSk5yQlVrNzJIZ0FaU0xnY3VaZnI5SVZVOExreEFJcWZEWG9iQTZOMFBmcVF5SFJzdWV5WG9nWUQxUWNhVjFKaWRZdXVqbk4xVDRTekVWMkhBVi1mTnNfT0VVMnpRSzVGRDBWTGswTlVodWpKZFpkQTlUVkxLSkhnbkJteXhnUUJVRGc0REJEb3g2QUFBUDlTZmNpM2hyclY4WkdNQnNyd0FtbGhyQmw3UXZoMjF2c2RfaXVUbnh4VTZxLVlQMXllYTZYZW9zazdKNFFLZWc5Y2lrRGVNb215NzdsT1BBcmtldkM2dGEyMjY2SnJZb24wcWlreGFRMWZhS1FoN29nSzNQYk9CMFhQTWNvLVhGRVpQVU03X0VpOGd0cWhOOW5kaGxEUGx0OVFxNWxZaktaZnZ6ekdJLUU0RVZBVWdOTENXOVRaWFE9PSIsInVkaWQiOiI0MjJkOGY5ZS0yNWI0LTRlNmUtOWU3MC00OGJlMjdhNTg5Y2JfV0VCLTE0MTFkMWNhLWFlMmEtNTA1OC02MjhiLTExYzY4ZmI3ODNmOCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=aLNLFnbaHG%2frxbnSdr%2bXFDjHEWQ%3d&sessionId=8f3caf24-0fe5-4464-3e35-7fb4ff8436f5:a598b37b-81e8-7e85-a139-5e3381f1d82b&clientTag=html5:v3.17.20&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2FlYy1oZC8xNDk3ODI0L3BsYXllcj9saW5lYXJJZD0xMDI3NzYwMzEmaXNMaXZlPXRydWU=
+https://a2ef74f67b1f43689b5bef947c40d9ed.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/AEC_Production/masterCH1.mpd?aws.sessionId=f4a8407e-f4e4-4eb3-941c-094f543e7f27
 
 #EXTINF:-1 tvg-id="AstroQJ" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/jitp-dashisowm/2507/default.mpd
+https://linears-playback.astro.com.my/vsg/41qh1co3431tvOBKzQcOjA3zyKUHzG2gETfy6prqDxQic=ayCB/dash-wv/jitp-dashisowm/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -878,14 +884,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default.mpd
-http://fixtv.shop:888/long/long/7948
+https://linears-playback.astro.com.my/vsg/41Sxt3DWhZdej265n7aXR92A9TPAe0NNydvSyrlnGs5SY=Fbl-/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png",ASTRO ARENA BOLA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default.mpd
-http://fixtv.shop:888/long/long/7950
+https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6uzn-aEfZhauujhTX9rLMvs=yZYm/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -899,14 +905,16 @@ https://7pal.short.gy/astross1
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
-https://7pal.short.gy/astross2
+https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqTyn3C1AFaw0PKqr4YUQ8_o=bIgH/dash-wv/jitp-dashisowm/601/default_primary.mpd
+#https://7pal.short.gy/astross2
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
-https://7pal.short.gy/astross3
+https://linears-playback.astro.com.my/vsg/41SxZSqxQoUXNO2Zb4SsAtYXG6tMYNp1KUgmZZvZTF4QA=JT94/dash-wv/jitp-dashisowm/2701/default_primary.mpd
+#https://7pal.short.gy/astross3
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
