@@ -133,7 +133,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linears-playback.astro.com.my/vsg/41-iMCUetn7HL9g9_DMfDMk3Yj3B9NsllhirBzWr8LUIs=x-6_/dash-wv/jitp-linearwm/1004/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41-iMCUetn7HL9g9_DMfDMk9GdcRbwNWDSHXduRfVk7WQ=joqA/dash-wv/jitp-linearwm/1004/default_primary.mpd
 #https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/1004/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
@@ -152,14 +152,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linears-playback.astro.com.my/vsg/415udcIrJ4zS2GeFMfxANkJxTDx_9PHGjKWofPhs2W9Tc=Uxn-/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/415udcIrJ4zS2GeFMfxANkJxmPQTUYdyMzonMeLX7uFWo=brgu/dash-wv/jitp-linearwm/2402/default_primary.mpd
 #https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2402/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linears-playback.astro.com.my/vsg/4159jaNFDDC8yOSWA02qdAJ-tGkZcp0UMJ0oNv9Jttwiw=ExvB/dash-wv/jitp-linearwm/2700/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/4159jaNFDDC8yOSWA02qdAJxQX4mQfhtMT2vDzPFN3ROI=92SV/dash-wv/jitp-linearwm/2700/default_primary.mpd
 #https://royal-water-e008.lu-mau-apaan-sih-waduhhh.workers.dev/2700/index.mpd
 
 EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
@@ -192,7 +192,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linears-playback.astro.com.my/vsg/41rXGrlhtZe0sMiaD2-jntT7edtQ9FKdJJwmJKxzzokts=EwjD/dash-wv/jitp-linearwm/2105/default_primary.mpd
+http://linears-playback.astro.com.my/vsg/41rXGrlhtZe0sMiaD2-jntTz91TRXPHTQtgj_SnBBeSRY=ZLVL/dash-wv/jitp-linearwm/2105/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai"  group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -903,8 +903,7 @@ https://linears-playback.astro.com.my/vsg/41W9CerGIQW-wTXKgMyFzl6uzn-aEfZhauujhT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
-https://7pal.short.gy/astross1
+https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqTyn3C1AFaw0PKqr4YUQ8_o=bIgH/dash-wv/jitp-dashisowm/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
