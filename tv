@@ -12,6 +12,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+https://live-tvs.tvsarawak.my/live/tvs_720p2628kbs/index.m3u8
 #https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
@@ -585,32 +586,32 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/71113
 #☯☯ || SPORTS CHANNELS || ☯☯
 
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersportUHD" tvg-logo="https://pictr.com/images/2023/05/19/EMxTMA.png",ASTRO Supersport UHD
+#EXTINF:-1 tvg-id="AstroSupersportUHD" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO Supersport UHD
 https://7pal.short.gy/astrouhd
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/1722
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",ASTRO ARENA 1
+#EXTINF:-1 tvg-id="AstroArena" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 1
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157485
 http://31.42.187.37:25461/watchpad13158/1234/286
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArena2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",ASTRO ARENA 2
+#EXTINF:-1 tvg-id="AstroArena2" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",ASTRO ARENA 2
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287793
 #http://muka03.wanicelife.com:8880/D12m2370/88152514/71076?play_token=shareext
 http://31.42.187.37:25461/watchpad13158/1234/336
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",ARENA BOLA 1
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola
 http://31.42.187.37:25461/watchpad13158/1234/331
 #http://fixtv.shop:888/long/long/7947
 #http://mykingtv.net:2082/zaki880/8890/18863
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroArenaBola2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",ARENA BOLA 2
+#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola 2
 http://31.42.187.37:25461/watchpad13158/1234/332
 #http://fixtv.shop:888/long/long/7949
 #http://mykingtv.net:2082/zaki880/8890/18864
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
 http://31.42.187.37:25461/watchpad13158/1234/114
 #https://7pal.short.gy/astross1
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
@@ -618,7 +619,7 @@ http://31.42.187.37:25461/watchpad13158/1234/114
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5480
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
 http://31.42.187.37:25461/watchpad13158/1234/113
 #https://7pal.short.gy/astross2
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
@@ -626,7 +627,7 @@ http://31.42.187.37:25461/watchpad13158/1234/113
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5481
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
+#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Grandstand
 http://31.42.187.37:25461/watchpad13158/1234/112
 #https://7pal.short.gy/astross3
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
@@ -634,7 +635,7 @@ http://31.42.187.37:25461/watchpad13158/1234/112
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5482
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
 http://31.42.187.37:25461/watchpad13158/1234/111
 #https://7pal.short.gy/astross4
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
@@ -647,7 +648,7 @@ http://31.42.187.37:25461/watchpad13158/1234/111
 http://muka03.wanicelife.com:8880/D12m2370/88152514/1713
 #http://mykingtv.net:2082/zaki880/8890/8649
 
-#EXTINF:-1 group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+#EXTINF:-1 tvg-id="AstroCricket" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
 http://31.42.187.37:25461/watchpad13158/1234/328
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/143
 
