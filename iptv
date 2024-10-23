@@ -1085,13 +1085,6 @@ https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/07/13/xEO3LX.png" group-title="Sports;4k" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Sky Sports UHD
 https://7pal.short.gy/SSF1uhd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://paris2024.rtm.gov.my/_next/static/media/rtm-paris-logo.0af45aea.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Olympic RTM 1
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://paris2024.rtm.gov.my/_next/static/media/rtm-paris-logo.0af45aea.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Olympic RTM 2
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
-
-
 #☯☯ || RADIO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
