@@ -601,17 +601,17 @@ http://31.42.187.37:25461/watchpad13158/1234/286
 http://31.42.187.37:25461/watchpad13158/1234/336
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171
 
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola
 http://31.42.187.37:25461/watchpad13158/1234/331
 #http://fixtv.shop:888/long/long/7947
 #http://mykingtv.net:2082/zaki880/8890/18863
 
-#EXTINF:-1 tvg-id="804.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola 2
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola 2
 http://31.42.187.37:25461/watchpad13158/1234/332
 #http://fixtv.shop:888/long/long/7949
 #http://mykingtv.net:2082/zaki880/8890/18864
 
-#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
 http://31.42.187.37:25461/watchpad13158/1234/114
 #https://7pal.short.gy/astross1
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
@@ -619,7 +619,7 @@ http://31.42.187.37:25461/watchpad13158/1234/114
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5480
 
-#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
 http://31.42.187.37:25461/watchpad13158/1234/113
 #https://7pal.short.gy/astross2
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
@@ -627,7 +627,7 @@ http://31.42.187.37:25461/watchpad13158/1234/113
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5481
 
-#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Grandstand
+#EXTINF:-1 tvg-id="AstroGrandstand" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Grandstand
 http://31.42.187.37:25461/watchpad13158/1234/112
 #https://7pal.short.gy/astross3
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
@@ -635,7 +635,7 @@ http://31.42.187.37:25461/watchpad13158/1234/112
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5482
 
-#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
+#EXTINF:-1 tvg-id="AstroFootball" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
 http://31.42.187.37:25461/watchpad13158/1234/111
 #https://7pal.short.gy/astross4
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
