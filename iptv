@@ -911,7 +911,7 @@ http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-id="AstroArenaBola3" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png",Arena Bola 3
+#EXTINF:-1 tvg-id="AstroArenaBola3" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png",Arena Bola 3
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PuQ1C8CSgFmcLfZeGGntGA", "kid":"l0fLDwdEg+XkaUnba5b7EA" } ], "type":"temporary" }
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
 http://d1w72er2qn2fg9.cloudfront.net/bola3.mpd
