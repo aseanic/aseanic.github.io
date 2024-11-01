@@ -874,8 +874,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
