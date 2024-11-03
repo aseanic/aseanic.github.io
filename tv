@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -1235,10 +1235,6 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #☯☯ || THAI CHANNELS || ☯☯
 
 
-#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/115_y_CMe1TGxboE3rpW6dVmj5cOqyZaNfkQKD.png",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
@@ -1254,10 +1250,6 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD.th" tvg-name="5HD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang (Thai).th" tvg-name="Boomerang" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_y_xD7XpVB69n0eicFrUaNMAl1dmtvZSuY5.png",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
 
 #EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T Sports 7.th" tvg-name="TSPORT" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/119_y_deNSTkCFva2lptu4qOEBWX1P6R3gYA8c.png",TSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -1275,45 +1267,13 @@ https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
 
-#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy" tvg-name="MVMall Healthy" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_y_dXKD7lFMvczOB32q4wJ1GjHbLtySYk9R.png",MVMall Healthy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall ดี๊ดี" tvg-name="MVMall ดี๊ดี" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_y_9k5RXQiJ1TLVPYZsNoCez3UlADt40whb.png",MVMall ดี๊ดี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="13" ch-number="13" tvg-id="MVMall Home" tvg-name="MVMall Home" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/112_y_15JWUfg6Psv0yKEuY7a9DmMNHz23ZlrF.jpg",MVMall Home
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="14" ch-number="14" tvg-id="MVMall Trend" tvg-name="MVMall Trend" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_y_MEQW4wbyedpLSGACI86uoJ7cDisaqYhK.jpg",MVMall Trend
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living" tvg-name="MVMall Living" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/171_y_6VgPnhr2tLUak5d4QcpNiJWTMGuwevKB.jpg",MVMall Living
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
-
 #EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN16.th" tvg-name="TNN16" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/121_y_vOC9d8VmjNiQJBHf4DEkryalx7XG13PR.png",TNN16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
 
-#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family" tvg-name="MVMall Family" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/107_y_D9BqwSP7lu2iF18KmdCAOsJphWY6cUGH.jpg",MVMall Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall_ttd12/mvmall_ttd12.stream?type=m3u8
-
 #EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN 18.th" tvg-name="JKN18" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/122_y_dyaTzULei7V9Mn6uHPbQJZD0EXtmfABR.png",JKN18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="19" ch-number="19" tvg-id="MVMall Best" tvg-name="MVMall Best" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/113_y_O7DG9m528AeKzPprxMY1ZICcjoaifE4S.jpg",MVMall Best
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall2/mvmall2.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="20" ch-number="20" tvg-id="MVMall Happy" tvg-name="MVMall Happy" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_y_g2i5qSrm1Qk47JFcntxaVIjfy6LHsNPA.png",MVMall Happy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้าน" tvg-name="ไทบ้าน" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_y_ZmflU6NdehsWPOiwbVEDoRxTX0zC3rMa.png",ไทบ้าน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -1379,86 +1339,63 @@ https://lb-mvtv-live.v2h-cdn.com/redirect//hd_pptv/hd_pptv.stream?type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="103" ch-number="103" tvg-id="MVC" tvg-name="MVC" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/109_y_SFVBJLZ0zE7bMDYN8Umo9yQHkTtnChs5.png",MVC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv3cam/tv3cam.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24" tvg-name="France 24" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/151_y_cXak6CHGfUeEdBAhtVSjKx3LpboP94sM.jpg",France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/152_y_AIwfNQU9Xx0lZRHtepEv8hzoWn75q4O6.jpg",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-
-#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="NHK WORLD-JAPAN.th" tvg-name="NHK WORLD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg",NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="CCTV 4.th" tvg-name="CCTV4" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/154_y_X3gbTYm97OfKSvJW4ePjspwM26xa1AZC.jpg",CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV 1.th" tvg-name="DLTV1" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/136_y_68spLc0JXweQWNUdngSlVFHqMCPmBo74.png",DLTV1
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="201" tvg-id="DLTV 1.th" tvg-name="DLTV1" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/136_y_68spLc0JXweQWNUdngSlVFHqMCPmBo74.png",DLTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
-#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV 2.th" tvg-name="DLTV2" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/137_y_FpCKulfbAo7hPeMwsY54IyirXW2x0LgT.png",DLTV2
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="202" tvg-id="DLTV 2.th" tvg-name="DLTV2" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/137_y_FpCKulfbAo7hPeMwsY54IyirXW2x0LgT.png",DLTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 
-#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="DLTV 3.th" tvg-name="DLTV3" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/138_y_yifb9uo5jI3GZm0YrlqF7kxXU2pWwM4O.png",DLTV3
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="203" tvg-id="DLTV 3.th" tvg-name="DLTV3" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/138_y_yifb9uo5jI3GZm0YrlqF7kxXU2pWwM4O.png",DLTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 
-#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="DLTV 4.th" tvg-name="DLTV4" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/139_y_G8aztxI7lopC4jKZqYk6gMVXfe3291iT.png",DLTV4
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="204" tvg-id="DLTV 4.th" tvg-name="DLTV4" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/139_y_G8aztxI7lopC4jKZqYk6gMVXfe3291iT.png",DLTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv04.m3u8
 
-#EXTINF:-1 tvg-chno="205" ch-number="205" tvg-id="DLTV 5.th" tvg-name="DLTV5" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/140_y_XwfdOoYHB3a7GUsKIgS1qenjyJAhPzcp.png",DLTV5
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="205" tvg-id="DLTV 5.th" tvg-name="DLTV5" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/140_y_XwfdOoYHB3a7GUsKIgS1qenjyJAhPzcp.png",DLTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 
-#EXTINF:-1 tvg-chno="206" ch-number="206" tvg-id="DLTV 6.th" tvg-name="DLTV6" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/141_y_kda46LBzSvyKUAwnsEV0x5FHNWieXbQJ.png",DLTV6
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="206" tvg-id="DLTV 6.th" tvg-name="DLTV6" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/141_y_kda46LBzSvyKUAwnsEV0x5FHNWieXbQJ.png",DLTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv06.m3u8
 
-#EXTINF:-1 tvg-chno="207" ch-number="207" tvg-id="DLTV 7.th" tvg-name="DLTV7" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/142_y_05Rxumw8LcA2d1gkQY9Zq6pDH4sBOjai.png",DLTV7
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="207" tvg-id="DLTV 7.th" tvg-name="DLTV7" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/142_y_05Rxumw8LcA2d1gkQY9Zq6pDH4sBOjai.png",DLTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 
-#EXTINF:-1 tvg-chno="208" ch-number="208" tvg-id="DLTV 8.th" tvg-name="DLTV8" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/143_y_Y1djWzJ0RgfSOEo3rV5GDxqLv2AiFMyT.png",DLTV8
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="208" tvg-id="DLTV 8.th" tvg-name="DLTV8" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/143_y_Y1djWzJ0RgfSOEo3rV5GDxqLv2AiFMyT.png",DLTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 
-#EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV 9.th" tvg-name="DLTV9" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/144_y_aYDn3AiLxfchUqRtKebTg1S5v4mVCQOz.png",DLTV9
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="209" tvg-id="DLTV 9.th" tvg-name="DLTV9" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/144_y_aYDn3AiLxfchUqRtKebTg1S5v4mVCQOz.png",DLTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 
-#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV 10.th" tvg-name="DLTV10" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/145_y_TLNxScqMYmHbCXnzjdKfWkDwgrslVy3O.jpg",DLTV10
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="210" tvg-id="DLTV 10.th" tvg-name="DLTV10" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/145_y_TLNxScqMYmHbCXnzjdKfWkDwgrslVy3O.jpg",DLTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
-#EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV 11.th" tvg-name="DLTV11" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/146_y_9XSEgc2ZxOenR6jNKtCiwIsPoh1upUDk.jpg",DLTV11
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="211" tvg-id="DLTV 11.th" tvg-name="DLTV11" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/146_y_9XSEgc2ZxOenR6jNKtCiwIsPoh1upUDk.jpg",DLTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv11.m3u8
 
-#EXTINF:-1 tvg-chno="212" ch-number="212" tvg-id="DLTV 12.th" tvg-name="DLTV12" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/147_y_cmfb6rDCAwsGvtkqYolUuNj2nXpRSFIK.png",DLTV12
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="212" tvg-id="DLTV 12.th" tvg-name="DLTV12" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/147_y_cmfb6rDCAwsGvtkqYolUuNj2nXpRSFIK.png",DLTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv12.m3u8
 
-#EXTINF:-1 tvg-chno="213" ch-number="213" tvg-id="DLTV 13.th" tvg-name="DLTV13" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/148_y_uT5ohd0714OIHXKYN8vRBpaZSkGUAFwf.png",DLTV13
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="213" tvg-id="DLTV 13.th" tvg-name="DLTV13" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/148_y_uT5ohd0714OIHXKYN8vRBpaZSkGUAFwf.png",DLTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv13.m3u8
 
-#EXTINF:-1 tvg-chno="214" ch-number="214" tvg-id="DLTV 14.th" tvg-name="DLTV14" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/149_y_q7fbJ4eWFI2Lstdj1pvrQy9Oi5kaP8Uc.png",DLTV14
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="214" tvg-id="DLTV 14.th" tvg-name="DLTV14" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/149_y_q7fbJ4eWFI2Lstdj1pvrQy9Oi5kaP8Uc.png",DLTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 
-#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV 15.th" tvg-name="DLTV15" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/150_y_nipxyfZ1W5LeMXODthBzwYCG063cq9ol.png",DLTV15
+#EXTINF:-1 tvg-chno="Local.Programming.Dummy.us" ch-number="215" tvg-id="DLTV 15.th" tvg-name="DLTV15" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/150_y_nipxyfZ1W5LeMXODthBzwYCG063cq9ol.png",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-chno="216" ch-number="216" tvg-id="BOOM ANIME.th" tvg-name="BOOM ANIME" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_FLSV93BN1q5kyrxQ0DuzYhfORs768Ao4.png",BOOM ANIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
