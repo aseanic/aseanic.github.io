@@ -267,8 +267,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #http://mykingtv.net:2082/zaki880/8890/5178
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571235
-#http://95.214.235.96:8880/29ca11113n01/adsfer3223/71034?play_token=shareext
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/71034?play_token=shareext
 #http://mykingtv.net:2082/zaki880/8890/5182
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi
@@ -493,8 +492,8 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
 #☯☯ || MOVIES CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HITSMovies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-#http://31.42.187.37:25461/watchpad13158/1234/85
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571200
+http://31.42.187.37:25461/watchpad13158/1234/85
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571200
 #http://mykingtv.net:2082/zaki880/8890/7129
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
@@ -603,6 +602,9 @@ http://31.42.187.37:25461/watchpad13158/1234/331
 http://31.42.187.37:25461/watchpad13158/1234/332
 #http://fixtv.shop:888/long/long/7949
 #http://mykingtv.net:2082/zaki880/8890/18864
+
+#EXTINF:-1 tvg-id="AstroBadminton" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Badminton
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/71105
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
 http://31.42.187.37:25461/watchpad13158/1234/114
@@ -808,15 +810,15 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5
-#http://fixtv.shop:888/long/long/31
+http://fixtv.shop:888/long/long/31
 #http://mykingtv.net:2082/zaki880/8890/8507
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
-#http://fixtv.shop:888/long/long/32
+http://fixtv.shop:888/long/long/32
 #http://mykingtv.net:2082/zaki880/8890/8508
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U
-#http://fixtv.shop:888/long/long/33
+http://fixtv.shop:888/long/long/33
 #http://mykingtv.net:2082/zaki880/8890/8509
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria
