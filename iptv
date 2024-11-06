@@ -1632,16 +1632,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 
 #Kids 
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia;Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia;Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/06/15/x7M1aX.png",Mentari TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia;Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
-https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 #Entertainment
 
