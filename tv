@@ -11,7 +11,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
-
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
@@ -321,7 +320,7 @@ http://31.42.187.37:25461/watchpad13158/1234/49
 http://31.42.187.37:25461/watchpad13158/1234/39
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/47
 
-#EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="BBCLifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
+#EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="BBCLifestyle" tvg-logo="https://pictr.com/images/2024/11/06/xi99gD.png",BBC Lifestyle
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/71120?play_token=shareext
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
@@ -339,7 +338,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/54974
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8ndG.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Global Fashion Channel
 #https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Local.Programming.Dummy.us" logo="https://cdn.hqth.me/logo/thumbs/232.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2024/01/07/EyUIxc.png", FashionTV⁴ᴷ
+#EXTINF:0 type="stream" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/06/xi9RMA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2024/01/07/EyUIxc.png", FashionTV⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Fashion TV Midnight Secrets HD
@@ -418,11 +417,11 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53363
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53561
 
 #EXTINF:-1 tvg-id="NASA.Television.(NASA).us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png",NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="AXN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
+#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="AXN" tvg-logo="https://pictr.com/images/2024/11/06/xi92Bq.png",AXN
 http://31.42.187.37:25461/watchpad13158/1234/17
 #http://mykingtv.net:2082/zaki880/8890/6985
 
@@ -430,7 +429,7 @@ http://31.42.187.37:25461/watchpad13158/1234/17
 http://31.42.187.37:25461/watchpad13158/1234/339
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/60466
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="HITS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS
+#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="HITS" tvg-logo="https://pictr.com/images/2024/11/06/xi93LI.png",HITS
 http://31.42.187.37:25461/watchpad13158/1234/51
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191946
 
@@ -464,7 +463,7 @@ http://31.42.187.37:25461/watchpad13158/1234/84
 #EXTINF:-1 tvg-id="AstroTutorTV" group-title="Kids;Astro" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV SMK
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191996
 
-#EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+#EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://pictr.com/images/2024/11/06/xi9sDO.png",Cartoon Network
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/71084?play_token=shareext
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/99
 
@@ -539,7 +538,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 #EXTINF:-1 group-title="News;Astro" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-id="AstroAwani" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest?cb=20200922172412",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-#EXTINF:-1 group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-id="BernamaTV" tvg-logo="https://bernama.com/bm/img/bernama.png",BERNAMA
+#EXTINF:-1 group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-id="BernamaTV" tvg-logo="https://pictr.com/images/2024/11/07/xiRGEX.png",BERNAMA
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/1717
 #http://mykingtv.net:2082/zaki880/8890/8474
 
@@ -572,7 +571,7 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/71112?play_token=shareext
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191922
 
-#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://eazie.tv/images/logos/sq/logo_abc_australia.png",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRVTx.png",ABC AUSTRALIA
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/71068?play_token=shareext
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191837
 
@@ -788,7 +787,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/26/EMkLox.png",NASA TV
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 #☯☯ || RADIO CHANNELS || ☯☯
 
@@ -816,19 +815,19 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5
+#EXTINF:-1  tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR4lV.png", Channel 5
 http://fixtv.shop:888/long/long/31
 #http://mykingtv.net:2082/zaki880/8890/8507
 
-#EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 
+#EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRuYD.png", Channel 8 
 http://fixtv.shop:888/long/long/32
 #http://mykingtv.net:2082/zaki880/8890/8508
 
-#EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U
+#EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR8o5.png", Channel U
 http://fixtv.shop:888/long/long/33
 #http://mykingtv.net:2082/zaki880/8890/8509
 
-#EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria
+#EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRMRQ.png", Channel Vasantham
 #http://fixtv.shop:888/long/long/34
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/1700
 #http://mykingtv.net:2082/zaki880/8890/8510
@@ -907,7 +906,7 @@ http://95.214.235.96:8880/29ca11113n01/adsfer3223/71111?play_token=shareext
 #http://mykingtv.net:2082/zaki880/8890/8467
 
 #EXTINF:0 tvg-id="Arirang" group-title="Korean" tvg-logo="https://pictr.com/images/2024/01/04/EXDd7g.jpg" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png",Arirang World
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KIX.id" group-title="Korean" tvg-id="KIX.id" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8NYq.png",KIX
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/1716
@@ -944,10 +943,6 @@ http://fixtv.shop:888/long/long/47
 http://fixtv.shop:888/long/long/168
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/2
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
-#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128
-http://210.210.155.37/x6bnqe/s/s41/index.m3u8
-
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
 http://fixtv.shop:888/long/long/157
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/13
@@ -976,6 +971,10 @@ http://fixtv.shop:888/long/long/161
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
 http://31.42.187.37:25461/watchpad13158/1234/29
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/4
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="tvOne.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/12
@@ -1011,7 +1010,6 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Lifestyle",Lifestyle & Fashion
-
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Lifestyle",IE 
 
