@@ -644,6 +644,9 @@ http://31.42.187.37:25461/watchpad13158/1234/111
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169
 #http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5483
 
+#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Supersport Plus
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/71146
+
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
 #http://fixtv.shop:888/long/long/7996
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/1713
@@ -791,27 +794,17 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #☯☯ || RADIO CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+#EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ FM
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/71021
 
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://pictr.com/images/2023/07/12/EIrOaI.png",Kool101 FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
+#EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"   tvg-id="SINAR"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/71049
 
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
+#EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"  tvg-id="MELODY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/1724
 
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png",8FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
-#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="988 FM" tvg-logo="https://pictr.com/images/2023/07/12/EIrq7Y.png",988 FM
-#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/988.m3u8
+#EXTINF:-1 tvg-id="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png" ,INDIA BEAT
+http://95.214.235.96:8880/29ca11113n01/adsfer3223/71045
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
