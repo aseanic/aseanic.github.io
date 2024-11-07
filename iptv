@@ -48,7 +48,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 ##EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#EXTINF:-1 tvg-id="113.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://s6.ezgif.com/tmp/ezgif-6-043457bfe0.png",SALAM HD
+#EXTINF:-1 tvg-id="113.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://pictr.com/images/2024/11/08/xiD5aQ.png",SALAM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -510,11 +510,8 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/54974
 #EXTINF:0 type="stream" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/06/xi9RMA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2024/01/07/EyUIxc.png", FashionTV⁴ᴷ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Fashion TV Midnight Secrets HD
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Fashion_tv
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #☯☯ || DOCUMENTARY CHANNELS || ☯☯
 
