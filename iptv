@@ -1255,29 +1255,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default.mpd
 
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://pictr.com/images/2023/07/12/EIrOaI.png",Kool101 FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Kool101.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png",8FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM
-#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
-
-#EXTINF:-1 group-title="Radio" tvg-id="24.7.Dummy.us"  tvg-name="988 FM" tvg-logo="https://pictr.com/images/2023/07/12/EIrq7Y.png",988 FM
-#https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/988.m3u8
-
-
 #☯☯ || MUSIC CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
