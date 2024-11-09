@@ -376,6 +376,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default.mpd
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
 #☯☯ || INDIAN CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunTV" tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.png",Sun TV
@@ -1609,9 +1618,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia;Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s", HOREE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia;Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/06/15/x7M1aX.png",Mentari TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1644,19 +1653,19 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:0 tvg-id="IMC" tvg-logo="https://pictr.com/images/2024/11/06/xiR0SY.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",IMC
+#EXTINF:0 tvg-id="IMC" tvg-logo="https://pictr.com/images/2024/11/06/xiR0SY.png" group-title="Indonesia;Movies" group-logo="https://images.indihometv.com/logo_imc_small.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:0 tvg-id="GALAXY" tvg-logo="https://pictr.com/images/2024/11/06/xiR5fZ.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy
+#EXTINF:0 tvg-id="GALAXY" tvg-logo="https://pictr.com/images/2024/11/06/xiR5fZ.png" group-title="Indonesia;Movies" group-logo="https://images.indihometv.com/logo_galaxy_small.png",Galaxy
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:0 tvg-id="GALAXYPremium" tvg-logo="https://pictr.com/images/2024/11/06/xiREmn.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy Premium
+#EXTINF:0 tvg-id="GALAXYPremium" tvg-logo="https://pictr.com/images/2024/11/06/xiREmn.png" group-title="Indonesia;Movies" group-logo="https://images.indihometv.com/logo_galaxypremium_small.png",Galaxy Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
