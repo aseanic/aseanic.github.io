@@ -1327,17 +1327,17 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR4lV.png", Channel 5
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRuYD.png", Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+#EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR4lV.png", Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR8o5.png", Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
