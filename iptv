@@ -549,20 +549,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.HDTV.(SCIHD).us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71073
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174626&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174626&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45281&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45281&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174623&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174623&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Life.Channel.(DLIF).us"  tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174625&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174625&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/54963
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Velocity.HDTV.(DVHD).ca"  tvg-logo="https://pictr.com/images/2024/01/06/EyrviU.png", Discovery Velocity
@@ -570,11 +570,11 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/54963
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53671
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Turbo.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrFw9.png", Discovery Turbo
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45279&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45279&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.History.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrJOu.png", Discovery History
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45283&extension=ts
+##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45283&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://pictr.com/images/2024/11/06/xi9qJ6.png",Love Nature
@@ -1280,21 +1280,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533.m3u8
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
 #EXTINF:-1 tvg-id="MTV.HD.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr97x.png", MTV
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369.m3u8
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrRpv.png", MTV2
-#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532.m3u8
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532
 #EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrqjV.png", MTVU
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=174761&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174761
 #EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr3iQ.png", MTV Hits
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45264&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45264
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyrDI1.png", MTV Club
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45265&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45265
 #EXTINF:-1 tvg-id="MTV.80s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyN0aA.png", MTV 80s
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45266&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45266
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyNE7I.png", MTV 00s
-#http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=45267&extension=ts
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45267
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
 
