@@ -233,10 +233,11 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/71042
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
-http://31.42.187.37:25461/watchpad13158/1234/23
+#http://31.42.187.37:25461/watchpad13158/1234/23
 #http://fixtv.shop:888/long/long/151
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/44
 #http://mykingtv.net:2082/zaki880/8890/8498
+https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
 
 #China
 
@@ -786,7 +787,7 @@ https://7pal.short.gy/SSF1uhd
 http://31.42.187.37:25461/watchpad13158/1234/57
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191957
 
-#EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
+#EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://seeklogo.com/images/M/mtv-live-logo-1C335343C9-seeklogo.com.png",MTV Live
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
 #EXTINF:-1 tvg-id="MTV.HD.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr97x.png", MTV
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369
