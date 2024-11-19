@@ -1294,7 +1294,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WLRl.jpg", MTV2
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532
-#EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/Eyr3iQ.png", MTV Hits
+#EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6XJmA.png", MTV Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1302,7 +1302,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 
-#EXTINF:-1 tvg-id="MTV.90s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6oZc6.png", MTV 90s
+#EXTINF:-1 tvg-id="MTV.90s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6XXJq.png", MTV 90s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1310,7 +1310,7 @@ https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd
 
-#EXTINF:-1 tvg-id="MTV.00s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/06/EyNE7I.png", MTV 00s
+#EXTINF:-1 tvg-id="MTV.00s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6Xv9D.png", MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1341,10 +1341,6 @@ https://bit.ly/42sWhyD?/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/04/EyPBoI.png",NOW ROCK
 https://bit.ly/3B1M54o?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 00s 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Vevo '70s
 https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
