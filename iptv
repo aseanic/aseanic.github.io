@@ -1294,6 +1294,7 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WLRl.jpg", MTV2
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532
+
 #EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6XJmA.png", MTV Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
