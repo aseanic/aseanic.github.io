@@ -9,7 +9,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+https://link.zozotv.xyz:443/mubaen/k895427/16
+#https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
@@ -28,13 +29,16 @@ http://31.42.187.37:25461/watchpad13158/1234/14
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/1727
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
-https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+https://link.zozotv.xyz:443/mubaen/k895427/20
+#https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV
-https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+https://link.zozotv.xyz:443/mubaen/k895427/21
+#https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+https://link.zozotv.xyz:443/mubaen/k895427/22
+#https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="OKEY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
@@ -73,7 +77,8 @@ http://31.42.187.37:25461/watchpad13158/1234/65
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/1701
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157489
 #http://31.42.187.37:25461/watchpad13158/1234/62
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571238
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571238
+https://link.zozotv.xyz:443/mubaen/k895427/30
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/1706
@@ -81,19 +86,22 @@ http://31.42.187.37:25461/watchpad13158/1234/87
 #http://mykingtv.net:2082/zaki880/8890/8448
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157569
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157569
+https://link.zozotv.xyz:443/mubaen/k895427/36
 #http://mykingtv.net:2082/zaki880/8890/8453
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571256
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571256
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191866
 #http://mykingtv.net:2082/zaki880/8890/8455
+https://link.zozotv.xyz:443/mubaen/k895427/39
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571257
+https://link.zozotv.xyz:443/mubaen/k895427/38
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571257
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/71025
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191858
 #http://mykingtv.net:2082/zaki880/8890/8456
@@ -124,7 +132,8 @@ http://31.42.187.37:25461/watchpad13158/1234/7
 #http://mykingtv.net:2082/zaki880/8890/8483
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
-http://95.214.235.96:8880/29ca11113n01/adsfer3223/1728
+https://link.zozotv.xyz:443/mubaen/k895427/62
+#http://95.214.235.96:8880/29ca11113n01/adsfer3223/1728
 #http://mykingtv.net:2082/zaki880/8890/8485
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
