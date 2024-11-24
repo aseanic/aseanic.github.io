@@ -137,13 +137,16 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656961
 #http://95.214.235.96:8880/D12m2083/das2321sa452/71079
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png",Astro Live Event 2
-http://95.214.235.96:8880/D12m2083/das2321sa452/71105
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656961
+#http://95.214.235.96:8880/D12m2083/das2321sa452/71105
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAH4Jr.png",Astro Live Event 3
-http://95.214.235.96:8880/D12m2083/das2321sa452/71026
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656961
+#http://95.214.235.96:8880/D12m2083/das2321sa452/71026
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDgUO.png",Astro Live Event 4
-http://95.214.235.96:8880/D12m2083/das2321sa452/71146
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656961
+#http://95.214.235.96:8880/D12m2083/das2321sa452/71146
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
 https://link.zozotv.xyz:443/mubaen/k895427/821
@@ -626,9 +629,8 @@ https://7pal.short.gy/astrouhd
 https://link.zozotv.xyz:443/mubaen/k895427/154
 
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",ASTRO ARENA 2
-#http://95.214.235.96:8880/D12m2083/das2321sa452/71076
+http://95.214.235.96:8880/D12m2083/das2321sa452/71076
 #http://31.42.187.37:25461/watchpad13158/1234/336
-https://link.zozotv.xyz:443/mubaen/k895427/2165
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola
 https://link.zozotv.xyz:443/mubaen/k895427/802
@@ -663,8 +665,8 @@ https://link.zozotv.xyz:443/mubaen/k895427/2205
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918984
 #http://31.42.187.37:25461/watchpad13158/1234/112
 #https://7pal.short.gy/astross3
-#http://95.214.235.96:8880/D12m2083/das2321sa452/1720
-https://link.zozotv.xyz:443/mubaen/k895427/570
+http://95.214.235.96:8880/D12m2083/das2321sa452/1720
+#https://link.zozotv.xyz:443/mubaen/k895427/570
 
 #EXTINF:-1 tvg-id="AstroFootball" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
 https://link.zozotv.xyz:443/mubaen/k895427/158
