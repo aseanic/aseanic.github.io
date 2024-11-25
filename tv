@@ -204,7 +204,8 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571198
 #http://31.42.187.37:25461/watchpad13158/1234/53
 #http://95.214.235.96:8880/D12m2083/das2321sa452/71038?play_token=shareext
-https://link.zozotv.xyz:443/mubaen/k895427/63
+#https://link.zozotv.xyz:443/mubaen/k895427/63
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37349.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBSAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",TVBS Asia
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571185
@@ -248,13 +249,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #http://31.42.187.37:25461/watchpad13158/1234/66
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CTIAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571212
-#http://31.42.187.37:25461/watchpad13158/1234/32
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571212
+http://31.42.187.37:25461/watchpad13158/1234/32
 #http://95.214.235.96:8880/D12m2083/das2321sa452/71042
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
-#http://31.42.187.37:25461/watchpad13158/1234/23
-https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
+http://31.42.187.37:25461/watchpad13158/1234/23
+#https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
 
 #China
 
@@ -300,8 +301,8 @@ https://link.zozotv.xyz:443/mubaen/k895427/1945
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656844
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571235
-#http://95.214.235.96:8880/D12m2083/das2321sa452/71034?play_token=shareext
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571235
+http://95.214.235.96:8880/D12m2083/das2321sa452/71034?play_token=shareext
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi
 https://link.zozotv.xyz:443/mubaen/k895427/401
@@ -335,26 +336,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571189
 #http://95.214.235.96:8880/D12m2083/das2321sa452/71090
 #http://31.42.187.37:25461/watchpad13158/1234/74
-https://link.zozotv.xyz:443/mubaen/k895427/128
+#https://link.zozotv.xyz:443/mubaen/k895427/128
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571179
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571179
 #http://95.214.235.96:8880/D12m2083/das2321sa452/71091
 #http://31.42.187.37:25461/watchpad13158/1234/42
+http://31.42.187.37:25461/watchpad13158/1234/337
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-http://31.42.187.37:25461/watchpad13158/1234/337
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
 http://31.42.187.37:25461/watchpad13158/1234/49
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571206
-#http://31.42.187.37:25461/watchpad13158/1234/39
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571206
+http://31.42.187.37:25461/watchpad13158/1234/39
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="BBCLifestyle" tvg-logo="https://pictr.com/images/2024/11/06/xi99gD.png",BBC Lifestyle
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36766.m3u8
-#http://95.214.235.96:8880/D12m2083/das2321sa452/71120?play_token=shareext
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36766.m3u8
+http://95.214.235.96:8880/D12m2083/das2321sa452/71120?play_token=shareext
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
@@ -385,8 +387,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #☯☯ || DOCUMENTARY CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryChannel" tvg-logo="https://pictr.com/images/2023/07/24/EbLDYf.png",Discovery Channel
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571210
-#http://31.42.187.37:25461/watchpad13158/1234/35
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571210
+http://31.42.187.37:25461/watchpad13158/1234/35
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
 #http://31.42.187.37:25461/watchpad13158/1234/34
@@ -412,8 +414,8 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
-http://31.42.187.37:25461/watchpad13158/1234/102
-#https://link.zozotv.xyz:443/mubaen/k895427/116
+#http://31.42.187.37:25461/watchpad13158/1234/102
+https://link.zozotv.xyz:443/mubaen/k895427/116
 
 #EXTINF:-1 group-title="Documentary"  group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="GlobalTrekker" tvg-logo="https://pictr.com/images/2023/07/24/EbLRlP.png",Global Trekker
 http://31.42.187.37:25461/watchpad13158/1234/342
@@ -424,12 +426,12 @@ http://31.42.187.37:25461/watchpad13158/1234/338
 #http://95.214.235.96:8880/D12m2083/das2321sa452/71119
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png",History
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571201
-#http://31.42.187.37:25461/watchpad13158/1234/50
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571201
+http://31.42.187.37:25461/watchpad13158/1234/50
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571227
-#http://31.42.187.37:25461/watchpad13158/1234/9
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571227
+http://31.42.187.37:25461/watchpad13158/1234/9
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571215
@@ -450,8 +452,8 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53561
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="AXN" tvg-logo="https://pictr.com/images/2024/11/06/xi92Bq.png",AXN
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
-#http://31.42.187.37:25461/watchpad13158/1234/17
+#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571222
+http://31.42.187.37:25461/watchpad13158/1234/17
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",Lifetime
 http://31.42.187.37:25461/watchpad13158/1234/339
