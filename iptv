@@ -1075,7 +1075,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",PREMIER SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
