@@ -1568,7 +1568,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://pictr.com/images/2024/11/04/xiTrD6.png" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png",Oppa Mania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5177/default_primary.mpd
 
-#EXTINF:-1 tvg-id="arirang" tvg-logo="https://pictr.com/images/2024/11/04/xiTrD6.png" group-title="Korean" group-logo="https://pictr.com/images/2024/12/02/xSc8z9.png", Arirang
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://pictr.com/images/2024/12/02/xSc8z9.png" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png", Arirang
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
