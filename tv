@@ -936,10 +936,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTVLCOPT:network-caching=10
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
+#EXTINF:-1 tvg-id="NOW.80s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/04/EyPBoI.png",NOW ROCK
+#EXTINF:-1 tvg-id="Now.Rock.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/04/EyPBoI.png",NOW ROCK
 https://bit.ly/3B1M54o?/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Vevo '70s
