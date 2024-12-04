@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://www.bevy.be/bevyfiles/thailand.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://akkradet.github.io/IPTV-THAI/guide.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -1022,14 +1022,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 4
+#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Oz7eaOi7nQ1OO0UXxCLMzw", "kid":"IpZwRpRpqm94vFu+EAcYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremierLeague5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 5
+#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 5
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1445,6 +1445,7 @@ https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #☯☯ || 4K CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/26/EMkiKU.png",Clarity TV
+#EXTVLCOPT:network-caching=1000
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 #EXTINF:-1 group-title="4K" group-logo="https://pictr.com/images/2023/05/26/EMkXqj.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/26/EMkSE9.png",Fashion TV
@@ -1750,7 +1751,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
-#EXTINF:-1  tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://pictr.com/images/2024/12/02/xSczNG.jpg", Citra Muslim HD 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://pictr.com/images/2024/12/02/xSczNG.jpg", Citra Muslim HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
@@ -1762,7 +1763,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment"  tvg-logo="https://pictr.com/images/2024/12/02/xSchcf.png", Citra Entertainment HD 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment"  tvg-logo="https://pictr.com/images/2024/12/02/xSchcf.png", Citra Entertainment HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
@@ -1814,7 +1815,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" } 
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_seru_small.png", SERU!
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_seru_small.png", SERU!
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
 #Movies
@@ -2081,3 +2082,4 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
 #EXTINF:-1 tvg-id="239.unifi" ch-number="239" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png" group-title="Chinese" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",SETI
 https://web.hypp.tv:443/PLTV/88888888/224/3221227529/3221227529.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixM7skkMcbNa9ZSweWCAIO9g0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84yjyfs9%2FU5xlEkKXfSpcw0b%2FVw%2BAVLY2IaG%2BJfr8AXAzl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185934%3AUTC%2C1004320541%2C14.1.254.132%2C20230704185934%2Curn:Huawei:liveTV:iptv8417%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAA0WMsQrCMBQA_yZjSNJU0iGTIrgUoeoqry8vIZA2mNSCf68VwemWu1sKIJ0O1nzQoTedpFajU8Z7Jx3uWmxgBC1YpUefbcMQUopz6LPbstuwv0vBBVdKcqnZZdsdEwSrvmb_nEYq_2ygskYk66rnK1QOIRQKsMQ883OC17Wkn_IGgSNJiJkAAAA&tenantId=6003
+
