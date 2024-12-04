@@ -916,7 +916,7 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/153/index.m3u8
 #EXTINF:-1 tvg-id="MTV.80s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/24/xSHtvj.png", MTV 80s
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45266
 
-#EXTINF:-1 tvg-id="MTV.00s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6Xv9D.png", MTV 00s
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6Xv9D.png", MTV 00s
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45267
 
 #EXTINF:-1 tvg-id="MTV.Classic.-.East.us" tvg-logo="https://pictr.com/images/2024/11/17/x6WYVu.png" group-title="Music", MTV Classic
