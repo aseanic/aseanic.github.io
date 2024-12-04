@@ -551,13 +551,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.m
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
+#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -590,26 +590,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.HDTV.(SCIHD).us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 #http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71073
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174626&extension=ts
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.Canada.ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45281&extension=ts
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174623&extension=ts
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Life.Channel.(DLIF).us"  tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Life.Channel.us"  tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174625&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/54963
 
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Velocity.HDTV.(DVHD).ca"  tvg-logo="https://pictr.com/images/2024/01/06/EyrviU.png", Discovery Velocity
+#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Velocity.HD.ca"  tvg-logo="https://pictr.com/images/2024/01/06/EyrviU.png", Discovery Velocity
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176878&extension=ts
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53671
 
@@ -657,17 +657,17 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
 
-#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild US
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53363
 
-#EXTINF:-1 tvg-id="Smithsonian.Channel.HDTV.(East).(SMITHHD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Gon.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" ,Smithsonian
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Gon.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" ,Smithsonian
 #https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53561
 
-#EXTINF:-1 tvg-id="NASA.Television.(NASA).us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png",NASA TV 
+#EXTINF:-1 tvg-id="NASA.Public.Educational.Channel.us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png",NASA TV 
 #https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
@@ -696,13 +696,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="https://pictr.com/images/2024/07/10/xEAgGD.png",Paramount Network
+#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/07/10/xEAgGD.png",Paramount Network
 http://95.214.235.96:8880/29ca11113n01/adsfer3223/1870
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! US
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
 
-#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
 
 #EXTINF:-1 tvg-id="HITSNow" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HITSNOW.png",HITS NOW
@@ -716,7 +716,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #EXTINF:-1 tvg-id="452.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202312/20231215/20231215075850694132.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",Hits Now
 #https://web.hypp.tv:443/PLTV/88888888/224/3221228007/3221228007.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBaisWzRJlhAYoslLCShwOc7bkjcsA7fVnuZRFv3rCCEyAQs4XL3Zr9qX8pXwkTFk9PHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240114093625%3AUTC%2C1005926114%2C118.100.30.164%2C20240114093625%2Curn:Huawei:liveTV:XTV66442819%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBQE_8ZHyzaxkxx8AlWqVAUk0l6rxX64EU4MdkDi70tauO7urGbOcPS-sdIDivRKSLRVrXzrcNBaVLptGmpMxQpdumQVc4hxmEKX_IJ97dffUnDBlZK8qlm_3L1FhOeyu44Hyla-sD3l2-DI-nLkNxSOEDIFzEOa-C7i_pnjc8Kof6nVQitllDDGNGxe0h7l9GjYD8o6jWdk8h8p_AH2iFiIneFOCNRhJDtdY_znttk_bH4BpyAiuPQAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53319
 
 #☯☯ || KIDS CHANNELS || ☯☯
@@ -774,11 +774,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 
-#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png", Disney Channel
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png", Disney Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
-#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png", Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png", Disney Junior
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53479
-#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png", Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png", Disney XD
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1106,7 +1106,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2023/04/19/En1QK2.png",TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",PREMIER SPORTS
@@ -1345,11 +1345,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
-#EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HDTV.(MTVL).us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://pictr.com/images/2024/11/17/x6Whm2.png",MTV Live
+#EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HD.us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://pictr.com/images/2024/11/17/x6Whm2.png",MTV Live
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
-#EXTINF:-1 tvg-id="MTV.HD.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WusX.png", MTV
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WusX.png", MTV
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369
-#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WLRl.jpg", MTV2
+#EXTINF:-1 tvg-id="MTV.2.-.East.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WLRl.jpg", MTV2
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53532
 
 #EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6XJmA.png", MTV Hits
@@ -1394,10 +1394,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTVLCOPT:network-caching=10
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
+#EXTINF:-1 tvg-id="NOW.80s.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 https://bit.ly/42sWhyD?/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/04/EyPBoI.png",NOW ROCK
+#EXTINF:-1 tvg-id="Now.Rock.uk" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/01/04/EyPBoI.png",NOW ROCK
 https://bit.ly/3B1M54o?/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Vevo '70s
@@ -1514,14 +1514,14 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="mio.Sports.(HD).sg" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 1 (SG)
+#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 1 (SG)
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="mio.Sports.2.(HD).sg" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 2 (SG)
+#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 2 (SG)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1893,7 +1893,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.m
 #KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
 https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/12/03/xScTtA.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion", EWTN 
+#EXTINF:-1 tvg-id="EWTN.USA.us" tvg-logo="https://pictr.com/images/2024/12/03/xScTtA.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion", EWTN 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
