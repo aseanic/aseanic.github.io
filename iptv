@@ -30,8 +30,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/1727
-#http://51.79.248.110:888/Lyana/Lyana/11
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1550
+http://51.79.248.110:888/Lyana/Lyana/11
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1550
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -300,13 +300,13 @@ http://51.79.248.110:888/Lyana/Lyana/8391
 http://51.79.248.110:888/Lyana/Lyana/8392
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1148
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1148
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1149
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1149
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1152
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1152
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1155
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1155
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
@@ -1608,8 +1608,8 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd|http-referrer=https://www.rctiplus.com/
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/26Gy142h/mnctv.png",MNC TV
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1575
-#http://51.79.248.110:888/Lyana/Lyana/163
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1575
+http://51.79.248.110:888/Lyana/Lyana/163
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://i.postimg.cc/wBPhPgzy/inews.png",iNews
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1872,13 +1872,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:0 tvg-id="MyCinema" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Mycinema
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1559
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1559
 
 #EXTINF:0 tvg-id="MyCinemaAsia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",MyCinemaAsia
-http://64.49.14.106:8080/Perfecttv/Perfecttv/17
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/17
 
 #EXTINF:0 tvg-id="MyFamilyChannel" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",MyfamilyChannel
-http://64.49.14.106:8080/Perfecttv/Perfecttv/1560
+#http://64.49.14.106:8080/Perfecttv/Perfecttv/1560
 
 #Religion
 
