@@ -82,17 +82,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
+http://64.49.14.106:8080/Perfecttv/Perfecttv/3
 #https://link.zozotv.xyz:443/mubaen/k895427/340
 #http://31.42.187.37:25461/watchpad13158/1234/68
 #http://91.218.51.36:8880/12mc050003/68849278/1705
-http://15.235.144.67:35461/654321/123456/10838
+#http://15.235.144.67:35461/654321/123456/10838
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
+http://64.49.14.106:8080/Perfecttv/Perfecttv/1
 #http://103.229.81.103:8080/F25093/29838750/157489
 #http://91.218.51.36:8880/12mc050003/68849278/1702
 #http://31.42.187.37:25461/watchpad13158/1234/65
 #https://link.zozotv.xyz:443/mubaen/k895427/34
-http://15.235.144.67:35461/654321/123456/5959
+#http://15.235.144.67:35461/654321/123456/5959
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://91.218.51.36:8880/12mc050003/68849278/1701
@@ -102,11 +104,14 @@ http://15.235.144.67:35461/654321/123456/5959
 http://15.235.144.67:35461/654321/123456/732
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
+http://64.49.14.106:8080/Perfecttv/Perfecttv/2
 #http://91.218.51.36:8880/12mc050003/68849278/1706
-http://31.42.187.37:25461/watchpad13158/1234/87
+#http://31.42.187.37:25461/watchpad13158/1234/87
+#http://15.235.144.67:35461/654321/123456/212
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-http://15.235.144.67:35461/654321/123456/6608
+http://64.49.14.106:8080/Perfecttv/Perfecttv/4
+#http://15.235.144.67:35461/654321/123456/6608
 #http://103.229.81.103:8080/F25093/29838750/157569
 #http://15.235.144.67:35461/654321/123456/179
 #http://51.79.248.110:888/Lyana/Lyana/20
