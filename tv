@@ -87,19 +87,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #http://91.218.51.36:8880/12mc050003/68849278/1705
 http://15.235.144.67:35461/654321/123456/10838
 
-#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 1
-http://64.49.14.106:8080/live/Perfecttv/Perfecttv/1.ts
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 4
+https://github.com/amtoresize/live/raw/708d2daad2e9fa1419de2232cc976405e19d226b/g1.m3u8
 #http://103.229.81.103:8080/F25093/29838750/157489
 #http://91.218.51.36:8880/12mc050003/68849278/1702
 #http://31.42.187.37:25461/watchpad13158/1234/65
 #https://link.zozotv.xyz:443/mubaen/k895427/34
 #http://15.235.144.67:35461/654321/123456/5959
 
-#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 2
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1.ts
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 5
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1_0.ts
 
-#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 3
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 6
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1_1.ts
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 #http://91.218.51.36:8880/12mc050003/68849278/1701
