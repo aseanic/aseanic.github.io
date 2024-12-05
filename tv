@@ -636,6 +636,12 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="128.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/12/05/xStvDq.png",Star Movies
+http://64.49.14.106:8080/Perfecttv/Perfecttv/14
+
+#EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/12/05/xStCJ1.png",&flixHD
+http://64.49.14.106:8080/Perfecttv/Perfecttv/12
+
 #☯☯ || NEWS CHANNELS || ☯☯
 
 
