@@ -93,7 +93,7 @@ http://64.49.14.106:8080/live/Perfecttv/Perfecttv/1.ts
 #http://91.218.51.36:8880/12mc050003/68849278/1702
 #http://31.42.187.37:25461/watchpad13158/1234/65
 #https://link.zozotv.xyz:443/mubaen/k895427/34
-http://15.235.144.67:35461/654321/123456/5959
+#http://15.235.144.67:35461/654321/123456/5959
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima 2
 http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1.ts
