@@ -108,9 +108,7 @@ http://15.235.144.67:35461/654321/123456/732
 http://15.235.144.67:35461/654321/123456/212
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://64.49.14.106:8080/Perfecttv/Perfecttv/4
-#http://15.235.144.67:35461/654321/123456/6608
+http://15.235.144.67:35461/654321/123456/6608
 #http://103.229.81.103:8080/F25093/29838750/157569
 http://15.235.144.67:35461/654321/123456/179
 #http://51.79.248.110:888/Lyana/Lyana/20
@@ -151,15 +149,15 @@ http://15.235.144.67:35461/654321/123456/675
 #https://link.zozotv.xyz:443/mubaen/k895427/464
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-#http://91.218.51.36:8880/12mc050003/68849278/1723
+http://91.218.51.36:8880/12mc050003/68849278/1723
 #http://31.42.187.37:25461/watchpad13158/1234/7
 #https://link.zozotv.xyz:443/mubaen/k895427/60
-http://15.235.144.67:35461/654321/123456/10782
+#http://15.235.144.67:35461/654321/123456/10782
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 #https://link.zozotv.xyz:443/mubaen/k895427/62
-#http://91.218.51.36:8880/12mc050003/68849278/1728
-http://51.79.248.110:888/Lyana/Lyana/8331
+http://91.218.51.36:8880/12mc050003/68849278/1728
+#http://51.79.248.110:888/Lyana/Lyana/8331
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #https://link.zozotv.xyz:443/mubaen/k895427/61
