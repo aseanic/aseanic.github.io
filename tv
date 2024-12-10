@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,  https://akkradet.github.io/IPTV-THAI/guide.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,  https://akkradet.github.io/IPTV-THAI/guide.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -102,10 +102,9 @@ http://15.235.144.67:35461/654321/123456/5959
 http://15.235.144.67:35461/654321/123456/732
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroWarna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #http://91.218.51.36:8880/12mc050003/68849278/1706
 #http://31.42.187.37:25461/watchpad13158/1234/87
-http://15.235.144.67:35461/654321/123456/212
+#http://15.235.144.67:35461/654321/123456/212
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 http://15.235.144.67:35461/654321/123456/6608
@@ -114,7 +113,7 @@ http://15.235.144.67:35461/654321/123456/6608
 #http://51.79.248.110:888/Lyana/Lyana/20
 #https://link.zozotv.xyz:443/mubaen/k895427/36
 
-#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
@@ -132,7 +131,7 @@ http://51.79.248.110:888/Lyana/Lyana/22
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
 #http://91.218.51.36:8880/12mc050003/68849278/71026
-http://31.42.187.37:25461/watchpad13158/1234/41
+#http://31.42.187.37:25461/watchpad13158/1234/41
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 http://31.42.187.37:25461/watchpad13158/1234/31
@@ -376,7 +375,6 @@ http://31.42.187.37:25461/watchpad13158/1234/343
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571245
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=1111034
 #https://link.zozotv.xyz:443/mubaen/k895427/302
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37332.m3u8
 http://tv.indigotv.me:80/live.ts?channelId=12359&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png"  tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png",BollywooD ᴴᴰ
@@ -400,7 +398,7 @@ http://31.42.187.37:25461/watchpad13158/1234/42
 #http://31.42.187.37:25461/watchpad13158/1234/337
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.m3u8
+http://15.235.144.67:35461/654321/123456/281
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
 http://31.42.187.37:25461/watchpad13158/1234/49
@@ -410,13 +408,12 @@ http://31.42.187.37:25461/watchpad13158/1234/49
 http://31.42.187.37:25461/watchpad13158/1234/39
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="BBCLifestyle" tvg-logo="https://pictr.com/images/2024/11/06/xi99gD.png",BBC Lifestyle
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36766.m3u8
-#http://91.218.51.36:8880/12mc050003/68849278/71120
+http://91.218.51.36:8880/12mc050003/68849278/71120
 
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
 
-#EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
+#EXTINF:-1 tvg-id="427" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
@@ -443,7 +440,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryChannel" tvg-logo="https://pictr.com/images/2023/07/24/EbLDYf.png",Discovery Channel
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571210
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/95.m3u8
 http://51.79.248.110:888/Lyana/Lyana/175
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
@@ -470,12 +466,12 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37333.m3u8
+http://15.235.144.67:35461/654321/123456/222
 #https://link.zozotv.xyz:443/mubaen/k895427/116
 
 #EXTINF:-1 group-title="Documentary"  group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="GlobalTrekker" tvg-logo="https://pictr.com/images/2023/07/24/EbLRlP.png",Global Trekker
-http://31.42.187.37:25461/watchpad13158/1234/342
-#http://91.218.51.36:8880/12mc050003/68849278/71137
+#http://31.42.187.37:25461/watchpad13158/1234/342
+http://91.218.51.36:8880/12mc050003/68849278/71137
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="BBCEarth" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png",BBC Earth
 http://31.42.187.37:25461/watchpad13158/1234/338
@@ -518,7 +514,6 @@ http://31.42.187.37:25461/watchpad13158/1234/339
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="HITS" tvg-logo="https://pictr.com/images/2024/11/06/xi93LI.png",HITS
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/656904
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
 
 #EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="WarnerTV" tvg-logo="https://pictr.com/images/2023/08/27/EA8Yhl.png",Warner TV
 #http://31.42.187.37:25461/watchpad13158/1234/104
@@ -553,7 +548,6 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656855
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://pictr.com/images/2024/11/06/xi9sDO.png",Cartoon Network
 #https://link.zozotv.xyz:443/mubaen/k895427/132
 #http://91.218.51.36:8880/12mc050003/68849278/71084
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37403.m3u8
 http://103.229.81.103:8080/F25093/29838750/157593
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
@@ -1071,7 +1065,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Action
 http://31.42.187.37:25461/watchpad13158/1234/27
 
-#EXTINF:-1 tvg-id="473.unifi" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
+#EXTINF:-1 tvg-id="509" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
 http://31.42.187.37:25461/watchpad13158/1234/335
 
 #EXTINF:-1 tvg-id="452.unifi" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png" group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",HITS NOW 
@@ -1080,26 +1074,20 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 #EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
 http://31.42.187.37:25461/watchpad13158/1234/92
 
-#EXTINF:-1 tvg-id="471.unifi" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
-
-#EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
-
-#EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBOFamily1" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://pictr.com/images/2024/01/08/Eyz6F9.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
+#EXTINF:-1 tvg-id="601" tvg-logo="https://pictr.com/images/2024/01/08/Eyz6F9.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUYrJ.png",HBO (SG)
 #https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
+#EXTINF:-1 tvg-id="605" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzVbv.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUddn.png",HBO Hits (SG)
 
-#EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
+#EXTINF:-1 tvg-id="604" tvg-logo="https://pictr.com/images/2024/01/08/EyzMJ1.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyUuXB.png",HBO Family (SG)
 
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
+#EXTINF:-1 tvg-id="603" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="Singapore;Movies" group-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (SG)
 http://91.218.51.36:8880/12mc050003/68849278/71066
 
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
-
+#EXTINF:-1 tvg-id="611" tvg-url="" tvg-logo="https://pictr.com/images/2024/01/08/EyzdBD.png" group-title="Singapore;Movies" group-logo="https://pictr.com/images/2024/01/07/EyU4oY.png",Cinemax (SG)
+http://15.235.144.67:35461/654321/123456/607
 
 #☯☯ || KOREAN CHANNELS || ☯☯
 
@@ -1129,7 +1117,7 @@ http://51.79.248.110:888/Lyana/Lyana/174
 #https://link.zozotv.xyz:443/mubaen/k895427/80
 #http://91.218.51.36:8880/12mc050003/68849278/71111
 
-#EXTINF:0 tvg-id="Arirang" group-title="Korean" tvg-logo="https://pictr.com/images/2024/01/04/EXDd7g.jpg" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png",Arirang World
+#EXTINF:0 tvg-id="817" group-title="Korean" tvg-logo="https://pictr.com/images/2024/01/04/EXDd7g.jpg" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png",Arirang World
 #http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=926203
 http://15.235.144.67:35461/654321/123456/199
