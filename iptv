@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://akkradet.github.io/IPTV-THAI/guide.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://akkradet.github.io/IPTV-THAI/guide.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -176,7 +176,7 @@ http://d37lxn4ksn51zz.cloudfront.net/warna.mpd
 #http://linears-playback.astro.com.my/vsg/4159jaNFDDC8yOSWA02qdAJxQX4mQfhtMT2vDzPFN3ROI=92SV/dash-wv/jitp-linearwm/2700/default_primary.mpd
 http://d37lxn4ksn51zz.cloudfront.net/citra.mpd
 
-#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
+#EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -564,7 +564,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
 
-#EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
+#EXTINF:-1 tvg-id="427" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
@@ -1509,12 +1509,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#EXTINF:-1 tvg-id="473.unifi" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
+#EXTINF:-1 tvg-id="509" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
-#EXTINF:-1 tvg-id="Animax HD" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
+#EXTINF:-1 tvg-id="532" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan" group-logo="https://pictr.com/images/2024/01/03/EX2CR5.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
 ##https://aqfadtv.xyz/live/mewatch/animax/index.mpd
@@ -1524,14 +1524,14 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 1 (SG)
+#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="201" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 1 (SG)
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 2 (SG)
+#EXTINF:-1 group-title="Singapore;Sports" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="202" tvg-logo="https://pictr.com/images/2024/01/04/EX3syQ.png",SPORT 2 (SG)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1587,7 +1587,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.m
 https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="arirang" tvg-logo="https://pictr.com/images/2024/12/02/xSc8z9.png" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png", Arirang
+#EXTINF:-1 tvg-id="817" tvg-logo="https://pictr.com/images/2024/12/02/xSc8z9.png" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png", Arirang
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
@@ -1767,7 +1767,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment"  tvg-logo="https://pictr.com/images/2024/12/02/xSchcf.png", Citra Entertainment HD 
+#EXTINF:-1 tvg-id="115" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment"  tvg-logo="https://pictr.com/images/2024/12/02/xSchcf.png", Citra Entertainment HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
