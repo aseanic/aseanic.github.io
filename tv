@@ -102,6 +102,7 @@ http://15.235.144.67:35461/654321/123456/5959
 http://15.235.144.67:35461/654321/123456/732
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #http://91.218.51.36:8880/12mc050003/68849278/1706
 #http://31.42.187.37:25461/watchpad13158/1234/87
 #http://15.235.144.67:35461/654321/123456/212
@@ -742,7 +743,8 @@ http://15.235.144.67:35461/654321/123456/970
 #https://link.zozotv.xyz:443/mubaen/k895427/568
 #http://51.79.248.110:888/Lyana/Lyana/13462
 #http://103.229.81.103:8080/F25093/29838750/146068
-http://15.235.144.67:35461/654321/123456/11243
+#http://15.235.144.67:35461/654321/123456/11243
+https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918985
@@ -751,7 +753,8 @@ http://15.235.144.67:35461/654321/123456/11243
 #http://91.218.51.36:8880/12mc050003/68849278/1721
 #https://link.zozotv.xyz:443/mubaen/k895427/569
 #http://51.79.248.110:888/Lyana/Lyana/13463
-http://15.235.144.67:35461/654321/123456/971
+#http://15.235.144.67:35461/654321/123456/971
+https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 3
 http://51.79.248.110:888/Lyana/Lyana/13553
@@ -765,7 +768,9 @@ http://51.79.248.110:888/Lyana/Lyana/13553
 #https://link.zozotv.xyz:443/mubaen/k895427/570
 #http://51.79.248.110:888/Lyana/Lyana/13461
 #http://103.229.81.103:8080/F25093/29838750/157557
-http://15.235.144.67:35461/654321/123456/11241
+#http://15.235.144.67:35461/654321/123456/11241
+https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 #EXTINF:-1 tvg-id="AstroFootball" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
 #https://link.zozotv.xyz:443/mubaen/k895427/158
@@ -774,7 +779,8 @@ http://15.235.144.67:35461/654321/123456/11241
 #https://7pal.short.gy/astross4
 #http://91.218.51.36:8880/12mc050003/68849278/1719
 #http://51.79.248.110:888/Lyana/Lyana/13464
-http://103.229.81.103:8080/F25093/29838750/157558
+#http://103.229.81.103:8080/F25093/29838750/157558
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Supersport Plus
 #https://link.zozotv.xyz:443/mubaen/k895427/482
@@ -815,6 +821,12 @@ http://51.79.248.110:888/Lyana/Lyana/7973
 #https://link.zozotv.xyz:443/mubaen/k895427/162
 #http://91.218.51.36:8880/12mc050003/68849278/71101
 http://51.79.248.110:888/Lyana/Lyana/7974
+
+#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",BEIN SPORTS 4 
+http://51.79.248.110:888/Lyana/Lyana/13141
+
+#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",BEIN SPORTS 5
+http://51.79.248.110:888/Lyana/Lyana/13278
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656964
