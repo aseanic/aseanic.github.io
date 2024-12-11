@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://akkradet.github.io/IPTV-THAI/guide.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://iptv36.vercel.app/epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" refresh="3600"
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -1922,87 +1922,87 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
 
 #☯☯ || THAI CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6lOMQ.png",NBT
+#EXTINF:-1 tvg-id="iptv36.nbt" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6lOMQ.png",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="TPBS" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6lkJ1.png",TPBS
+#EXTINF:-1 tvg-id="iptv36.thaipbs" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6lkJ1.png",TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6ltQ6.png",ALTV
+#EXTINF:-1 tvg-id="iptv36.altv" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6ltQ6.png",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="TV5 HD.th" tvg-name="5HD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6l2Dq.png",5HD
+#EXTINF:-1 tvg-id="iptv36.tv5" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6l2Dq.png",5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="T Sports 7.th" tvg-name="TSPORT" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6lsfr.png",TSPORT
+#EXTINF:-1 tvg-id="iptv36.tsports" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6lsfr.png",TSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6z7YZ.png",TPTV
+#EXTINF:-1 tvg-id="iptv36.tptv" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6z7YZ.png",TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zBJJ.png",TNN16
+#EXTINF:-1 tvg-id="iptv36.tnn16" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zBJJ.png",TNN16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="JKN 18.th" tvg-name="JKN18" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zxEn.png",JKN18
+#EXTINF:-1 tvg-id="iptv36.jkn18" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zxEn.png",JKN18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="Nation TV.th" tvg-name="NATION" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zHVB.png",NATION
+#EXTINF:-1 tvg-id="iptv36.nation" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zHVB.png",NATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="Workpoint.th" tvg-name="WORKPOINT" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zasG.png",WORKPOINT
+#EXTINF:-1 tvg-id="iptv36.workpoint" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zasG.png",WORKPOINT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/hd_workpoint/hd_workpoint.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="TRUE24" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",TRUE24
+#EXTINF:-1 tvg-id="iptv36.true4u" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",TRUE24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/true4u/true4u.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="GMM 25.th" tvg-name="GMM25" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zNRl.png",GMM25
+#EXTINF:-1 tvg-id="iptv36.gmm25" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zNRl.png",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/gmm25/gmm25.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="CH8.th" tvg-name="ช่อง 8" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6z6Yf.png",ช่อง 8
+#EXTINF:-1 tvg-id="iptv36.ch8" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6z6Yf.png",ช่อง 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/ch8/ch8.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="Mono 29.th" tvg-name="MONO" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/128_y_cVJ9st4Ddv8m5PhaQMlgyB7HFUALYiZr.png",MONO
+#EXTINF:-1 tvg-id="iptv36.mono29" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/128_y_cVJ9st4Ddv8m5PhaQMlgyB7HFUALYiZr.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/mono/mono.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="MCOT HD.th" tvg-name="MCOT" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",MCOT
+#EXTINF:-1 tvg-id="iptv36.mcot" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="ONE31 HD.th" tvg-name="ONE" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zSKU.png",ONE
+#EXTINF:-1 tvg-id="iptv36.one" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zSKU.png",ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="Thairath TV.th" tvg-name="THAIRATH" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",THAIRATH
+#EXTINF:-1 tvg-id="iptv36.thairath" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",THAIRATH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="3HD.th" tvg-name="3 HD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zzE9.png",3 HD
+#EXTINF:-1 tvg-id="iptv36.ch3" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zzE9.png",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-name="AMARIN" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AMARIN
+#EXTINF:-1 tvg-id="iptv36.amarin" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AMARIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="CH7 HD.th" tvg-name="7 HD" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zpTg.png",7 HD
+#EXTINF:-1 tvg-id="iptv36.ch7" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zpTg.png",7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/hd_7/hd7.stream?type=m3u8
 
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-name="PPTV" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zVl8.png",PPTV
+#EXTINF:-1 tvg-id="iptv36.pptv" group-title="Thailand" group-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" tvg-logo="https://pictr.com/images/2024/11/13/x6zVl8.png",PPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect//hd_pptv/hd_pptv.stream?type=m3u8
 
