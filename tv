@@ -105,7 +105,7 @@ http://15.235.144.67:35461/654321/123456/732
 #http://91.218.51.36:8880/12mc050003/68849278/1706
 #http://31.42.187.37:25461/watchpad13158/1234/87
 #http://15.235.144.67:35461/654321/123456/212
-http://64.49.14.106:8080/Perfecttv/Perfecttv/2|referer=http://perfecttv.net/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://64.49.14.106:8080/Perfecttv/Perfecttv/2|&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 http://15.235.144.67:35461/654321/123456/6608
