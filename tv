@@ -743,8 +743,8 @@ http://15.235.144.67:35461/654321/123456/970
 #https://link.zozotv.xyz:443/mubaen/k895427/568
 #http://51.79.248.110:888/Lyana/Lyana/13462
 #http://103.229.81.103:8080/F25093/29838750/146068
-#http://15.235.144.67:35461/654321/123456/11243
-https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://15.235.144.67:35461/654321/123456/11243
+#https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918985
@@ -753,8 +753,8 @@ https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehd
 #http://91.218.51.36:8880/12mc050003/68849278/1721
 #https://link.zozotv.xyz:443/mubaen/k895427/569
 #http://51.79.248.110:888/Lyana/Lyana/13463
-#http://15.235.144.67:35461/654321/123456/971
-https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://15.235.144.67:35461/654321/123456/971
+#https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 3
 http://51.79.248.110:888/Lyana/Lyana/13553
@@ -835,6 +835,7 @@ http://51.79.248.110:888/Lyana/Lyana/13278
 http://51.79.248.110:888/Lyana/Lyana/8959
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MkDf.png",EUROSPORT2
+https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="GolfChannel" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
 #http://31.42.187.37:25461/watchpad13158/1234/46
