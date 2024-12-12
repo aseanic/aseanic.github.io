@@ -106,7 +106,7 @@ http://15.235.144.67:35461/654321/123456/732
 #http://91.218.51.36:8880/12mc050003/68849278/1706
 #http://31.42.187.37:25461/watchpad13158/1234/87
 #http://15.235.144.67:35461/654321/123456/212
-http://64.49.14.106:8080/Perfecttv/Perfecttv/2
+http://64.49.14.106:8080//live/Perfecttv/Perfecttv/2_0.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 http://15.235.144.67:35461/654321/123456/6608
