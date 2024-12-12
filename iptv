@@ -563,17 +563,15 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.m
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel Channel
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
+https://webhdrunns.mizhls.ru/lb/premium340/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53309
 
 #EXTINF:-1 tvg-id="427" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/54974
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8afD.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outside TV
 #https://outsidetv-roku-us.amagi.tv/playlist.m3u8
@@ -602,23 +600,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
-#http://muka03.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71073
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174626&extension=ts
-
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Science.Canada.ca"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science CA
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176877&extension=ts
-
-#EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Science.uk"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science UK
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45281&extension=ts
+https://webhdrunns.mizhls.ru/lb/premium294/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53326
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Family.Channel.us"  tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174623&extension=ts
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53408
+https://webhdrunns.mizhls.ru/lb/premium294/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Life.Channel.us"  tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
-##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=174625&extension=ts
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/54963
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/54963
+https://webhdrunns.mizhls.ru/lb/premium311/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Discovery.Velocity.HD.ca"  tvg-logo="https://pictr.com/images/2024/01/06/EyrviU.png", Discovery Velocity
 ##http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C5:03:70&stream=176878&extension=ts
@@ -669,10 +660,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
+https://webhdrunns.mizhls.ru/lb/premium328/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",National Geographic Wild US
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53363
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53363
+https://webhdrunns.mizhls.ru/lb/premium745/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Gon.png" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" ,Smithsonian
 #https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -707,28 +701,27 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/07/10/xEAgGD.png",Paramount Network
-http://95.214.235.96:8880/29ca11113n01/adsfer3223/1870
+#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
+#http://91.218.51.36:8880/12mc050003/68849278/1870
+https://webhdrunns.mizhls.ru/lb/premium334/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",E! US
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53404
+https://webhdrunns.mizhls.ru/lb/premium315/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png", Comedy Central US
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",Comedy Central US
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
+https://webhdrunns.mizhls.ru/lb/premium310/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53319
+https://webhdrunns.mizhls.ru/lb/premium373/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="HITSNow" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HITSNOW.png",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YjlmNGY4YWYtODNlYi0zNjY4LTlhNDgtYzIyMDFlMGQ1NjYw
-#EXTINF:-1 tvg-id="452.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202312/20231215/20231215075850694132.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",Hits Now
-#https://web.hypp.tv:443/PLTV/88888888/224/3221228007/3221228007.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBaisWzRJlhAYoslLCShwOc7bkjcsA7fVnuZRFv3rCCEyAQs4XL3Zr9qX8pXwkTFk9PHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240114093625%3AUTC%2C1005926114%2C118.100.30.164%2C20240114093625%2Curn:Huawei:liveTV:XTV66442819%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C1239023847%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBQE_8ZHyzaxkxx8AlWqVAUk0l6rxX64EU4MdkDi70tauO7urGbOcPS-sdIDivRKSLRVrXzrcNBaVLptGmpMxQpdumQVc4hxmEKX_IJ97dffUnDBlZK8qlm_3L1FhOeyu44Hyla-sD3l2-DI-nLkNxSOEDIFzEOa-C7i_pnjc8Kof6nVQitllDDGNGxe0h7l9GjYD8o6jWdk8h8p_AH2iFiIneFOCNRhJDtdY_znttk_bH4BpyAiuPQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53319
 
 #☯☯ || KIDS CHANNELS || ☯☯
 
@@ -785,12 +778,17 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png", Disney Channel
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png", Disney Junior
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53479
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png", Disney XD
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png",Disney Channel
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
+https://webhdrunns.mizhls.ru/lb/premium312/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png",Disney Junior
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53479
+https://webhdrunns.mizhls.ru/lb/premium652/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png",Disney XD
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53405
+https://webhdrunns.mizhls.ru/lb/premium314/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"USSZbrz+4He0qs7DB/ONDw", "kid":"sRGeAbZ6GaPrN8QRQMP6EA" } ], "type":"temporary" }
