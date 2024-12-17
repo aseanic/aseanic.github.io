@@ -536,7 +536,7 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656904
 #http://31.42.187.37:25461/watchpad13158/1234/104
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/114397
 
-#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
+#EXTINF:-1 group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/12/16/xlRPUO.png",Paramount Network
 #http://91.218.51.36:8880/12mc050003/68849278/1870
 #https://webhdrunns.mizhls.ru/lb/premium334/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://45.159.93.14:8080/144264/661943/22906
@@ -946,7 +946,7 @@ https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|referer=https://lewblivehdp
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/656911
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HD.us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-id="MTVAsia" tvg-logo="https://pictr.com/images/2024/11/17/x6Whm2.png",MTV Live
-http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
+#http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WusX.png", MTV
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53369
 http://45.159.93.14:8080/144264/661943/22120
@@ -962,7 +962,7 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/153/index.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45266
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/20/x6Xv9D.png", MTV 00s
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:81:71:22&stream=45267
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=45267
 
 #EXTINF:-1 tvg-id="MTV.Classic.-.East.us" tvg-logo="https://pictr.com/images/2024/11/17/x6WYVu.png" group-title="Music", MTV Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
