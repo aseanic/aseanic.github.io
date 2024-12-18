@@ -424,11 +424,12 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outdoor
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #https://webhdrunns.mizhls.ru/lb/premium848/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
+#http://45.159.93.14:8080/144264/661943/22131
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/54974
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8afD.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",Outside TV
 #https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+http://45.159.93.14:8080/144264/661943/22132
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8ndG.png" group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png", Global Fashion Channel
 #https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -549,7 +550,7 @@ http://45.159.93.14:8080/144264/661943/22081
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png",Comedy Central US
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53470
 #https://webhdrunns.mizhls.ru/lb/premium310/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://45.159.93.14:8080/144264/661943/22065
+http://45.159.93.14:8080/144264/661943/22135
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/Eniy56.png" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53319
