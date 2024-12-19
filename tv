@@ -1241,9 +1241,10 @@ http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
-http://103.229.81.103:8080/F25093/29838750/162502
+#http://103.229.81.103:8080/F25093/29838750/162502
 ##http://51.79.248.110:888/Lyana/Lyana/161
 #https://link.zozotv.xyz:443/mubaen/k895427/44
+https://github.com/AKPLAYLISTTV/iptv/raw/40940765921542e0bcd3518195d41459b4e8b648/indo/trans7.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
 http://103.229.81.103:8080/F25093/29838750/162503
