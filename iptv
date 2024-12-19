@@ -30,8 +30,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
 #http://95.214.235.96:8880/29ca11113n01/adsfer3223/1727
-http://51.79.248.110:888/Lyana/Lyana/11
+#http://51.79.248.110:888/Lyana/Lyana/11
 #http://64.49.14.106:8080/Perfecttv/Perfecttv/1550
+http://103.211.103.30:8880/12mc050003/68849278/1727
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
