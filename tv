@@ -450,11 +450,13 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryChannel" tvg-logo="https://pictr.com/images/2023/07/24/EbLDYf.png",Discovery Channel
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571210
 #http://51.79.248.110:888/Lyana/Lyana/175
-http://103.211.103.30:8880/12mc050003/68849278/71071
+#http://103.211.103.30:8880/12mc050003/68849278/71071
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
-http://31.42.187.37:25461/watchpad13158/1234/34
+#http://31.42.187.37:25461/watchpad13158/1234/34
 #https://link.zozotv.xyz:443/mubaen/k895427/125
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 #https://webhdrunns.mizhls.ru/lb/premium294/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -482,8 +484,9 @@ http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="LoveNature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature
-http://15.235.144.67:35461/654321/123456/222
+#http://15.235.144.67:35461/654321/123456/222
 #https://link.zozotv.xyz:443/mubaen/k895427/116
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
 
 #EXTINF:-1 group-title="Documentary"  group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="GlobalTrekker" tvg-logo="https://pictr.com/images/2023/07/24/EbLRlP.png",Global Trekker
 #http://31.42.187.37:25461/watchpad13158/1234/342
@@ -499,7 +502,8 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571227
-http://31.42.187.37:25461/watchpad13158/1234/9
+#http://31.42.187.37:25461/watchpad13158/1234/9
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571215
