@@ -87,6 +87,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#KODIPROP:inputstream.adaptive.stream_headers=referer=http://perfecttv.net/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://perfecttv.net:8080/Perfecttv/Perfecttv/3
 #https://link.zozotv.xyz:443/mubaen/k895427/340
 #http://31.42.187.37:25461/watchpad13158/1234/68
@@ -98,7 +99,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/3
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts|referer=http://perfecttv.net/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://64.49.14.106:8080/live/Perfecttv/Perfecttv/1.ts
 #http://103.229.81.103:8080/F25093/29838750/157489
 #http://103.211.103.30:8880/12mc050003/68849278/1702
