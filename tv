@@ -95,7 +95,7 @@ http://15.235.144.67:35461/654321/123456/10838
 http://15.235.144.67:35461/654321/123456/5959
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
-http://64.49.14.106:8080/Perfecttv/Perfecttv/4|referer=https://perfecttv.net/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://perfecttv.net:8080/Perfecttv/Perfecttv/4|referer=https://perfecttv.net/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #http://103.211.103.30:8880/12mc050003/68849278/1701
 #http://31.42.187.37:25461/watchpad13158/1234/62
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571238
