@@ -16,7 +16,6 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
-
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVAlhijrah" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
 #http://31.42.187.37:25461/watchpad13158/1234/327
 #http://103.211.103.30:8880/12mc050003/68849278/71024
@@ -30,8 +29,7 @@ http://31.42.187.37:25461/watchpad13158/1234/14
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656944
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://awesometv.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://cdnatv.mirack.tv/Atv/index.m3u8
+https://cdnatv.mirack.tv/Atv/index.m3u8|referer=https://awesometv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #http://103.211.103.30:8880/12mc050003/68849278/1727
 #https://link.zozotv.xyz:443/mubaen/k895427/352
 #http://51.79.248.110:888/Lyana/Lyana/11
@@ -1240,8 +1238,7 @@ http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://perfecttv.net/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1603.ts
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1603.ts|referer=http://perfecttv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #http://103.229.81.103:8080/F25093/29838750/162502
 ##http://51.79.248.110:888/Lyana/Lyana/161
 #https://link.zozotv.xyz:443/mubaen/k895427/44
