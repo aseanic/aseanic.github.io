@@ -767,6 +767,7 @@ http://31.42.187.37:25461/watchpad13158/1234/332
 http://15.235.144.67:35461/654321/123456/970
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
+https://github.com/ayahdee/-/raw/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F1.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
 #http://31.42.187.37:25461/watchpad13158/1234/114
 #https://7pal.short.gy/astross1
@@ -774,17 +775,18 @@ http://15.235.144.67:35461/654321/123456/970
 #https://link.zozotv.xyz:443/mubaen/k895427/568
 ##http://51.79.248.110:888/Lyana/Lyana/13462
 #http://103.229.81.103:8080/F25093/29838750/146068
-http://15.235.144.67:35461/654321/123456/11243
+#http://15.235.144.67:35461/654321/123456/11243
 #https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
+https://github.com/ayahdee/-/raw/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F2.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918985
 #http://31.42.187.37:25461/watchpad13158/1234/113
 #https://7pal.short.gy/astross2
 #http://103.211.103.30:8880/12mc050003/68849278/1721
 #https://link.zozotv.xyz:443/mubaen/k895427/569
 ##http://51.79.248.110:888/Lyana/Lyana/13463
-http://15.235.144.67:35461/654321/123456/971
+#http://15.235.144.67:35461/654321/123456/971
 #https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 3
@@ -1238,8 +1240,8 @@ http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1603.ts|referer=http://perfecttv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://103.229.81.103:8080/F25093/29838750/162502
+#http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1603.ts|referer=http://perfecttv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://103.229.81.103:8080/F25093/29838750/162502
 ##http://51.79.248.110:888/Lyana/Lyana/161
 #https://link.zozotv.xyz:443/mubaen/k895427/44
 
