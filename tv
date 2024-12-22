@@ -30,7 +30,8 @@ http://31.42.187.37:25461/watchpad13158/1234/14
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656944
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
-https://cdnatv.mirack.tv/Atv/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36&referer=https://awesometv.my/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://awesometv.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://cdnatv.mirack.tv/Atv/index.m3u8
 #http://103.211.103.30:8880/12mc050003/68849278/1727
 #https://link.zozotv.xyz:443/mubaen/k895427/352
 #http://51.79.248.110:888/Lyana/Lyana/11
@@ -1239,10 +1240,12 @@ http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://perfecttv.net/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1603.ts
 #http://103.229.81.103:8080/F25093/29838750/162502
 ##http://51.79.248.110:888/Lyana/Lyana/161
 #https://link.zozotv.xyz:443/mubaen/k895427/44
-https://github.com/AKPLAYLISTTV/iptv/raw/40940765921542e0bcd3518195d41459b4e8b648/indo/trans7.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36&referer=https://perfecttv.net/
+
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
 http://103.229.81.103:8080/F25093/29838750/162503
