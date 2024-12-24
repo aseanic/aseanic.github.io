@@ -121,8 +121,8 @@ http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571256
 #https://link.zozotv.xyz:443/mubaen/k895427/39
 #http://51.79.248.110:888/Lyana/Lyana/23
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656956
-http://103.211.103.30:8880/12mc050003/68849278/71022
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/656956
+#http://103.211.103.30:8880/12mc050003/68849278/71022
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
 #https://link.zozotv.xyz:443/mubaen/k895427/38
@@ -266,8 +266,9 @@ http://31.42.187.37:25461/watchpad13158/1234/78
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
 #https://link.zozotv.xyz:443/mubaen/k895427/64
-http://31.42.187.37:25461/watchpad13158/1234/24
+#http://31.42.187.37:25461/watchpad13158/1234/24
 #http://103.211.103.30:8880/12mc050003/68849278/1718
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBJade" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",TVB Jade
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571187
@@ -290,7 +291,8 @@ http://31.42.187.37:25461/watchpad13158/1234/22
 #http://103.211.103.30:8880/12mc050003/68849278/71046
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixChineseChannel" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+http://15.235.144.67:35461/654321/123456/997
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixInfoNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -401,10 +403,12 @@ http://31.42.187.37:25461/watchpad13158/1234/42
 #http://31.42.187.37:25461/watchpad13158/1234/337
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-http://15.235.144.67:35461/654321/123456/281
+#http://15.235.144.67:35461/654321/123456/281
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
-http://31.42.187.37:25461/watchpad13158/1234/49
+#http://31.42.187.37:25461/watchpad13158/1234/49
+https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8?c
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571206
@@ -497,7 +501,8 @@ http://31.42.187.37:25461/watchpad13158/1234/338
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/History_Logo_%28White%29.svg/1952px-History_Logo_%28White%29.svg.png",History
 #http://51.79.248.110:888/Lyana/Lyana/114
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571227
@@ -507,7 +512,8 @@ https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571215
 #http://103.211.103.30:8880/12mc050003/68849278/71095
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656884
+#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656884
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
@@ -579,7 +585,8 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656855
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://pictr.com/images/2024/11/06/xi9sDO.png",Cartoon Network
 #https://link.zozotv.xyz:443/mubaen/k895427/132
 #http://103.211.103.30:8880/12mc050003/68849278/71084
-http://103.229.81.103:8080/F25093/29838750/157593
+#http://103.229.81.103:8080/F25093/29838750/157593
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
 #https://link.zozotv.xyz:443/mubaen/k895427/136
@@ -587,8 +594,9 @@ http://103.229.81.103:8080/F25093/29838750/157593
 http://31.42.187.37:25461/watchpad13158/1234/61
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="NickJr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
-http://31.42.187.37:25461/watchpad13158/1234/333
+#http://31.42.187.37:25461/watchpad13158/1234/333
 #https://link.zozotv.xyz:443/mubaen/k895427/137
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="MoonbugKids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png",Moonbug Kids
 #https://link.zozotv.xyz:443/mubaen/k895427/1025
@@ -835,13 +843,15 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
 http://103.229.81.103:8080/F25093/29838750/157565
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/399
-http://31.42.187.37:25461/watchpad13158/1234/110
+#http://31.42.187.37:25461/watchpad13158/1234/110
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656927
 #https://link.zozotv.xyz:443/mubaen/k895427/555
-http://31.42.187.37:25461/watchpad13158/1234/15
+#http://31.42.187.37:25461/watchpad13158/1234/15
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS 1
 http://31.42.187.37:25461/watchpad13158/1234/18
@@ -1156,20 +1166,23 @@ http://103.229.81.103:8080/F25093/29838750/157475
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941604
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="ONE" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",ONE
-http://103.229.81.103:8080/F25093/29838750/298563
+#http://103.229.81.103:8080/F25093/29838750/298563
 ##http://51.79.248.110:888/Lyana/Lyana/173
 #http://103.211.103.30:8880/12mc050003/68849278/71053
 #https://link.zozotv.xyz:443/mubaen/k895427/74
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="tvN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN
 #http://51.79.248.110:888/Lyana/Lyana/171
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571260
-http://31.42.187.37:25461/watchpad13158/1234/334
+#http://31.42.187.37:25461/watchpad13158/1234/334
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
 
 #EXTINF:-1 group-title="Korean;Movies" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="tvNMovies" tvg-logo="https://playtv.unifi.com.my:7050/CPS/images/universal/film/logo/202206/20220630/20220630160122105iu5.png",tvN Movies
 #http://51.79.248.110:888/Lyana/Lyana/172
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571261
-http://103.211.103.30:8880/12mc050003/68849278/71059
+#http://103.211.103.30:8880/12mc050003/68849278/71059
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 
 #EXTINF:-1 group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-id="K-Plus" tvg-logo="https://pictr.com/images/2024/06/06/x5CxNl.png",KPlus
 #http://51.79.248.110:888/Lyana/Lyana/174
@@ -1184,7 +1197,8 @@ http://15.235.144.67:35461/654321/123456/199
 #EXTINF:-1 tvg-id="KIX.id" group-title="Korean" tvg-id="KIX.id" group-title="Korean" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8NYq.png",KIX
 #http://51.79.248.110:888/Lyana/Lyana/158
 #https://link.zozotv.xyz:443/mubaen/k895427/82
-http://103.211.103.30:8880/12mc050003/68849278/
+#http://103.211.103.30:8880/12mc050003/68849278/
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 
 #☯☯ || INDO CHANNELS || ☯☯
 
@@ -1334,60 +1348,23 @@ http://103.229.81.103:8080/F25093/29838750/157581
 
 #EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/New_mnc_music_logo_2020.png/revision/latest?cb=20200119023024" group-title="Indonesia;Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Music TV
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment" tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
-
-
-#Sports 
-
-#kids
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Kids" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2024/06/15/x7M1aX.png",Mentari TV
-http://103.229.81.103:8080/F25093/29838750/298546
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Kids" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MnC5.png",Horee!
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 
 #Movies
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Movies" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MHaG.png",BioSkop
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Movies" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2024/06/15/x7Mm7l.png",Flik
-#http://51.79.248.110:888/Lyana/Lyana/169
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Movies" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2024/06/15/x7MNjf.png",Dunia Lain
-#https://link.zozotv.xyz:443/mubaen/k895427/346
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
 
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
 #https://link.zozotv.xyz:443/mubaen/k895427/112
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/4.m3u8
-http://103.229.81.103:8080/F25093/29838750/157580
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Movies" group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
-https://link.zozotv.xyz:443/mubaen/k895427/111
-
-#EXTINF:0 tvg-id="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",IMC
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/113
-
-#EXTINF:0 tvg-id="GALAXY" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy
-http://103.229.81.103:8080/F25093/29838750/264773
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/108
-
-#EXTINF:0 tvg-id="GALAXYPremium" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Galaxy Premium
-http://103.229.81.103:8080/F25093/29838750/264774
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29603.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/109
+#http://103.229.81.103:8080/F25093/29838750/157580
 
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Zee Bioskop
-http://103.229.81.103:8080/F25093/29838750/157584
+#http://103.229.81.103:8080/F25093/29838750/157584
 #https://link.zozotv.xyz:443/mubaen/k895427/53
 
 #EXTINF:0 tvg-id="MyCinema" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",Mycinema
-http://103.229.81.103:8080/F25093/29838750/298553
+#http://103.229.81.103:8080/F25093/29838750/298553
 #https://link.zozotv.xyz:443/mubaen/k895427/394
 
 #EXTINF:0 tvg-id="MyCinemaAsia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Indonesia;Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",MyCinemaAsia
@@ -1405,7 +1382,7 @@ http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19
 #EXTINF:0 tvg-id+'id="MuslimTV.id"" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Muslim TV
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/12/04/xSOhlV.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",TV9
-http://103.229.81.103:8080/F25093/29838750/162509
+#http://103.229.81.103:8080/F25093/29838750/162509
 
 #EXTINF:0 tvg-id="LIFE.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Life
 http://37.49.225.197:8080/F33476/7458dae3/157585
@@ -1420,11 +1397,11 @@ https://ythls.armelin.one/channel/UCQo_L_h_01NjLYiNHUnjEJw.m3u8
 
 
 #EXTINF:0 tvg-id="AlQuranKareem.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Al Quran Al Kareem TV
-https://link.zozotv.xyz:443/mubaen/k895427/171
+#https://link.zozotv.xyz:443/mubaen/k895427/171
 
 
 #EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Tawaf TV
-https://link.zozotv.xyz:443/mubaen/k895427/172
+#https://link.zozotv.xyz:443/mubaen/k895427/172
 
 #EXTINF:-1 tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Fatwa TV
 https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
@@ -1435,13 +1412,13 @@ https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 #EXTINF:-1 tvg-id="HopeChannelIndonesia.id" tvg-logo="https://i.imgur.com/vXFS7Fi.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Hope Channel
 https://ythls.armelin.one/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV.id" group-title="INDIHOME;Indonesia;Sports" group-logo="https://pictr.com/images/2024/08/07/xZxac8.png" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
+#EXTINF:-1 tvg-id="SPOTV.id" group-title="INDIHOME;Indonesia" group-logo="https://pictr.com/images/2024/08/07/xZxac8.png" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV2.id" group-title="INDIHOME;Indonesia;Sports"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2.id" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Sports"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
-#EXTINF:-1 tvg-id="FightSports" group-title="INDIHOME;Indonesia;Sports"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
+#EXTINF:-1 tvg-id="FightSports" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Kids"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
 https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
@@ -1449,13 +1426,13 @@ https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 #EXTINF:-1 tvg-id="AlQuranKareem.id" group-title="INDIHOME;Indonesia;Religion"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Religion"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
 https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Religion"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
 https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Religion"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9
 https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
-#EXTINF:-1 tvg-id="tvNMovies.kr" group-title="INDIHOME;Indonesia;Movies"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
+#EXTINF:-1 tvg-id="tvNMovies.kr" group-title="INDIHOME"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 #EXTINF:-1 tvg-id="IMC" group-title="INDIHOME;Indonesia;Movies"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
@@ -1473,21 +1450,21 @@ https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Movies"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
-#EXTINF:-1 tvg-id="CNBCAsia.id" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBCAsia.id" group-title="INDIHOME"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
 https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
-#EXTINF:-1 tvg-id="tvN.id" group-title="INDIHOME;Indonesia;Korean"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+#EXTINF:-1 tvg-id="tvN.id" group-title="INDIHOME"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
 https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
-#EXTINF:-1 tvg-id="History.id" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+#EXTINF:-1 tvg-id="History.id" group-title="INDIHOME"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
 https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
 https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
-#EXTINF:-1 tvg-id="ONE.id" group-title="INDIHOME;Indonesia;Korean"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
+#EXTINF:-1 tvg-id="ONE.id" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
-#EXTINF:-1 tvg-id="KIX.id" group-title="INDIHOME;Indonesia;Korean"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
+#EXTINF:-1 tvg-id="KIX.id" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Chinese"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
@@ -1497,27 +1474,27 @@ https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Chinese"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
 https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Kids"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Kids"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
 https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
 https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Lifestyle"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Lifestyle"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
-https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8?c
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Lifestyle"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Entertainment"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 #EXTINF:-1 tvg-id="NickJr.id" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
@@ -1527,9 +1504,9 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
-#EXTINF:-1 tvg-id="LoveNature" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+#EXTINF:-1 tvg-id="LoveNature" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
 https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
