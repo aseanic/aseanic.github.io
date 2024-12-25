@@ -97,31 +97,35 @@ https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8
 #http://15.235.144.67:35461/654321/123456/5959
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/prima.m3u8
 #http://103.211.103.30:8880/12mc050003/68849278/1701
 #http://31.42.187.37:25461/watchpad13158/1234/62
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571238
 #https://link.zozotv.xyz:443/mubaen/k895427/30
-http://15.235.144.67:35461/654321/123456/732
+#http://15.235.144.67:35461/654321/123456/732
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
 #http://31.42.187.37:25461/watchpad13158/1234/87
 http://15.235.144.67:35461/654321/123456/212
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-http://15.235.144.67:35461/654321/123456/6608
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/prima.m3u8
+#http://15.235.144.67:35461/654321/123456/6608
 #http://103.229.81.103:8080/F25093/29838750/157569
 #http://15.235.144.67:35461/654321/123456/179
 ##http://51.79.248.110:888/Lyana/Lyana/20
 #https://link.zozotv.xyz:443/mubaen/k895427/36
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
-http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/sensasi.m3u8
+#http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/rania.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571256
 #https://link.zozotv.xyz:443/mubaen/k895427/39
 #http://51.79.248.110:888/Lyana/Lyana/23
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656956
+#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656956
 #http://103.211.103.30:8880/12mc050003/68849278/71022
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
