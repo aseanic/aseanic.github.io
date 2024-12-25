@@ -155,15 +155,17 @@ http://15.235.144.67:35461/654321/123456/675
 #https://link.zozotv.xyz:443/mubaen/k895427/464
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
-http://103.211.103.30:8880/12mc050003/68849278/1723
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/aec.m3u8
+#http://103.211.103.30:8880/12mc050003/68849278/1723
 #http://31.42.187.37:25461/watchpad13158/1234/7
 #https://link.zozotv.xyz:443/mubaen/k895427/60
 #http://15.235.144.67:35461/654321/123456/10782
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
+https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/quanjia.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/62
-http://103.211.103.30:8880/12mc050003/68849278/1728
-##http://51.79.248.110:888/Lyana/Lyana/8331
+#http://103.211.103.30:8880/12mc050003/68849278/1728
+#http://51.79.248.110:888/Lyana/Lyana/8331
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 #https://link.zozotv.xyz:443/mubaen/k895427/61
