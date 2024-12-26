@@ -29,8 +29,8 @@ http://31.42.187.37:25461/watchpad13158/1234/14
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656944
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
-https://cdnatv.mirack.tv/Atv/index.m3u8|referer=https://awesometv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://103.211.103.30:8880/12mc050003/68849278/1727
+#https://cdnatv.mirack.tv/Atv/index.m3u8|referer=https://awesometv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://103.211.103.30:8880/12mc050003/68849278/1727
 #https://link.zozotv.xyz:443/mubaen/k895427/352
 #http://51.79.248.110:888/Lyana/Lyana/11
 
@@ -117,7 +117,7 @@ https://aseanic.github.io/m3u8/citra.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/36
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
-https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/sensasi.m3u8
+https://aseanic.github.io/m3u8/sensasi.m3u8
 #http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
@@ -137,8 +137,8 @@ https://aseanic.github.io/m3u8/aura.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37468.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
-https://aseanic.github.io/m3u8/premier.m3u8
-#http://103.211.103.30:8880/12mc050003/68849278/71026
+#https://aseanic.github.io/m3u8/premier.m3u8
+http://103.211.103.30:8880/12mc050003/68849278/71026
 #http://31.42.187.37:25461/watchpad13158/1234/41
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
@@ -155,7 +155,7 @@ https://aseanic.github.io/m3u8/vellithirai.m3u8
 #http://103.211.103.30:8880/12mc050003/68849278/71100
  
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
-https://aseanic.github.io/m3u8/thangathirai.m3u8
+#https://aseanic.github.io/m3u8/thangathirai.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/464
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
@@ -584,15 +584,16 @@ http://45.159.93.14:8080/144264/661943/22946
 #☯☯ || KIDS CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Kids;Astro" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="AstroCeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656953
+https://aseanic.github.io/m3u8/ceria.m3u8
+#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656953
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571241
 #http://31.42.187.37:25461/watchpad13158/1234/84
 ##http://51.79.248.110:888/Lyana/Lyana/88
 
-
 #EXTINF:-1 tvg-id="AstroTutorTV" group-title="Kids;Astro" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656855
-##http://51.79.248.110:888/Lyana/Lyana/13892
+https://aseanic.github.io/m3u8/tutor.m3u8
+#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656855
+#http://51.79.248.110:888/Lyana/Lyana/13892
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://pictr.com/images/2024/11/06/xi9sDO.png",Cartoon Network
 #https://link.zozotv.xyz:443/mubaen/k895427/132
@@ -759,44 +760,47 @@ http://103.229.81.103:8080/F25093/29838750/298560
 
 
 #EXTINF:-1 tvg-id="AstroSportsUHD" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO Supersport UHD
-https://aseanic.github.io/m3u8/uhd.m3u8
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1479590&extension=ts&play_token=JGjaRAwFDY
+#https://aseanic.github.io/m3u8/uhd.m3u8
 #https://7pal.short.gy/astrouhd
 #https://link.zozotv.xyz:443/mubaen/k895427/2165
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 1
+https://aseanic.github.io/m3u8/arena1.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/286
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37422.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/154
 ##http://51.79.248.110:888/Lyana/Lyana/13021
-http://15.235.144.67:35461/654321/123456/966
+#http://15.235.144.67:35461/654321/123456/966
 
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",ASTRO ARENA 2
+https://aseanic.github.io/m3u8/arena2.m3u8
 #http://103.211.103.30:8880/12mc050003/68849278/71076
 #http://31.42.187.37:25461/watchpad13158/1234/336
-http://15.235.144.67:35461/654321/123456/965
+#http://15.235.144.67:35461/654321/123456/965
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola
+https://aseanic.github.io/m3u8/bola1.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/802
 ##http://51.79.248.110:888/Lyana/Lyana/7947
 http://15.235.144.67:35461/654321/123456/688
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola 2
-http://31.42.187.37:25461/watchpad13158/1234/332
+https://aseanic.github.io/m3u8/bola2.m3u8
+#http://31.42.187.37:25461/watchpad13158/1234/332
 #https://link.zozotv.xyz:443/mubaen/k895427/792
 #http://51.79.248.110:888/Lyana/Lyana/7949
 
 #EXTINF:-1 tvg-id="AstroBadminton" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Badminton
+https://aseanic.github.io/m3u8/badminton.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/155
-http://103.211.103.30:8880/12mc050003/68849278/71105
+#http://103.211.103.30:8880/12mc050003/68849278/71105
 ##http://51.79.248.110:888/Lyana/Lyana/13465
 #http://15.235.144.67:35461/654321/123456/970
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
-#https://github.com/ayahdee/-/raw/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F1.m3u8
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918986
+https://aseanic.github.io/m3u8/pl1.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/114
 #https://7pal.short.gy/astross1
-http://103.211.103.30:8880/12mc050003/68849278/1722
+#http://103.211.103.30:8880/12mc050003/68849278/1722
 #https://link.zozotv.xyz:443/mubaen/k895427/568
 ##http://51.79.248.110:888/Lyana/Lyana/13462
 #http://103.229.81.103:8080/F25093/29838750/146068
@@ -804,22 +808,18 @@ http://103.211.103.30:8880/12mc050003/68849278/1722
 #https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
-#https://github.com/ayahdee/-/raw/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F2.m3u8
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918985
+https://aseanic.github.io/m3u8/pl2.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/113
 #https://7pal.short.gy/astross2
 #http://103.211.103.30:8880/12mc050003/68849278/1721
-#https://link.zozotv.xyz:443/mubaen/k895427/569
-##http://51.79.248.110:888/Lyana/Lyana/13463
 #http://15.235.144.67:35461/654321/123456/971
-https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroPremierLeague3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 3
-#http://51.79.248.110:888/Lyana/Lyana/13553
-#https://link.zozotv.xyz:443/mubaen/k895427/2205
+https://aseanic.github.io/m3u8/pl3.m3u8
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Grandstand
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918984
+https://aseanic.github.io/m3u8/grandstand.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/112
 #https://7pal.short.gy/astross3
 #http://103.211.103.30:8880/12mc050003/68849278/1720
@@ -827,34 +827,33 @@ https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehd
 ##http://51.79.248.110:888/Lyana/Lyana/13461
 #http://103.229.81.103:8080/F25093/29838750/157557
 #http://15.235.144.67:35461/654321/123456/11241
-https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroFootball" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
-#https://link.zozotv.xyz:443/mubaen/k895427/158
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=918983
+https://aseanic.github.io/m3u8/football.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/111
 #https://7pal.short.gy/astross4
 #http://103.211.103.30:8880/12mc050003/68849278/1719
 ##http://51.79.248.110:888/Lyana/Lyana/13464
 #http://103.229.81.103:8080/F25093/29838750/157558
-https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Supersport Plus
+https://aseanic.github.io/m3u8/splus.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/482
-http://103.211.103.30:8880/12mc050003/68849278/71146
+#http://103.211.103.30:8880/12mc050003/68849278/71146
 #http://51.79.248.110:888/Lyana/Lyana/13467
 
-#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
-http://103.211.103.30:8880/12mc050003/68849278/1713
-
-
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571244
+https://aseanic.github.io/m3u8/cricket.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/328
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37438.m3u8
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656962
 http://103.229.81.103:8080/F25093/29838750/157565
+
+#EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
+http://103.211.103.30:8880/12mc050003/68849278/1713
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
