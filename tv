@@ -1081,18 +1081,22 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #☯☯ || RADIO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ FM
-http://103.211.103.30:8880/12mc050003/68849278/71021
+https://aseanic.github.io/m3u8/hitz.m3u8
+#http://103.211.103.30:8880/12mc050003/68849278/71021
 
 #EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"   tvg-id="SINAR"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
-http://103.211.103.30:8880/12mc050003/68849278/71049
+https://aseanic.github.io/m3u8/sinar.m3u8
+#http://103.211.103.30:8880/12mc050003/68849278/71049
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571229
 
 #EXTINF:-1 group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png"  tvg-id="MELODY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
+https://aseanic.github.io/m3u8/melody.m3u8
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571226
-http://103.211.103.30:8880/12mc050003/68849278/1724
+#http://103.211.103.30:8880/12mc050003/68849278/1724
 
 #EXTINF:-1 tvg-id="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png" ,INDIA BEAT
-http://103.211.103.30:8880/12mc050003/68849278/71045
+https://aseanic.github.io/m3u8/indiabeat.m3u8
+#http://103.211.103.30:8880/12mc050003/68849278/71045
 
 #EXTINF:-1 tvg-id="OSAI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="Radio" group-logo="https://pictr.com/images/2023/04/19/En13c1.png" ,OSAI
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571230
@@ -1106,32 +1110,37 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656925
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR4lV.png", Channel 5
+https://aseanic.github.io/m3u8/ch5.m3u8
 #http://51.79.248.110:888/Lyana/Lyana/31
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941615
-http://15.235.144.67:35461/654321/123456/328
+#http://15.235.144.67:35461/654321/123456/328
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRuYD.png", Channel 8 
+https://aseanic.github.io/m3u8/ch8.m3u8
 #http://51.79.248.110:888/Lyana/Lyana/32
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941616
 #http://103.211.103.30:8880/12mc050003/68849278/71054
-http://15.235.144.67:35461/654321/123456/332
+#http://15.235.144.67:35461/654321/123456/332
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR8o5.png", Channel U
+https://aseanic.github.io/m3u8/chu.m3u8
 #http://51.79.248.110:888/Lyana/Lyana/33
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941617
-http://15.235.144.67:35461/654321/123456/330
+#http://15.235.144.67:35461/654321/123456/330
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRdr1.png", Channel Suria
+https://aseanic.github.io/m3u8/suria.m3u8
 #http://51.79.248.110:888/Lyana/Lyana/34
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941575
 #http://103.211.103.30:8880/12mc050003/68849278/1700
-http://15.235.144.67:35461/654321/123456/331
+#http://15.235.144.67:35461/654321/123456/331
 
 #EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https:https://pictr.com/images/2024/11/07/xiRMRQ.png", Channel Vasantham
+https://aseanic.github.io/m3u8/vasantham.m3u8
 #http://51.79.248.110:888/Lyana/Lyana/35
 #http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941588
 #http://103.211.103.30:8880/12mc050003/68849278/1699
-http://15.235.144.67:35461/654321/123456/333
+#http://15.235.144.67:35461/654321/123456/333
 
 #EXTINF:-1 tvg-id="CNA" group-title="Singapore;News" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
