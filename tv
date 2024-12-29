@@ -26,7 +26,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 http://15.235.144.67:35461/654321/123456/726
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
-https://aseanic.github.io/m3u8/tvs.m3u8
+https://aseanic.github.io/m3u8/tvs.m3u8|referer=https://tvsarawak.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #http://31.42.187.37:25461/watchpad13158/1234/14
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656944
 
@@ -62,10 +62,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://skyios.sky4k.top
-#https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
-plugin://plugin.video.youtube/play/?video_id=hk6T_HmdpJY
+plugin://plugin.video.youtube/play/?channel_id=UCldPEJgJgq_Mb6Ndek5RxQg&live=1
+#plugin://plugin.video.youtube/play/?video_id=hk6T_HmdpJY
 
 #EXTINF:-1 tvg-id="121.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
 #https://link.zozotv.xyz:443/mubaen/k895427/1912
