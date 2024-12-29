@@ -3,6 +3,8 @@
 #EXT-X-MEDIA-SEQUENCE:233
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=http://perfecttv.net
 #EXTINF:10.000000,
 http://perfecttv.net:8080/live/Perfecttv/Perfecttv/3.ts
 #EXTINF:10.000000,
