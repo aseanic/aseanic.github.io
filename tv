@@ -16,7 +16,9 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVAlhijrah" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8
 #http://31.42.187.37:25461/watchpad13158/1234/327
 #http://103.211.103.30:8880/12mc050003/68849278/71024
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37337.m3u8
@@ -24,8 +26,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 http://15.235.144.67:35461/654321/123456/726
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
-##http://51.79.248.110:888/Lyana/Lyana/28
-http://31.42.187.37:25461/watchpad13158/1234/14
+https://live-tvs.tvsarawak.my/live/tvs_1080p2628kbs/index.m3u8|referer=https://tvsarawak.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://31.42.187.37:25461/watchpad13158/1234/14
 #http://m1-max.dns-speedy.com:80/529C1C/7446D7/656944
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
@@ -63,6 +65,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 #https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+plugin://plugin.video.youtube/play/?video_id=UCldPEJgJgq_Mb6Ndek5RxQg
 
 #EXTINF:-1 tvg-id="121.unifi" group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
 #https://link.zozotv.xyz:443/mubaen/k895427/1912
@@ -837,7 +840,7 @@ https://aseanic.github.io/m3u8/football.m3u8
 #http://103.229.81.103:8080/F25093/29838750/157558
 #https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Supersport Plus
+#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Sports Plus
 https://aseanic.github.io/m3u8/splus.m3u8
 #https://link.zozotv.xyz:443/mubaen/k895427/482
 #http://103.211.103.30:8880/12mc050003/68849278/71146
