@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
