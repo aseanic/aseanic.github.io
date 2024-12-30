@@ -10,50 +10,27 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-#http://103.211.103.30:8880/12mc050003/68849278/1732
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656934
-#https://link.zozotv.xyz:443/mubaen/k895427/18
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVAlhijrah" tvg-logo="https://user-images.githubusercontent.com/85995579/128817434-40ef33c1-c920-4bc1-ac0f-11925b360514.png",AlHijrah
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/tracks-v1a1/mono.m3u8
-#http://31.42.187.37:25461/watchpad13158/1234/327
-#http://103.211.103.30:8880/12mc050003/68849278/71024
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37337.m3u8
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656945
-http://15.235.144.67:35461/654321/123456/726
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TVS" tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png",TVS
 https://aseanic.github.io/m3u8/tvs.m3u8|referer=https://tvsarawak.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://31.42.187.37:25461/watchpad13158/1234/14
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656944
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png",Awesome TV
 https://cdnatv.mirack.tv/Atv/index.m3u8|referer=https://awesometv.my/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://103.211.103.30:8880/12mc050003/68849278/1727
-#https://link.zozotv.xyz:443/mubaen/k895427/352
-#http://51.79.248.110:888/Lyana/Lyana/11
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656916
-#https://link.zozotv.xyz:443/mubaen/k895427/20
-#http://103.211.103.30:8880/12mc050003/68849278/1731
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV
 https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf
-##http://51.79.248.110:888/Lyana/Lyana/8
-#http://103.211.103.30:8880/12mc050003/68849278/1730
-#https://link.zozotv.xyz:443/mubaen/k895427/21
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
-##http://51.79.248.110:888/Lyana/Lyana/9
-#https://link.zozotv.xyz:443/mubaen/k895427/22
-#http://103.211.103.30:8880/12mc050003/68849278/1729
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656935
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="OKEY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
@@ -84,111 +61,58 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
 https://aseanic.github.io/m3u8/ria.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/340
-#http://31.42.187.37:25461/watchpad13158/1234/68
-#http://103.211.103.30:8880/12mc050003/68849278/1705
-#http://15.235.144.67:35461/654321/123456/10838
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 https://aseanic.github.io/m3u8/prima.m3u8
-#http://103.229.81.103:8080/F25093/29838750/157489
-#http://103.211.103.30:8880/12mc050003/68849278/1702
-#http://31.42.187.37:25461/watchpad13158/1234/65
-#https://link.zozotv.xyz:443/mubaen/k895427/34
-#http://15.235.144.67:35461/654321/123456/5959
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 https://aseanic.github.io/m3u8/oasis.m3u8
-#http://103.211.103.30:8880/12mc050003/68849278/1701
-#http://31.42.187.37:25461/watchpad13158/1234/62
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571238
-#https://link.zozotv.xyz:443/mubaen/k895427/30
-#http://15.235.144.67:35461/654321/123456/732
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",Astro Warna
-#http://31.42.187.37:25461/watchpad13158/1234/87
 http://15.235.144.67:35461/654321/123456/212
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
 https://aseanic.github.io/m3u8/citra.m3u8
-#http://15.235.144.67:35461/654321/123456/6608
-#http://103.229.81.103:8080/F25093/29838750/157569
-#http://15.235.144.67:35461/654321/123456/179
-##http://51.79.248.110:888/Lyana/Lyana/20
-#https://link.zozotv.xyz:443/mubaen/k895427/36
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",Astro Sensasi
 https://aseanic.github.io/m3u8/sensasi.m3u8
-#http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 https://aseanic.github.io/m3u8/rania.m3u8
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571256
-#https://link.zozotv.xyz:443/mubaen/k895427/39
-#http://51.79.248.110:888/Lyana/Lyana/23
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/656956
-#http://103.211.103.30:8880/12mc050003/68849278/71022
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest?cb=20200924122544",Astro Aura
 https://aseanic.github.io/m3u8/aura.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/38
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571257
-#http://103.211.103.30:8880/12mc050003/68849278/71025
-#http://51.79.248.110:888/Lyana/Lyana/22
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37468.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2023/11/30/EF91LY.png",Astro Premier
 #https://aseanic.github.io/m3u8/premier.m3u8
-http://103.211.103.30:8880/12mc050003/68849278/71026
-#http://31.42.187.37:25461/watchpad13158/1234/41
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 https://aseanic.github.io/m3u8/vaanavil.m3u8
-#http://31.42.187.37:25461/watchpad13158/1234/31
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVinmeen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",Astro Vinmeen
-#https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroVinmeenHD
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 https://aseanic.github.io/m3u8/vellithirai.m3u8
-#http://15.235.144.67:35461/654321/123456/675
-#https://link.zozotv.xyz:443/mubaen/k895427/1040
-#http://103.211.103.30:8880/12mc050003/68849278/71100
  
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
 #https://aseanic.github.io/m3u8/thangathirai.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/464
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
 https://aseanic.github.io/m3u8/aec.m3u8
-#http://103.211.103.30:8880/12mc050003/68849278/1723
-#http://31.42.187.37:25461/watchpad13158/1234/7
-#https://link.zozotv.xyz:443/mubaen/k895427/60
-#http://15.235.144.67:35461/654321/123456/10782
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroQJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
 https://aseanic.github.io/m3u8/quanjia.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/62
-#http://103.211.103.30:8880/12mc050003/68849278/1728
-#http://51.79.248.110:888/Lyana/Lyana/8331
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroHuaHeeDai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",Astro Hua Hee Dai
 https://aseanic.github.io/m3u8/huadeehai.m3u8
-#https://link.zozotv.xyz:443/mubaen/k895427/61
-#http://31.42.187.37:25461/watchpad13158/1234/52
-#http://103.211.103.30:8880/12mc050003/68849278/1725
-#http://15.235.144.67:35461/654321/123456/707
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",Astro AOD
-#http://31.42.187.37:25461/watchpad13158/1234/12
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
-#http://51.79.248.110:888/Lyana/Lyana/13141
 http://103.211.103.30:8880/12mc050003/68849278/71079
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAHnMI.png",Astro Live Event 2
-#http://51.79.248.110:888/Lyana/Lyana/13278
 http://103.211.103.30:8880/12mc050003/68849278/71105
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://pictr.com/images/2023/08/23/EAH4Jr.png",Astro Live Event 3
@@ -260,66 +184,41 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #☯☯ || CHINESE CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571198
-#http://31.42.187.37:25461/watchpad13158/1234/53
-#http://103.211.103.30:8880/12mc050003/68849278/71038
-#https://link.zozotv.xyz:443/mubaen/k895427/63
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37349.m3u8
-http://15.235.144.67:35461/654321/123456/708
+https://aseanic.github.io/m3u8/iqiyi.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBSAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png",TVBS Asia
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571185
-#https://link.zozotv.xyz:443/mubaen/k895427/2121
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656882
+https://aseanic.github.io/m3u8/tvbasia.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",TVB Classic
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571197
-http://31.42.187.37:25461/watchpad13158/1234/78
-#http://103.211.103.30:8880/12mc050003/68849278/1712
+https://aseanic.github.io/m3u8/tvbclassic.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
-#https://link.zozotv.xyz:443/mubaen/k895427/64
-#http://31.42.187.37:25461/watchpad13158/1234/24
-#http://103.211.103.30:8880/12mc050003/68849278/1718
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBJade" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/TVB_Jade_2023.png/revision/latest?cb=20230203013249&path-prefix=vi",TVB Jade
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571187
-http://31.42.187.37:25461/watchpad13158/1234/80
-#http://103.211.103.30:8880/12mc050003/68849278/1726
+https://aseanic.github.io/m3u8/tvbjade.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png",TVB Entertainment News
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571188
-http://31.42.187.37:25461/watchpad13158/1234/318
-#http://103.211.103.30:8880/12mc050003/68849278/1714
+https://aseanic.github.io/m3u8/tvbe.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
-#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#http://103.211.103.30:8880/12mc050003/68849278/71044
-http://31.42.187.37:25461/watchpad13158/1234/81
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571213
-http://31.42.187.37:25461/watchpad13158/1234/22
-#http://103.211.103.30:8880/12mc050003/68849278/71046
+https://aseanic.github.io/m3u8/ccm.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixChineseChannel" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
-http://15.235.144.67:35461/654321/123456/997
-#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixInfoNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#http://31.42.187.37:25461/watchpad13158/1234/66
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CTIAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",CTI Asia
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=571212
-http://31.42.187.37:25461/watchpad13158/1234/32
-#http://103.211.103.30:8880/12mc050003/68849278/71042
+https://aseanic.github.io/m3u8/cti.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
-http://31.42.187.37:25461/watchpad13158/1234/23
-#https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
-#http://51.79.248.110:888/Lyana/Lyana/151
+https://aseanic.github.io/m3u8/cctv.m3u8
+
 
 #China
 
@@ -417,7 +316,7 @@ http://31.42.187.37:25461/watchpad13158/1234/42
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
 #http://15.235.144.67:35461/654321/123456/281
-https://cdn09jtedge.indihometv.com/joss/134/afc/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8?c
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
 #http://31.42.187.37:25461/watchpad13158/1234/49
@@ -1519,7 +1418,7 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Documentary"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
 https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8?c
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="INDIHOME;Indonesia;Lifestyle"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
