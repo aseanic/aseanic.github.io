@@ -64,7 +64,6 @@ https://aseanic.github.io/m3u8/ria.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 #https://aseanic.github.io/m3u8/prima.m3u8
-https://github.com/AKPLAYLISTTV/iptv/raw/40940765921542e0bcd3518195d41459b4e8b648/mov/cinemachiaction.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroOasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png",Astro Oasis
 https://aseanic.github.io/m3u8/oasis.m3u8
