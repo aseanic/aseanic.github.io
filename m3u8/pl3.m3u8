@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656961.ts
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656961.m3u8
