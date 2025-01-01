@@ -248,30 +248,29 @@ https://aseanic.github.io/m3u8/suntv.m3u8
 https://aseanic.github.io/m3u8/sunmusic.m3u8
 
 #EXTINF:-1  group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="Adithya" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya
+https://aseanic.github.io/m3u8/adithya.m3u8
 http://103.229.81.103:8080/F25093/29838750/157469
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",Sun News
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656917
+https://aseanic.github.io/m3u8/sunnews.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",KTV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656843
+https://aseanic.github.io/m3u8/ktv.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunLife" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656844
+https://aseanic.github.io/m3u8/sunlife.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
-http://103.211.103.30:8880/12mc050003/68849278/71034
+https://aseanic.github.io/m3u8/starvijay.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi
-http://31.42.187.37:25461/watchpad13158/1234/188
-#http://103.211.103.30:8880/12mc050003/68849278/71035
+https://aseanic.github.io/m3u8/colors.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png",Colors Tamil
-http://31.42.187.37:25461/watchpad13158/1234/95
+https://aseanic.github.io/m3u8/colorstamil.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ZeeTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil
-http://31.42.187.37:25461/watchpad13158/1234/343
-#http://103.211.103.30:8880/12mc050003/68849278/71032
+https://aseanic.github.io/m3u8/zeetamil.m3u8
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
 http://tv.indigotv.me:80/live.ts?channelId=12359&uid=7245&deviceMac=00:1A:79:4A:02:91
