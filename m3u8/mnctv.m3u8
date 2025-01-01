@@ -4,4 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1575.ts
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1575_0.ts
+#EXTINF:10.000000,
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1575_1.ts
+#EXTINF:10.000000,
+http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1575_2.ts
