@@ -4,4 +4,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://31.42.187.37:25461/live/watchpad13158/1234/188.ts
+http://31.42.187.37:25461/live/watchpad13158/1234/188.m3u8
