@@ -931,15 +931,16 @@ https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #☯☯ || INDO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/V6VXx1c0/rcti.png",RCTI
-#https://aseanic.github.io/m3u8/rcti.m3u8
-http://xtv.ooo:8080/30912088/60996054/351023
+https://aseanic.github.io/m3u8/rcti.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://xtv.ooo:8080/30912088/60996054/351023
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png",GTV
 https://aseanic.github.io/m3u8/gtv.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/26Gy142h/mnctv.png",MNC TV
-#https://aseanic.github.io/m3u8/mnctv.m3u8
-http://xtv.ooo:8080/30912088/60996054/350996
+https://aseanic.github.io/m3u8/mnctv.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://xtv.ooo:8080/30912088/60996054/351023
+#http://xtv.ooo:8080/30912088/60996054/350996
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://i.postimg.cc/wBPhPgzy/inews.png",iNews
 http://103.229.81.103:8080/F25093/29838750/157579
@@ -955,15 +956,15 @@ https://aseanic.github.io/m3u8/indosiar.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
-#https://aseanic.github.io/m3u8/net.m3u8
-http://xtv.ooo:8080/30912088/60996054/351010
+https://aseanic.github.io/m3u8/net.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://xtv.ooo:8080/30912088/60996054/351010
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MetroTV.id" tvg-logo="https://i.postimg.cc/nhFY93Tz/metro-tv.png",Metro TV
 https://aseanic.github.io/m3u8/metro.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="KompasTV.id" tvg-logo="https://i.postimg.cc/MKx1g9CD/kompas-tv.png",Kompas TV
-#https://aseanic.github.io/m3u8/kompas.m3u8
-http://xtv.ooo:8080/30912088/60996054/350984
+https://aseanic.github.io/m3u8/kompas.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#http://xtv.ooo:8080/30912088/60996054/350984
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://i.postimg.cc/qqrCV75R/cnn-indonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
