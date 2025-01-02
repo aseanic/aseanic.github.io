@@ -968,7 +968,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:0 tvg-id="IDX.id" tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",IDX Channel
-http://103.229.81.103:8080/F25093/29838750/157590
+https://aseanic.github.io/m3u8/idx.m3u8
+#http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
@@ -1032,7 +1033,8 @@ https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8
 
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BTV
-http://103.229.81.103:8080/F25093/29838750/162513
+https://aseanic.github.io/m3u8/btv.m3u8
+#http://103.229.81.103:8080/F25093/29838750/162513
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-logo="https://i.imgur.com/Y1EzIb9.jpg",DAAI TV
 
@@ -1084,9 +1086,11 @@ http://103.229.81.103:8080/F25093/29838750/298553
 http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
 
 #EXTINF:0 tvg-id+'id="MuslimTV.id"" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Muslim TV
+https://aseanic.github.io/m3u8/tvmu.m3u8
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/12/04/xSOhlV.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",TV9
 #http://103.229.81.103:8080/F25093/29838750/162509
+https://aseanic.github.io/m3u8/tv9.m3u8
 
 #EXTINF:0 tvg-id="LIFE.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="Religion",Life
 http://37.49.225.197:8080/F33476/7458dae3/157585
