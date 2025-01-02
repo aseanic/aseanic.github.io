@@ -931,14 +931,10 @@ https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #☯☯ || INDO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/V6VXx1c0/rcti.png",RCTI
-http://103.229.81.103:8080/F25093/29838750/157591
-#http://51.79.248.110:888/Lyana/Lyana/159
-#https://link.zozotv.xyz:443/mubaen/k895427/47
-#http://31.42.187.37:25461/watchpad13158/1234/91
+https://aseanic.github.io/m3u8/rcti.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png",GTV
-#https://link.zozotv.xyz:443/mubaen/k895427/48
-http://103.229.81.103:8080/F25093/29838750/157578
+https://aseanic.github.io/m3u8/gtv.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/26Gy142h/mnctv.png",MNC TV
 https://aseanic.github.io/m3u8/mnctv.m3u8
@@ -983,10 +979,10 @@ http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
-http://103.229.81.103:8080/F25093/29838750/162502
+https://video.detik.com/transtv/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
-http://103.229.81.103:8080/F25093/29838750/162503
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
