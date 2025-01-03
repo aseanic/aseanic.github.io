@@ -58,9 +58,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
 #☯☯ || ASTRO CHANNELS || ☯☯
-
+#KODIPROP:inputstream.adaptive
+#KODIPROP.inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
-https://aseanic.github.io/m3u8/ria.m3u8
+#https://aseanic.github.io/m3u8/ria.m3u8
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
 https://aseanic.github.io/m3u8/prima.m3u8
