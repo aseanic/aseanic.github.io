@@ -257,8 +257,8 @@ https://aseanic.github.io/m3u8/adithya.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656917
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",KTV
-#https://aseanic.github.io/m3u8/ktv.m3u8
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656843
+https://aseanic.github.io/m3u8/ktv.m3u8
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656843
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunLife" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life
 #https://aseanic.github.io/m3u8/sunlife.m3u8
