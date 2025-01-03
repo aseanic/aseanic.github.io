@@ -296,12 +296,12 @@ https://aseanic.github.io/m3u8/tlc.m3u8
 https://aseanic.github.io/m3u8/food.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-#http://15.235.144.67:35461/654321/123456/281
-https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8?c
+https://aseanic.github.io/m3u8/afn.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8?c
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="HGTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
-#http://31.42.187.37:25461/watchpad13158/1234/49
-https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8?c
+https://aseanic.github.io/m3u8/hgtv.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8?c
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
 https://aseanic.github.io/m3u8/dmax.m3u8
@@ -343,10 +343,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #☯☯ || DOCUMENTARY CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryChannel" tvg-logo="https://pictr.com/images/2023/07/24/EbLDYf.png",Discovery Channel
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+https://aseanic.github.io/m3u8/discovery.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="DiscoveryAsia" tvg-logo="https://pictr.com/images/2023/07/24/EbV0E9.png",Discovery Asia
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+https://aseanic.github.io/m3u8/discoveryasia.m3u8
+#https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
 #https://webhdrunns.mizhls.ru/lb/premium294/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -383,13 +385,16 @@ https://aseanic.github.io/m3u8/global.m3u8
 https://aseanic.github.io/m3u8/bbcearth.m3u8
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="History" tvg-logo="https://pictr.com/images/2024/12/31/xzyh8D.png",History
-https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
+https://aseanic.github.io/m3u8/history.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="AnimalPlanet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+https://aseanic.github.io/m3u8/animal.m3u8
+#https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 
 #EXTINF:-1 group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="CrimeInvestigation" tvg-logo="https://pictr.com/images/2024/01/21/EOYgKX.png",Crime + Investigation
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
+https://aseanic.github.io/m3u8/crime.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",National Geographic US
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53362
@@ -451,13 +456,15 @@ https://aseanic.github.io/m3u8/ceria.m3u8
 https://aseanic.github.io/m3u8/tutor.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://pictr.com/images/2024/11/06/xi9sDO.png",Cartoon Network
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+https://aseanic.github.io/m3u8/cn.m3u8
+#https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
 https://aseanic.github.io/m3u8/nickelodeon.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="NickJr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+https://aseanic.github.io/m3u8/nickjr.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="MoonbugKids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png",Moonbug Kids
 https://aseanic.github.io/m3u8/moonbug.m3u8
@@ -950,10 +957,12 @@ http://103.229.81.103:8080/F25093/29838750/157590
 #http://103.113.116.150:25461/mtm1/12345/43
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/FKcJHdMV/trans7.png",Trans 7
-https://video.detik.com/transtv/smil:trans7.smil/index.m3u8
+https://nonton.site:8443//live/XtreamFlixID/w9RLHbWJY4/35.ts
+#https://video.detik.com/transtv/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="TransTV.id" tvg-logo="https://i.postimg.cc/h4LXP1mY/TANSTV.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://nonton.site:8443//live/XtreamFlixID/w9RLHbWJY4/34.ts
+#https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8sS0U.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Moji
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
