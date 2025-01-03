@@ -192,8 +192,8 @@ https://aseanic.github.io/m3u8/tvbasia.m3u8
 #http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",TVB Classic
-#https://aseanic.github.io/m3u8/tvbclassic.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/78
+https://aseanic.github.io/m3u8/tvbclassic.m3u8
+#http://31.42.187.37:25461/watchpad13158/1234/78
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
@@ -211,7 +211,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 https://aseanic.github.io/m3u8/ccm.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixChineseChannel" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+https://aseanic.github.io/m3u8/phoenix.m3u8
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="PhoenixInfoNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -220,8 +221,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 https://aseanic.github.io/m3u8/cti.m3u8
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png" tvg-id="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",CCTV4
-#https://aseanic.github.io/m3u8/cctv.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/23
+https://aseanic.github.io/m3u8/cctv.m3u8
+#http://31.42.187.37:25461/watchpad13158/1234/23
 
 #China
 
@@ -238,7 +239,7 @@ http://31.42.187.37:25461/watchpad13158/1234/181
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/01/04/EXDzpG.png" group-title="Chinese" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-18.png",An Hui TV
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese"  group-logo="https://pictr.com/images/2024/08/07/xZxac8.png"  tvg-logo="https://pictr.com/images/2024/11/29/xSuRAV.png",ZHEJIANG TV
-http://31.42.187.37:25461/watchpad13158/1234/182
+
 
 #☯☯ || INDIAN CHANNELS || ☯☯
 
@@ -253,23 +254,22 @@ https://aseanic.github.io/m3u8/adithya.m3u8
 #http://103.229.81.103:8080/F25093/29838750/157469
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",Sun News
-#https://aseanic.github.io/m3u8/sunnews.m3u8
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656917
+https://aseanic.github.io/m3u8/sunnews.m3u8
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656917
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",KTV
 https://aseanic.github.io/m3u8/ktv.m3u8
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656843
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="SunLife" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life
-#https://aseanic.github.io/m3u8/sunlife.m3u8
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656844
+https://aseanic.github.io/m3u8/sunlife.m3u8
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656844
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
 https://aseanic.github.io/m3u8/starvijay.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png",Colors Hindi
-#https://aseanic.github.io/m3u8/colors.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/188
+https://aseanic.github.io/m3u8/colors.m3u8
 
 #EXTINF:-1 group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-id="ColorsTamilHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png",Colors Tamil
 https://aseanic.github.io/m3u8/colorstamil.m3u8
@@ -278,7 +278,8 @@ https://aseanic.github.io/m3u8/colorstamil.m3u8
 https://aseanic.github.io/m3u8/zeetamil.m3u8
 
 #EXTINF:-1 tvg-id="zeecinemahd.in" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
-http://tv.indigotv.me:80/live.ts?channelId=12359&uid=7245&deviceMac=00:1A:79:4A:02:91
+https://aseanic.github.io/m3u8/zeecinema.m3u8
+#http://tv.indigotv.me:80/live.ts?channelId=12359&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indian" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png"  tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png",BollywooD ᴴᴰ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -289,11 +290,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #☯☯ || LIFESTYLE CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
-http://31.42.187.37:25461/watchpad13158/1234/74
+https://aseanic.github.io/m3u8/tlc.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",Food Network
-http://31.42.187.37:25461/watchpad13158/1234/42
-#http://31.42.187.37:25461/watchpad13158/1234/337
+https://aseanic.github.io/m3u8/food.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
 #http://15.235.144.67:35461/654321/123456/281
@@ -445,30 +445,28 @@ http://45.159.93.14:8080/144264/661943/22946
 #☯☯ || KIDS CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Kids;Astro" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="AstroCeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/220px-Astro_Ceria.png",Astro Ceria
-#https://aseanic.github.io/m3u8/ceria.m3u8
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656953
+https://aseanic.github.io/m3u8/ceria.m3u8
 
 #EXTINF:-1 tvg-id="AstroTutorTV" group-title="Kids;Astro" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png",Astro Tutor TV
-#https://aseanic.github.io/m3u8/tutor.m3u8
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/656855
+https://aseanic.github.io/m3u8/tutor.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CartoonNetwork" tvg-logo="https://pictr.com/images/2024/11/06/xi9sDO.png",Cartoon Network
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
-http://31.42.187.37:25461/watchpad13158/1234/61
+https://aseanic.github.io/m3u8/nickelodeon.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="NickJr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="MoonbugKids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png",Moonbug Kids
-http://31.42.187.37:25461/watchpad13158/1234/38
+https://aseanic.github.io/m3u8/moonbug.m3u8
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="CBeebies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",CBeebies
-http://15.235.144.67:35461/654321/123456/165
+https://aseanic.github.io/m3u8/cbeebies.m3u8
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",DreamWorks
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656838
+https://aseanic.github.io/m3u8/dreamwork.m3u8
 
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="Kids" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png",Disney Channel
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53407
@@ -497,7 +495,7 @@ https://aseanic.github.io/m3u8/boo.m3u8
 https://aseanic.github.io/m3u8/cinemax.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="AstroShowcase" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase Movies
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656923
+https://aseanic.github.io/m3u8/showcase.m3u8
 
 #EXTINF:-1 group-title="Movies" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505",HBO
 https://aseanic.github.io/m3u8/hbo.m3u8
@@ -564,7 +562,6 @@ https://aseanic.github.io/m3u8/nhk.m3u8
 #EXTINF:-1 tvg-id="AstroSportsUHD" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO Supersport UHD
 #https://aseanic.github.io/m3u8/uhd.m3u8
 #https://7pal.short.gy/astrouhd
-#http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:13:D3&stream=554729&extension=m3u8
 http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 1
@@ -699,9 +696,7 @@ https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|referer=https://lewblivehdp
 #☯☯ || MUSIC CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Music" tvg-id="MTVAsia" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6WArV.png",MTV Live
-#http://31.42.187.37:25461/watchpad13158/1234/57
-#http://m1-max.dns-speedy.com:80/529C1C/7446D7/114436
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656911
+https://aseanic.github.io/m3u8/mtv.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="MTV.Live.HD.us" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png" tvg-logo="https://pictr.com/images/2024/11/17/x6Whm2.png",MTV Live
 #http://wayforward.xyz/uugjnauw/zNtU7zdSk/53533
@@ -839,36 +834,18 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656925
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR4lV.png", Channel 5
 https://aseanic.github.io/m3u8/ch5.m3u8
-#http://51.79.248.110:888/Lyana/Lyana/31
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941615
-#http://15.235.144.67:35461/654321/123456/328
 
 #EXTINF:-1 tvg-id="Ch 8" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRuYD.png", Channel 8 
 https://aseanic.github.io/m3u8/ch8.m3u8
-#http://51.79.248.110:888/Lyana/Lyana/32
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941616
-#http://103.211.103.30:8880/12mc050003/68849278/71054
-#http://15.235.144.67:35461/654321/123456/332
 
 #EXTINF:-1 tvg-id="Ch U" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiR8o5.png", Channel U
 https://aseanic.github.io/m3u8/chu.m3u8
-#http://51.79.248.110:888/Lyana/Lyana/33
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941617
-#http://15.235.144.67:35461/654321/123456/330
 
 #EXTINF:-1 tvg-id="Suria" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRdr1.png", Channel Suria
 https://aseanic.github.io/m3u8/suria.m3u8
-#http://51.79.248.110:888/Lyana/Lyana/34
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941575
-#http://103.211.103.30:8880/12mc050003/68849278/1700
-#http://15.235.144.67:35461/654321/123456/331
 
 #EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https:https://pictr.com/images/2024/11/07/xiRMRQ.png", Channel Vasantham
 https://aseanic.github.io/m3u8/vasantham.m3u8
-#http://51.79.248.110:888/Lyana/Lyana/35
-#http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941588
-#http://103.211.103.30:8880/12mc050003/68849278/1699
-#http://15.235.144.67:35461/654321/123456/333
 
 #EXTINF:-1 tvg-id="CNA" group-title="Singapore;News" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -931,16 +908,13 @@ https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #☯☯ || INDO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/V6VXx1c0/rcti.png",RCTI
-https://aseanic.github.io/m3u8/rcti.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://xtv.ooo:8080/30912088/60996054/351023
+https://aseanic.github.io/m3u8/rcti.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/3r0L3fbQ/gtv.png",GTV
 https://aseanic.github.io/m3u8/gtv.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/26Gy142h/mnctv.png",MNC TV
-https://aseanic.github.io/m3u8/mnctv.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://xtv.ooo:8080/30912088/60996054/351023
-#http://xtv.ooo:8080/30912088/60996054/350996
+https://aseanic.github.io/m3u8/mnctv.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="INews.id" tvg-logo="https://i.postimg.cc/wBPhPgzy/inews.png",iNews
 http://103.229.81.103:8080/F25093/29838750/157579
@@ -952,19 +926,17 @@ https://aseanic.github.io/m3u8/antv.m3u8
 https://aseanic.github.io/m3u8/indosiar.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/XNrPpYqh/sctv.png",SCTV
-#https://link.zozotv.xyz:443/mubaen/k895427/46
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
+https://aseanic.github.io/m3u8/sctv.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sgsK9jf3/nettv.png",NET
-https://aseanic.github.io/m3u8/net.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://xtv.ooo:8080/30912088/60996054/351010
+#https://aseanic.github.io/m3u8/net.m3u8
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MetroTV.id" tvg-logo="https://i.postimg.cc/nhFY93Tz/metro-tv.png",Metro TV
 https://aseanic.github.io/m3u8/metro.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="KompasTV.id" tvg-logo="https://i.postimg.cc/MKx1g9CD/kompas-tv.png",Kompas TV
-https://aseanic.github.io/m3u8/kompas.m3u8|referer=https://xtv.ooo/user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#http://xtv.ooo:8080/30912088/60996054/350984
+https://aseanic.github.io/m3u8/kompas.m3u8
 
 #EXTINF:-1 group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://i.postimg.cc/qqrCV75R/cnn-indonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -1011,17 +983,16 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JAK TV
+https://aseanic.github.io/m3u8/jak.m3u8
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/pfgJoOE.jpg?1" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" ,JTV
+https://aseanic.github.io/m3u8/jtv.m3u8
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8suAD.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BALI TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
+https://aseanic.github.io/m3u8/bali.m3u8
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_bdg_tv_2016.png/800px-Logo_bdg_tv_2016.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/1200px-IDTV.svg.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",ID TV
 https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8
@@ -1041,11 +1012,8 @@ https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8
 https://aseanic.github.io/m3u8/btv.m3u8
 #http://103.229.81.103:8080/F25093/29838750/162513
 
-
-#EXTINF:0 tvg-id="Local.Programming.Dummy.us" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-logo="https://i.imgur.com/Y1EzIb9.jpg",DAAI TV
-
 #EXTINF:-1 tvg-id="NUSANTARA TV.id" tvg-logo="https://pictr.com/images/2024/06/15/x7MTbn.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",NUSANTARA TV
-#https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
 #Entertainment
 
@@ -1064,6 +1032,7 @@ http://103.211.103.30:8880/12mc050003/68849278/60484
 http://xtv.ooo:8080/30912088/60996054/350940
 
 #EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/New_mnc_music_logo_2020.png/revision/latest?cb=20200119023024" group-title="Indonesia;Music" group-logo="https://pictr.com/images/2023/05/13/E8ujyU.png",Music TV
+https://aseanic.github.io/m3u8/music.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-logo="https://pictr.com/images/2023/05/18/E8soyI.png" group-title="Indonesia;Entertainment",Lingua Channel
 https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
