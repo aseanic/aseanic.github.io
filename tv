@@ -91,12 +91,16 @@ https://aseanic.github.io/m3u8/aura.m3u8
 https://aseanic.github.io/m3u8/vaanavil.m3u8
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVinmeen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",Astro Vinmeen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
 https://aseanic.github.io/m3u8/vellithirai.m3u8
  
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #https://aseanic.github.io/m3u8/thangathirai.m3u8
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/thang.mpd
 
@@ -557,7 +561,7 @@ https://aseanic.github.io/m3u8/cnbc.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="DW" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW
-https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/bernama.m3u8
+https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/dw.m3u8
 #https://aseanic.github.io/m3u8/dw.m3u8
 
 #EXTINF:-1 tvg-id="ABCAustralia" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2024/11/07/xiRVTx.png",ABC AUSTRALIA
