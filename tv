@@ -561,7 +561,8 @@ https://aseanic.github.io/m3u8/skynews.m3u8
 https://aseanic.github.io/m3u8/cnbc.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://pictr.com/images/2023/04/18/Enl5qj.png",BLOOMBERG TV
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+https://aseanic.github.io/m3u8/bloomberg.m3u8
+#https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="DW" group-title="News" group-logo="https://pictr.com/images/2023/04/18/Enis4n.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/dw.m3u8
@@ -876,7 +877,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941679
 
 #EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Action
-http://31.42.187.37:25461/watchpad13158/1234/27
+https://aseanic.github.io/m3u8/oasis.m3u8
 
 #EXTINF:-1 tvg-id="509" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
 http://31.42.187.37:25461/watchpad13158/1234/335
