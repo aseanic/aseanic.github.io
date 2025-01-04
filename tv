@@ -877,7 +877,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:81:71:22&extension=ts&stream=941679
 
 #EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Action
-https://aseanic.github.io/m3u8/oasis.m3u8
+https://aseanic.github.io/m3u8/rockaction.m3u8
 
 #EXTINF:-1 tvg-id="509" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Singapore;Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
 http://31.42.187.37:25461/watchpad13158/1234/335
