@@ -579,11 +579,6 @@ https://aseanic.github.io/m3u8/nhk.m3u8
 
 #☯☯ || SPORTS CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="AstroSportsUHD" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO Supersport UHD
-#https://aseanic.github.io/m3u8/uhd.m3u8
-#https://7pal.short.gy/astrouhd
-http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
-
 #EXTINF:-1 tvg-id="AstroArena" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 1
 https://aseanic.github.io/m3u8/arena1.m3u8
 
@@ -619,6 +614,10 @@ https://aseanic.github.io/m3u8/splus.m3u8
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
 https://aseanic.github.io/m3u8/cricket.m3u8
+
+#EXTINF:-1 tvg-id="AstroSportsUHD" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",ASTRO Supersport UHD
+https://aseanic.github.io/m3u8/uhd.m3u8
+#https://7pal.short.gy/astrouhd
 
 #EXTINF:-1 group-title="Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
 https://aseanic.github.io/m3u8/wsport.m3u8
