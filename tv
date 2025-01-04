@@ -137,13 +137,13 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroRia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png",Astro Ria
-#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP.inputstream.adaptive.manifest_type=mpd
 #https://aseanic.github.io/m3u8/ria.m3u8
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroPrima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png",Astro Prima
-#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP.inputstream.adaptive.manifest_type=mpd
 #https://aseanic.github.io/m3u8/prima.m3u8
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/prima.mpd
@@ -155,7 +155,7 @@ https://aseanic.github.io/m3u8/oasis.m3u8
 http://15.235.144.67:35461/654321/123456/212
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-#KODIPROP:inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP.inputstream.adaptive.manifest_type=mpd
 #https://aseanic.github.io/m3u8/citra.m3u8
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/citra.mpd
