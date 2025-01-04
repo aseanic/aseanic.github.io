@@ -93,6 +93,8 @@ https://aseanic.github.io/m3u8/vaanavil.m3u8
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVinmeen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png",Astro Vinmeen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroVellithirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Astro_Vellithirai.png",Astro Vellithirai
@@ -101,7 +103,8 @@ https://aseanic.github.io/m3u8/vellithirai.m3u8
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ABO_Movies.png",Astro Boxoffice Thangathirai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://aseanic.github.io/m3u8/thangathirai.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/thang.mpd
 
 #EXTINF:-1 group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-id="AstroAEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",Astro AEC
