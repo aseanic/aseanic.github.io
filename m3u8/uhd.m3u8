@@ -1,13 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:BANDWIDTH=12300000,AVERAGE-BANDWIDTH=12191434,RESOLUTION=3840x2160,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5"
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=3840x2160,CODECS="avc1.64002A,mp4a.40.2"
+http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
 http://exprestv.win:80/play/live.php?mac=00:1A:79:C4:28:ED&stream=1479590&extension=m3u8&play_token=qRiPE2E27p
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:13:D3&stream=554729&extension=m3u8
 http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=1479590&extension=ts&play_token=JGjaRAwFDY
-http://28779-press.cloud-ott.me:80/play/live.php?mac=00:1A:79:C2:06:C7&stream=1479590&extension=ts&play_token=34REaTTPcW
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:c1:73:6c&stream=1479590&extension=ts&play_token=MfFbEZzwfk
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1a:79:c1:49:ac&stream=1479590&extension=ts&play_token=5bbOmdwY1d
