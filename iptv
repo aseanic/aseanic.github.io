@@ -3,9 +3,13 @@
 #☯☯ || MYTV CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
