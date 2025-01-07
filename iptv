@@ -2440,14 +2440,14 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
-#EXTINF:-1 tvg-id="Rock.Extreme.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-logo="https://pictr.com/images/2025/01/07/x1hAuu.png" group-title="Philippines;Entertainment", ROCK Action
+#EXTINF:-1 tvg-id="Rock.Extreme.ph" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-logo="https://pictr.com/images/2025/01/07/x1hAuu.png" group-title="Philippines;Entertainment", ROCK Action
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
-#EXTINF:-1 tvg-id="ROCKENTERTAINMENT.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-logo="https://pictr.com/images/2025/01/07/x1hAuu.png" group-title="Philippines;Entertainment", ROCK Entertainment
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT.ph" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png" group-logo="https://pictr.com/images/2025/01/07/x1hAuu.png" group-title="Philippines;Entertainment", ROCK Entertainment
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2510,13 +2510,3 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
 #EXTINF:-1 tvg-id="239.unifi" ch-number="239" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png" group-title="Chinese" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",SETI
 https://web.hypp.tv:443/PLTV/88888888/224/3221227529/3221227529.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixM7skkMcbNa9ZSweWCAIO9g0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84yjyfs9%2FU5xlEkKXfSpcw0b%2FVw%2BAVLY2IaG%2BJfr8AXAzl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185934%3AUTC%2C1004320541%2C14.1.254.132%2C20230704185934%2Curn:Huawei:liveTV:iptv8417%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAA0WMsQrCMBQA_yZjSNJU0iGTIrgUoeoqry8vIZA2mNSCf68VwemWu1sKIJ0O1nzQoTedpFajU8Z7Jx3uWmxgBC1YpUefbcMQUopz6LPbstuwv0vBBVdKcqnZZdsdEwSrvmb_nEYq_2ygskYk66rnK1QOIRQKsMQ883OC17Wkn_IGgSNJiJkAAAA&tenantId=6003
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
-#EXTINF:-1 tvg-id="474.unifi" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Action
-https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbKOcX%2BP3Grqi2KkTyat%2BkYBRTE8BQtzQEk9tepGqmM8PvqR%2FW6%2FmAu25c2abohrK7O83m3EeQ0m%2BBo4btd%2BuniyVFRTQiCcWXuFIeO21qkbF%3A20230405093857%3AUTC%2C10001002129788%2C180.75.253.113%2C20230405093857%2Curn:Huawei:liveTV:SP000002372888%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3484991609%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OIYlS7SEnRViQKlj3KpPka7aYNppUwX9vu9brzLzhDQmWfrZaCWelcQpwYknKQTZUEkxRmma1WBiW6V5FrZhFCG3vq-gm7Pe0uUjBBVdK8hWrp7ddgJ-H1aMzlLT8UidKz9aSdrnhT2QO7xN5DG3s-THgdU5hnjCqZzNZrEVRKjFaiIINU1ojX8eG_SFvYndDIreP_h_QDUImdoO9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NGJiMTI4OWUtMDBkYy0zZmFjLTgxYjQtNjljZGFlY2JkZTQx
-#EXTINF:-1 tvg-id="473.unifi" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png"  group-title="Entertainment" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png",ROCK Entertainment
-https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
