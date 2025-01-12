@@ -1,11 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.120000,
+#EXTINF:10.0,
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1149.mp4
-#EXTINF:10.000000,
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1149.mp4
-#EXTINF:10.000000,
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1149.mp4
+#EXT-X-ENDLIST
