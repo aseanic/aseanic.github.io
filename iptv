@@ -294,14 +294,6 @@ https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 #https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/qj.mpd
 https://aseanic.github.io/m3u8/quanjia.m3u8
 
-#EXTINF:-1 tvg-id="AstroQJ" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2025/01/13/x1OAIO.png",Astro Quan Jia 2
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
-https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
-
-
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2025/01/13/x1kfVu.png",Astro Hua Hee Dai
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
