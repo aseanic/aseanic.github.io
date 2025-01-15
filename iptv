@@ -2,15 +2,30 @@
 
 #☯☯ || THIS PLAYLIST ONLY FOR KODI 22 || ☯☯
 
-##  ###   ## ##   ### ##    ####   ## ##    ## ##    
-##  ##   ##   ##   ##  ##    ##    ##  ##   ##  ##   
-## ##    ##   ##   ##  ##    ##        ##       ##   
-## ##    ##   ##   ##  ##    ##       ##       ##    
-## ###   ##   ##   ##  ##    ##      ##       ##     
-##  ##   ##   ##   ##  ##    ##     #  ##   #  ##  
-##  ###   ## ##   ### ##    ####   ######   ###### 
+               #                                                               
+            #######                                                             
+           ########              ##      ###   #######     #########     ##     
+       #   ######    ###         ##   ###    ##       ###  ##       ##   ##     
+    ####   ###    #########      ## ###     ##         ##  ##        ##  ##     
+     ###   #       #######       ###  ###   ##         ##  ##        ##  ##     
+       #     ####    ##          ##     ###  ###      ##   ##      ###   ##     
+           #########             ##       ##    #####      ########      ##     
+            #######                                                             
+               #                                                                
 
 # WARNING : Most Channels DONT WORK in OTT, TiviMate, OKTV, PerfectTV. VLC  even lower Kodi 21 and below.
+# INSTRUCTION : Just add the playlist with this short url https://aseanic.github.io/iptv
+
+######################################################################################################################################################################################################
+                                                ##                                  ##       ##     ##                ##                  ##                  #      ##                ##             
+                                                                                             ##     ##                ##                                      #                        ##             
+  ######   #####    #####    ######  ## ###   ####      #####             ######  ####     ######   ######   ##   ##  ######            ####      #####      #     ####     ######   ######   ### ### 
+ ##   ##  ##       ##   ##  ##   ##  ###  ##    ##     ##                ##   ##    ##       ##     ##   ##  ##   ##  ##   ##             ##     ##   ##     #       ##     ##   ##    ##      ## ##  
+ ##   ##   ####    #######  ##   ##  ##   ##    ##     ##                ##   ##    ##       ##     ##   ##  ##   ##  ##   ##             ##     ##   ##    #        ##     ##   ##    ##      ## ##  
+ ##  ###      ##   ##       ##  ###  ##   ##    ##     ##         ##      ######    ##       ##     ##   ##  ##  ###  ##   ##    ##       ##     ##   ##    #        ##     ##   ##    ##       ###   
+  ### ##  #####     #####    ### ##  ##   ##  ######    #####     ##          ##  ######      ###   ##   ##   ### ##  ######     ##     ######    #####    #       ######   ######      ###     ###   
+                                                                          #####                                                                            #                ##                        
+######################################################################################################################################################################################################
 
 #☯☯ || MYTV CHANNELS || ☯☯
 
@@ -456,61 +471,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV 功夫
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Zhejiang.id" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13", CHINESE DRAMA 中文电视剧
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://pictr.com/images/2024/12/02/xScwu8.png", Hunan TV 湖南
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
-https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://pictr.com/images/2024/12/03/xScIyx.png", Jiangsu TV 江苏
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
-https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://pictr.com/images/2024/12/03/xScfHv.png", Anhui TV 安徽
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
-https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://pictr.com/images/2024/12/03/xSconV.png", Dragon TV 蕃茄台
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
-https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
-
-#EXTINF:-1 tvg-id="Shenzen.id" group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-logo="https://pictr.com/images/2024/12/03/xScj0Q.png", Shenzen TV 深圳
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
-https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
 
 #☯☯ || INDIAN CHANNELS || ☯☯
 
