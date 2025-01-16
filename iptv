@@ -296,7 +296,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
 #KODIPROP:mimetype=application/dash+xml 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073//default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroThangathirai" group-title="Astro" group-logo="https://pictr.com/images/2024/01/04/EX3Oeg.png" tvg-logo="https://pictr.com/images/2025/01/13/x1kuYf.png",Astro Thangathirai
@@ -409,14 +409,14 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006//default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-id="TVBSAsia" tvg-logo="https://pictr.com/images/2025/01/14/x1tJwI.png",TVBS Asia 亞洲
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive  
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/402//default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-id="TVBClassic" tvg-logo="https://pictr.com/images/2025/01/14/x1tKOr.png",TVB Classic 经典频道
 #KODIPROP:contentlookup=False
@@ -444,14 +444,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.m
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015//default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-id="TVBXingHe" tvg-logo="https://pictr.com/images/2025/01/14/x1tO4Y.png",TVB Xing He 星河
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
-https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401//default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-id="CCM"  tvg-logo="https://pictr.com/images/2025/01/14/x1tkvZ.png",CCM 天映经典频道
 #KODIPROP:contentlookup=False
@@ -465,14 +465,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/400//default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-id="PhoenixInfoNews" tvg-logo="https://pictr.com/images/2025/01/14/x1tqpn.png",Phoenix Info News 凤凰资讯台
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5009//default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" group-logo="https://pictr.com/images/2025/01/14/x1tAZV.png" tvg-id="CTIAsia" tvg-logo="https://pictr.com/images/2025/01/14/x1ttjB.png",CTI Asia 中天亚洲台
 #KODIPROP:contentlookup=False
@@ -502,21 +502,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011//default_primary.mpd
 
 #EXTINF:-1  group-title="Indian" group-logo="https://pictr.com/images/2025/01/14/x12Bvf.png" tvg-id="Adithya" tvg-logo="https://pictr.com/images/2025/01/14/x12POj.png",Adithya ஆதித்யா
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915//default_primary.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://pictr.com/images/2025/01/14/x12Bvf.png" tvg-id="SunNews"  tvg-logo="https://pictr.com/images/2025/01/14/x125al.png",Sun News சன் நியூஸ்
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0a171cc1bb90f78820cf25cc55f0ee10:ac08792047218ca2a01f2bbd12d90501
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087//default_primary.mpd
 
 #EXTINF:-1 group-title="Indian" group-logo="https://pictr.com/images/2025/01/14/x12Bvf.png" tvg-id="KTV" tvg-logo="https://pictr.com/images/2025/01/14/x12742.png",KTV கலைஞர் டிவி
 #KODIPROP:contentlookup=False
@@ -783,7 +783,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.m
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509//default_primary.mpd
 
 #EXTINF:-1 group-title="Kids" group-logo="https://pictr.com/images/2023/04/18/EniqUO.png" tvg-id="Nickelodeon" tvg-logo="https://pictr.com/images/2025/01/14/x12eBf.png",Nickelodeon
 #KODIPROP:contentlookup=False
