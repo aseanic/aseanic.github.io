@@ -2,12 +2,10 @@ Disclaimer:
 
 These playlists are for educational purpose only and not permanently working. If you commercially selling this on online platforms like shopee or lazada or fb marketplace be prepared to face legal action.
 
-WARNING : Playlist for Kodi22 is compiled specifically for Kodi Piers Version 22, most channels will NOT work on OTT, Tivimate, PerfectTV, OKTv and other platforms. Playlist for Kodi21 will be deprecated.
+WARNING : Playlist for Kodi22 is compiled specifically for Kodi Piers Version 22, most channels will NOT work on OTT, Tivimate, PerfectTV, OKTv and other platforms. 
 
 Instruction:
 No manual EPG input is required as the EPG already integrated inside the playlist header. Just input these simple urls and you're done 
-
-For Kodi21 : https://aseanic.github.io/tv
 
 For Kodi22 : https://aseanic.github.io/iptv
 
