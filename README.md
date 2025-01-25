@@ -7,7 +7,9 @@ WARNING : This Playlist for Kodi 22 is compiled specifically for Kodi Piers Vers
 Download:
 
 App : Kodi 22 https://mirrors.kodi.tv/nightlies/
+
 Addon : IPTV Merge https://slyguy.uk/
+
 Skin : Arctic Fuse Mod https://forum.kodi.tv/showthread.php?tid=379344
 
 Instruction:
