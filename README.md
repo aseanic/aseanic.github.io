@@ -5,8 +5,10 @@ These playlists are for educational purpose only and not permanently working. If
 WARNING : This Playlist for Kodi 22 is compiled specifically for Kodi Piers Version 22, all channels are working when the time this playlist was posted. Most channels will NOT work on OTT Navigator, Tivimate, PerfectTV, OKTV or other IPTV apps 
 
 Download:
-Kodi 22 https://mirrors.kodi.tv/nightlies/
-IPTV Merge Addon https://slyguy.uk/
+
+App : Kodi 22 https://mirrors.kodi.tv/nightlies/
+Addon : IPTV Merge https://slyguy.uk/
+Skin : Arctic Fuse Mod https://forum.kodi.tv/showthread.php?tid=379344
 
 Instruction:
 No manual EPG input is required as the EPG already integrated inside the playlist header. Just input these simple urls and you're done 
