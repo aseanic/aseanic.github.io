@@ -13,7 +13,8 @@ Addon : IPTV Merge https://slyguy.uk/
 Skin : Arctic Fuse Mod https://forum.kodi.tv/showthread.php?tid=379344
 
 Instruction:
-No manual EPG input is required as the EPG already integrated inside the playlist header. Just input these simple urls and you're done 
+
+No manual EPG input is required as the EPG already integrated inside the playlist header. Just input these simple urls and you're done. 
 
 For Kodi22 : https://aseanic.github.io/tv
 
