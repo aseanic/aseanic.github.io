@@ -16,7 +16,7 @@ Instruction:
 
 No manual EPG input is required as the EPG already integrated inside the playlist header. Just input these simple urls and you're done. 
 
-For Kodi22 : https://aseanic.github.io/tv
+For IPTV : https://aseanic.github.io/tv
 
 For Radio : https://aseanic.github.io/radio
 
