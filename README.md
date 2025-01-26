@@ -6,7 +6,7 @@ WARNING : All channels in these playlists are compiled specifically for Kodi Pie
 
 Download:
 
-App : Kodi 22 https://mirrors.kodi.tv/nightlies/  (note: kodi 22 for any OS / platform can be found under "Master" folder)
+App : Kodi 22 https://mirrors.kodi.tv/nightlies/ (Note: kodi 22 for any OS can be found under "Master" folder) i.e Root > nightlies > windows > win64 > master
 
 Addon : IPTV Merge https://slyguy.uk/
 
