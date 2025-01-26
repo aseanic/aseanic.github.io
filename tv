@@ -1061,13 +1061,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
 #☯☯ || SPORTS CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="805.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppgnr.png",ASTRO Sports UHD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-
 #EXTINF:-1 tvg-id="801.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppmcO.png",ASTRO ARENA 1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -1172,6 +1165,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#EXTINF:-1 tvg-id="805.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppgnr.png",ASTRO Sports UHD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 #EXTINF:-1 tvg-id="826.astro" group-title="Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppdUu.png",W-Sport
 #KODIPROP:contentlookup=False
