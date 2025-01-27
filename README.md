@@ -22,10 +22,11 @@ For Radio : https://aseanic.github.io/radio
 
 Enjoy!
 
-[![Watch the video](https://pictr.com/images/2024/07/23/xxc6wg.jpg)](https://cdntube2.b-cdn.net/mp4/f1ad321fb29d87053d61bbe12a76eaae34695372.mp4)
+[![Watch the video](https://github.com/user-attachments/assets/f6c83a46-2017-471d-ac76-b6eb950d913f)](https://www.dailymotion.com/embed/video/k5tkaeijqU0BuYCjKNQ)
 
 Lets bring these discontinued channels back online.
 
 ![oldchannel](https://github.com/user-attachments/assets/49f12b62-5633-4b6e-a588-814c8d97083f)
 * Warna and Sensasi are still streaming in Singapore Starhub Network. FHD version can be watched using VPN
-* More classic movies will be added on Mustika and Maya.  
+* More classic movies will be added on Mustika and Maya.
+
