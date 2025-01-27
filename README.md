@@ -6,7 +6,8 @@ WARNING : All channels in these playlists are compiled specifically for Kodi Pie
 
 Download:
 
-App : Kodi 22 https://mirrors.kodi.tv/nightlies/ (Note: kodi 22 for any OS can be found under "Master" folder) i.e Root > nightlies > windows > win64 > master
+App : Kodi 22 https://mirrors.kodi.tv/nightlies/ 
+(Note: kodi 22 for any OS can be found under "Master" folder) i.e Root > nightlies > windows > win64 > master
 
 Addon : IPTV Merge https://slyguy.uk/
 
@@ -20,13 +21,12 @@ For IPTV : https://aseanic.github.io/tv
 
 For Radio : https://aseanic.github.io/radio
 
-Enjoy!
+Enjoy! Click below video to see demo.
 
 [![Watch the video](https://github.com/user-attachments/assets/f6c83a46-2017-471d-ac76-b6eb950d913f)](https://www.dailymotion.com/embed/video/k5tkaeijqU0BuYCjKNQ)
 
-Lets bring these discontinued channels back online.
+We'll bring these discontinued channels back online.
 
 ![oldchannel](https://github.com/user-attachments/assets/49f12b62-5633-4b6e-a588-814c8d97083f)
 * Warna and Sensasi are still streaming in Singapore Starhub Network. FHD version can be watched using VPN
 * More classic movies will be added on Mustika and Maya.
-
