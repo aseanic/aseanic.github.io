@@ -409,8 +409,14 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Malay/Da%20Di%2
 #EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/23/xpodQJ.png",Astro Maya HD
 https://www.googleapis.com/drive/v3/files/1se0BtN1vGn8iKMCR_tDF1Ihmd29INS18?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-
 #☯☯ || CHINESE CHANNELS || ☯☯
+
+#EXTINF:-1 group-title="Chinese" tvg-id="100.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Xilele.png",XiLele 喜乐乐
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 
 #EXTINF:-1 group-title="Chinese" tvg-id="300.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpzUvO.png",IQIYI 爱奇艺
 #KODIPROP:contentlookup=False
