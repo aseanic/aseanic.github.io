@@ -1253,9 +1253,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="WWE.Network.us" tvg-logo="https://pictr.com/images/2025/01/20/xppcUD.png",WWE Network
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 http://45.159.93.14:8080/144264/661943/22185
 
 #EXTINF:-1 group-title="Sports" tvg-id="FightSports.Id" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
