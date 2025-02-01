@@ -39,7 +39,7 @@ We'll bring these discontinued channels back online.
 
 * The VOD playlist contains more than 3000 movies, and grouped according to language
 * To widget them use pvr://recordings/tv/active?view=grouped for Arctic Fuse Mod Skin. 
-* Can rename the "group recording" to VOD is you like. The group-logo param is not supported in kodi so the widget will appear blank.
+* Can rename the "group recording" to "VOD" if you like. The group-logo param is not supported in kodi so the widget will appear blank.
   
 To access to the movie, Click & Hold to bring up Browse Into menu dialog. Click that to browse that by language to prevent all 3000+ movies in one go.
 
