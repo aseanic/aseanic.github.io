@@ -17612,7 +17612,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8b7d6742-
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|48298721b0cde4ee135f73d453c65010:f96126f41b2cd3d64ecd67ab4c650068
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAKET_IVP_LAND_672x378_202489_124814.jpg" group-title="VOD Korean" tvg-id="NULL" media=true, The LOTR: The Return of the King
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAKET_IVP_LAND_672x378_202489_124814.jpg" group-title="VOD English" tvg-id="NULL" media=true, The LOTR: The Return of the King
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0a1302cf-3ac3-5aba-a149-4a107f8a960e/default_primary.mpd
 
 #KODIPROP:contentlookup=False
