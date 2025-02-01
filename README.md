@@ -32,13 +32,15 @@ We'll bring these discontinued channels back online.
 ![oldchannel](https://github.com/user-attachments/assets/49f12b62-5633-4b6e-a588-814c8d97083f)
 * Warna and Sensasi are still streaming in Singapore Starhub Network. FHD version can be watched using VPN
 * More classic movies will be added on Mustika and Maya.
+  
 * Added VOD. Note : after adding VOD, the movies will appear under recordings in Kodi IPTV Simple Client.
+  
+![ezgif-202606715a224](https://github.com/user-attachments/assets/df34c4d4-fcfc-4d5f-9097-558333446d62)
+
 * The VOD playlist contains more than 3000 movies, and grouped according to language
 * To widget them use pvr://recordings/tv/active?view=grouped for Arctic Fuse Mod Skin. 
-* Can rename the "group recording" to VOD is you like. The group-logo param is not supported in kodi so the widget will appear blank. 
-
-![wXw7Ra5](https://github.com/user-attachments/assets/d72bc720-6563-4235-8853-5338e2d14605)
-
+* Can rename the "group recording" to VOD is you like. The group-logo param is not supported in kodi so the widget will appear blank.
+  
 To access to the movie, Click & Hold to bring up Browse Into menu dialog. Click that to browse that by language to prevent all 3000+ movies in one go.
 
 Fanart, wallart, synopsis, multiple audios and subtitles are supported.
