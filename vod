@@ -16,7 +16,7 @@
 #############   #########################################################################################################
 #########################################################################################################################
 
-# WARNING : This playlist DONT WORK on OTT navigator, TiviMate, OKTV, PerfectTV. VLC or older version of Kodi 21 or below
+# WARNING : This playlist DOESNT WORK on OTT navigator, TiviMate, OKTV, PerfectTV. VLC or older version of Kodi 21 & lower
 # INSTRUCTION : VODs will be in Kodi "Recording". Add this short url into IPTVmerge addon = https://aseanic.github.io/vod
 
 #########################################################################################################################
