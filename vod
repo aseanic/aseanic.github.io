@@ -4809,7 +4809,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d41a3aed9f78ca600246e5927bdf8b10:8a56fdb9272465114086784ee0bb2894
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMKYU_IVP_LAND_672x378_7C161_202498_12510.jpg" group-title="VOD English" tvg-id="NULL" media=true, Black & White
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMKYU_IVP_LAND_672x378_7C161_202498_12510.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, Black & White
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b3c3feb6-41b1-56b8-bbed-e799cb3d1b6c/default_primary.mpd
 
 #KODIPROP:contentlookup=False
