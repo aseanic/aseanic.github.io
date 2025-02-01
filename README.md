@@ -21,6 +21,8 @@ For IPTV : https://aseanic.github.io/tv
 
 For Radio : https://aseanic.github.io/radio
 
+For VOD : https://aseanic.github.io/vod
+
 Enjoy! Click below video to see demo.
 
 [![Watch the video](https://github.com/user-attachments/assets/f6c83a46-2017-471d-ac76-b6eb950d913f)](https://www.dailymotion.com/embed/video/k5tkaeijqU0BuYCjKNQ)
@@ -30,3 +32,13 @@ We'll bring these discontinued channels back online.
 ![oldchannel](https://github.com/user-attachments/assets/49f12b62-5633-4b6e-a588-814c8d97083f)
 * Warna and Sensasi are still streaming in Singapore Starhub Network. FHD version can be watched using VPN
 * More classic movies will be added on Mustika and Maya.
+* Added VOD. Note : after adding VOD, the movies will appear under recordings in Kodi IPTV Simple Client.
+* The VOD playlist contains more than 3000 movies, and grouped according to language
+* To widget them use pvr://recordings/tv/active?view=grouped for Arctic Fuse Mod Skin. 
+* Can rename the "group recording" to VOD is you like. The group-logo param is not supported in kodi so the widget will appear blank. 
+
+![wXw7Ra5](https://github.com/user-attachments/assets/d72bc720-6563-4235-8853-5338e2d14605)
+
+To access to the movie click & Hold to bring up Browse Into menu. Fanart, wallart, synopsis, multiple audios and subtitles are supported.
+
+Slyguy Youtube AutoTrailer is not supported currently for the VOD but working fine on others.
