@@ -19306,28 +19306,28 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ca635f9a-
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0e3e61c62f50a2216655f61fe8fc1210:65a46c7890dfd23efaf34020fb4b634f
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUKIT_IVP_LAND_288x162_2024317_20759.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, Project Almanac
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUKIT_IVP_LAND_288x162_2024317_20759.jpg" group-title="VOD English" tvg-id="NULL" media=true, Project Almanac
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f04749fb-3133-56db-b9ff-df811e37c70c/default_primary.mpd
 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|378b71864ce70386c47e8bf3296a8f10:40fa284dcad1ff26957eed1b1782c188
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFSLE_IVP_LAND_288x162_6D615_2024313_185357.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, Project Gemini
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFSLE_IVP_LAND_288x162_6D615_2024313_185357.jpg" group-title="VOD English" tvg-id="NULL" media=true, Project Gemini
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/91127208-8699-5188-81b2-1ca74ff8412b/default_primary.mpd
 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5db5f767e119b6e5bce500875a087910:5fe5a5dfc6801b328fe0ef93fb1260bb
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFLBT_IVP_LAND_917x516_2024321_112510.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, Project Wolf Hunting
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFLBT_IVP_LAND_917x516_2024321_112510.jpg" group-title="VOD Korean" tvg-id="NULL" media=true, Project Wolf Hunting
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a808fa55-7c4a-5432-941a-314e7d5e2483/default_primary.mpd
 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|643ab0ceaa985ae3f9f6963b02ce9810:93f1d6e70e876d308c5f55d534ef1481
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUNSI_IVP_LAND_432x243_2024229_215725.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, Promising Young Woman
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUNSI_IVP_LAND_432x243_2024229_215725.jpg" group-title="VOD English" tvg-id="NULL" media=true, Promising Young Woman
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/92077521-0a11-57c5-92f2-3e28acd44c96/default_primary.mpd
 
 #KODIPROP:contentlookup=False
