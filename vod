@@ -19698,7 +19698,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3a0841e94d927cbee14f61ad54fef010:2a40c6e6138298091a7558ba9b334cf5
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILJDK_IVP_LAND_672x378_279CA_2024313_165039.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, Sha Vs Shah
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILJDK_IVP_LAND_672x378_279CA_2024313_165039.jpg" group-title="VOD Malay" tvg-id="NULL" media=true, Sha Vs Shah
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1c1280a5-387b-55c1-a933-e134800b1307/default_primary.mpd
 
 #KODIPROP:contentlookup=False
