@@ -986,7 +986,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01fea24fee75dc4db80a9df78e1ef210:8ba8df55c823f6ea71869bd491e7b05b
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GCVMN_p_IVP_PORT_390x585_30D0_2024313_154532.jpg" group-title="VOD Malay" tvg-id="NULL" media=true, Siapa Besar
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GCVMN_p_IVP_PORT_390x585_30D0_2024313_154532.jpg" group-title="VOD Klasik" tvg-id="NULL" media=true, Siapa Besar
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2b12a8f4-e51d-55a8-b775-72aa0a55d8c4/default_primary.mpd
 
 #KODIPROP:contentlookup=False
