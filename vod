@@ -7861,7 +7861,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|59976fb397a55231bc3c192e193ea110:716a6ec65a1f25b8713c500f38d1c82b
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQDNC_IVP_LAND_171x96_48192_2024313_161212.jpg" group-title="VOD Chinese" tvg-id="NULL" media=true, Foodiverse
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQDNC_IVP_LAND_171x96_48192_2024313_161212.jpg" group-title="VOD Animation" tvg-id="NULL" media=true, Foodiverse
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a01895ae-b89a-5dc9-8a42-7ba60fd7a1a8/default_primary.mpd
 
 #KODIPROP:contentlookup=False
