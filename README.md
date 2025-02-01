@@ -33,7 +33,7 @@ We'll bring these discontinued channels back online.
 * Warna and Sensasi are still streaming in Singapore Starhub Network. FHD version can be watched using VPN
 * More classic movies will be added on Mustika and Maya.
 
-* Added VOD with Fanart, wallart, synopsis, multiple audios and subtitles are supported.
+* Added VOD with fanart, wallart, synopsis, multi-channel audios and subtitles are supported.
 
 ![ezgif-202606715a224](https://github.com/user-attachments/assets/df34c4d4-fcfc-4d5f-9097-558333446d62)
 
