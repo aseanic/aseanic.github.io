@@ -39,6 +39,8 @@ We'll bring these discontinued channels back online.
 
 ![wXw7Ra5](https://github.com/user-attachments/assets/d72bc720-6563-4235-8853-5338e2d14605)
 
-To access to the movie click & Hold to bring up Browse Into menu. Fanart, wallart, synopsis, multiple audios and subtitles are supported.
+To access to the movie, Click & Hold to bring up Browse Into menu dialog. Click that to browse that by language to prevent all 3000+ movies in one go.
+
+Fanart, wallart, synopsis, multiple audios and subtitles are supported.
 
 Slyguy Youtube AutoTrailer is not supported currently for the VOD but working fine on others.
