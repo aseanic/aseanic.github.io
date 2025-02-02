@@ -1030,7 +1030,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
 
-#EXTINF:-1 tvg-id="517.astro" group-title="News" tvg-logo="https://pictr.com/images/2023/04/18/Enl5qj.png",BLOOMBERG TV
+#EXTINF:-1 tvg-id="517.astro" group-title="News" tvg-logo="https://pictr.com/images/2023/04/18/Enl5qj.png",Bloomberg TV
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1044,14 +1044,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_primary.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default_primary.mpd
 
-#EXTINF:-1 tvg-id="518.astro" group-title="News" tvg-logo="https://pictr.com/images/2024/11/07/xiRVTx.png",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="518.astro" group-title="News" tvg-logo="https://pictr.com/images/2024/11/07/xiRVTx.png",ABC Australia
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 
-#EXTINF:-1 tvg-id="522.astro" group-title="News" tvg-logo="https://pictr.com/images/2025/01/14/x13rsn.png",FRANCE 24
+#EXTINF:-1 tvg-id="522.astro" group-title="News" tvg-logo="https://pictr.com/images/2025/01/14/x13rsn.png",France 24
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1067,14 +1067,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 
 #☯☯ || SPORTS CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="801.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppmcO.png",ASTRO ARENA 1
+#EXTINF:-1 tvg-id="801.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppmcO.png",Arena Arena 1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="802.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppN0Y.png",ASTRO ARENA 2
+#EXTINF:-1 tvg-id="802.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppN0Y.png",Astro Arena 2
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1172,7 +1172,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="805.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppgnr.png",ASTRO Sports UHD
+#EXTINF:-1 tvg-id="805.astro" group-title="Astro;Sports" tvg-logo="https://pictr.com/images/2025/01/20/xppgnr.png",Astro Sports UHD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
