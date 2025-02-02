@@ -453,7 +453,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
-#EXTINF:-1 group-title="Chinese" tvg-id="317.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tyZO.png",TVB E-News 無綫娛樂新聞台
+#EXTINF:-1 group-title="Chinese" tvg-id="317.astro" tvg-logo="https://pictr.com/images/2025/02/02/xGERZD.jpg",TVB E-News 無綫娛樂新聞台
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
@@ -635,7 +635,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2023/08/27/EA86xr.png" group-title="Lifestyle",Travel Channel
+#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2025/02/02/xGEq4A.jpg" group-title="Lifestyle",Travel Channel
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22162
@@ -645,12 +645,12 @@ http://45.159.93.14:8080/144264/661943/22162
 #KODIPROP:mimetype=application/dash+xml
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8gRA.png" group-title="Lifestyle",Outdoor
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://pictr.com/images/2025/02/02/xGEtv6.jpg" group-title="Lifestyle",Outdoor
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTV.id" tvg-logo="https://pictr.com/images/2024/01/04/EXDfiv.png" group-title="Lifestyle", Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-logo="https://pictr.com/images/2025/02/02/xGx5iY.jpg" group-title="Lifestyle", Fashion TV
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -671,17 +671,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
-#EXTINF:-1 group-title="Documentary" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2023/07/20/Eb5Qiv.png",Discovery Science US
+#EXTINF:-1 group-title="Documentary" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2025/02/02/xGxii2.jpg",Discovery Science
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22145
 
-#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://pictr.com/images/2024/01/07/EyUfcP.png", Discovery Family
+#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxza9.jpg", Discovery Family
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22076
 
-#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://pictr.com/images/2024/01/06/Eyrc2f.png", Discovery Life
+#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxpFg.png", Discovery Life
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22075
@@ -728,22 +728,22 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2025/01/21/xphN8c.png",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2025/02/02/xGxVG8.jpg",Investigation Discovery
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22111
 
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2023/05/19/EMxtJc.png",NatGeo
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2025/02/02/xGxhCx.jpg",NatGeo
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22123
 
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2023/05/19/EMx3EG.png",NatGeo Wild
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2025/02/02/xGxn3v.jpg",NatGeo Wild
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22125
 
-#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8Gon.png" group-title="Documentary",Smithsonian
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxYkQ.jpg" group-title="Documentary",Smithsonian
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22148
@@ -785,22 +785,22 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mp
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/12/16/xlRPUO.png",Paramount
+#EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxug1.jpg",Paramount
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22906
 
-#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2023/08/27/EA8UKI.png" group-title="Entertainment",E!
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxIFA.jpg" group-title="Entertainment",E!
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22081
 
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2024/01/06/EyrWvP.png" group-title="Entertainment",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxfB6.jpg" group-title="Entertainment",Comedy Central
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22065
 
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" tvg-logo="https://pictr.com/images/2024/02/29/EReAVj.png",Syfy
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" tvg-logo="https://pictr.com/images/2025/02/02/xGxoGq.jpg",Syfy
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://45.159.93.14:8080/144264/661943/22946
@@ -969,7 +969,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #☯☯ || NEWS CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="News" tvg-id="BeritaRTM" tvg-logo="https://pictr.com/images/2025/01/14/x12sDD.png",Berita RTM
+#EXTINF:-1 group-title="News" tvg-id="BeritaRTM" tvg-logo="https://pictr.com/images/2025/02/02/xGxWDr.jpg",Berita RTM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
@@ -1583,7 +1583,7 @@ https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #☯☯ || 4K CHANNELS || ☯☯
 
-#EXTINF:-1 group-title="Lifestyle;4K" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/26/EMkSE9.png",Fashion TV
+#EXTINF:-1 group-title="Lifestyle;4K" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxrjj.png",Fashion TV
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -1735,7 +1735,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Kix.id" group-title="Korean" tvg-id="KIX.id" tvg-logo="https://pictr.com/images/2023/08/27/EA8NYq.png",KIX
+#EXTINF:-1 tvg-id="Kix.id" group-title="Korean" tvg-id="KIX.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxQbY.jpg",KIX
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -1743,7 +1743,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://pictr.com/images/2024/12/02/xSc8z9.png" group-title="Korean", Arirang
+#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxT9Z.jpg" group-title="Korean", Arirang
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -1836,7 +1836,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="IDTV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpw5WG.jpg",IDTV
+#EXTINF:-1 group-title="Indonesia" tvg-id="IDTV.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxvMn.jpg",IDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -1908,7 +1908,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="Rajawali TV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpwn5D.jpg",Rajawali TV
+#EXTINF:-1 group-title="Indonesia" tvg-id="Rajawali TV.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxKBc.jpg",Rajawali TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -2089,13 +2089,13 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=Lifestyle
 #KODIPROP:inputstream=inputstream.adaptive
 https://haoyunlai.serv00.net/Smartv-1.php?id=MusicTV
 
-#EXTINF:0 tvg-id="Vision Prime.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbPqP.jpg" group-title="Indonesia",Vision Prime
+#EXTINF:0 tvg-id="Vision Prime.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxRb2.jpg" group-title="Indonesia",Vision Prime
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 https://haoyunlai.serv00.net/Smartv-1.php?id=VisionPrime
 
-#EXTINF:-1 tvg-id="Rock Action.id" tvg-logo="https://pictr.com/images/2023/05/24/EMIfa5.png" group-title="Indonesia;Entertainment", ROCK Action
+#EXTINF:-1 tvg-id="Rock Action.id" tvg-logo="https://pictr.com/images/2025/02/02/xGHESv.jpg" group-title="Indonesia;Entertainment", ROCK Action
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -2103,7 +2103,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=VisionPrime
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemeshield1-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 tvg-id="Rock Entertainment.id" tvg-logo="https://pictr.com/images/2024/01/04/EXDE56.png" group-title="Indonesia;Entertainment", ROCK Entertainment
+#EXTINF:-1 tvg-id="Rock Entertainment.id" tvg-logo="https://pictr.com/images/2025/02/02/xGHgY1.jpg" group-title="Indonesia;Entertainment", ROCK Entertainment
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -2113,7 +2113,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEnter
 
 #Movies
 
-#EXTINF:-1 tvg-id="Thrill.id" group-title="Indonesia;Movies" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
+#EXTINF:-1 tvg-id="Thrill.id" group-title="Indonesia;Movies" tvg-logo="https://pictr.com/images/2025/02/02/xGx3M9.png",Thrill
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -2127,7 +2127,7 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:0 tvg-id="IMC.id" tvg-logo="https://pictr.com/images/2024/11/06/xiR0SY.png" group-title="Indonesia;Movies",IMC
+#EXTINF:0 tvg-id="IMC.id" tvg-logo="https://pictr.com/images/2025/02/02/xGH0LX.jpg" group-title="Indonesia;Movies",IMC
 #KODIPROP:inputstream.adaptive.common_headers=referrer=https://www.indihometv.com/&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -2404,7 +2404,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-#EXTINF:-1 tvg-id="Buko.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="Philippines", Buko Channel
+#EXTINF:-1 tvg-id="Buko.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHllr.jpg" group-title="Philippines", Buko Channel
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2490,7 +2490,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
-#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA120-C9E1-11EC-9D64-0242AC120002//0-3x1.jpg?width=1920" group-title="Philippines", Viva Cinema
+#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="Philippines", Viva Cinema
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2532,7 +2532,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
-#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="Philippines", PTV 4
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGH8TG.jpg" group-title="Philippines", PTV 4
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2546,7 +2546,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
-#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Philippines", LOTUS MACAU
+#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHGrZ.png" group-title="Philippines", LOTUS MACAU
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2560,7 +2560,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
-#EXTINF:-1 tvg-id="Fashiontv.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png" group-title="Philippines;Lifestyle", FASHION TV HD
+#EXTINF:-1 tvg-id="Fashiontv.Hd.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGxN3l.jpg" group-title="Philippines;Lifestyle", FASHION TV HD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
