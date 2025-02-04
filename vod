@@ -17682,7 +17682,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|66f41f496e08c5d49e1959777adc1710:c5bf2662e7df8d4c5800b7c2ab71209a
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXNP_IVP_LAND_672x378_2024121_2088.jpg" group-title="VOD English" tvg-id="NULL" media=true, The Miracle Of Naga Gem
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXNP_IVP_LAND_672x378_2024121_2088.jpg" group-title="VOD Thai" tvg-id="NULL" media=true, The Miracle Of Naga Gem
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e7ee9316-152d-53a6-ad36-b49fddea278b/default_primary.mpd
 
 #KODIPROP:contentlookup=False
