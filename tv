@@ -856,7 +856,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mp
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Dream Works.id" group-title="Kids;Indonesia" tvg-logo="https://pictr.com/images/2025/01/14/x12XSg.png",DreamWorks
+#EXTINF:-1 tvg-id="Dream Works.id" group-title="Kids;Indonesia" tvg-logo="https://pictr.com/images/2025/02/04/xGzoXq.jpg",DreamWorks
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2042,14 +2042,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 
 #Kids 
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="Kids;Indonesia",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://pictr.com/images/2025/02/04/xGzuA1.jpg" group-title="Kids;Indonesia",Boomerang
 http://45.159.93.14:8080/144264/661943/21791
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/04/xGSf2D.jpg" group-title="Kids;Indian",Chittu
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/04/xGzbNA.jpg" group-title="Kids;Indian",Chittu
 https://aseanic.github.io/hls/300.m3u8
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="Kids;Japan",Aniplus
-https://aseanic.github.io/hls/299.m3u8
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://pictr.com/images/2025/02/04/xGzY05.jpg" group-title="Kids;Japan;Indonesia",Aniplus
+http://103.229.81.103:8080/F25093/29838750/298504
 
 #EXTINF:-1 tvg-id="FunPlanet.id" group-title="Indonesia;Kids" tvg-logo="https://pictr.com/images/2025/01/23/xpIZ6q.jpg",FUN PLANET
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -2493,7 +2493,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
-#EXTINF:-1 tvg-id="DREAMWORKS.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/800px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Philippines", Dreamwork Tagalog
+#EXTINF:-1 tvg-id="DREAMWORKS.ph" tvg-logo="https://pictr.com/images/2025/02/04/xGzjnr.jpg" group-title="Philippines", Dreamwork Tagalog
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
