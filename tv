@@ -2231,7 +2231,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
-#EXTINF:-1 tvg-id="Bioskop Indonesia.id" group-title="INDIHOME" tvg-logo="https://pictr.com/images/2025/01/23/xpbLPD.png" group-title="Indonesia;Movies",Bioskop Indonesia
+#EXTINF:-1 tvg-id="Bioskop Indonesia.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbLPD.png" group-title="Indonesia;Movies",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.common_headers=referrer=https://www.indihometv.com/&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
