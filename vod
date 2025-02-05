@@ -30,6 +30,322 @@
                                              |___/                                                                       
 #########################################################################################################################
 
+#EXTINF:-1 group-title="VOD Malay" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/dondukun2024.jpg",Don Dukun
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7223285d0f7d9c8118ae5a7b89bd6910:782a509f590e25c1cf59b83f64f5539d
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6169e144-8a0f-5070-a240-0d5bd5772a77/default_dash.mpd
+
+#EXTINF:-1 group-title="VOD Animation" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/goodbyedongless024.jpg",Goodbye Dongless (2024)
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ce27b6e39c6ed00a6b8e646d83a4d810:0627ee954bd28e154ea655f70e4b5e86
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aefe82a3-f742-5f4b-821f-40e43bdd3dfa/default_dash.mpd
+
+#EXTINF:-1 group-title="VOD Malay" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/merekayangtertewas2024.jpg",Mereka yang Tertewas (2024)
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|791a80de7bbabf06842d2afc61793010:0c8017557bde46ca52d8fa62a92739e2
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1040ed75-800f-585c-a64d-b873f063f547/default_dash.mpd
+
+#EXTINF:-1 group-title="VOD Animation" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/thewildrobot2024.jpg",The wild Robot (2024)
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ffc549db60581acc343db556d6f24710:d8f1a8e54df89dc0589e890e9ac14c8a
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/efe73ad7-c737-593d-af70-00a00dfb8d81/default_dash.mpd
+
+
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/winniethepooh2024.jpg",Winnie The pooh (2024)
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1f1acdc5729eb22a5820178d9bf4f010:790ae7612d16b8b20a415d53f6db7147
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e64e9eba-0640-5aa8-a12b-23659bca081b/default_dash.mpd
+
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/sting2024.jpg",Sting 2024
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|30cc8f5f5b116b2f88b2211bd2f30910:1e1aed2cbbabdbb5a6aa890b6fd8319c
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_dash.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ebb6e28c8db6df4325ac9bd545b7e810:f6b73bfbc9c7604f74b5d8a5e83c17e4
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/joker2024.jpg",Joker 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/65266952-8476-5f90-a5f3-95f7f9f33436/default_dash.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8645a0083c7b968cfdaa5013e7f6fe10:3f072bfcd0063f5593eed7c230334669
+#EXTINF:-1 group-title="VOD Animation" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/kumanthong2024.jpg",Kuman Thong 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/574cf119-a44b-576b-a104-8ba4dd88be04/default_dash.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c5743aab788cb3936c7df1936b0bb210:02ca79aa4750f40de15e3a3301e14fd7
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/afraid2024.jpg",Afraid 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1f1b05a8-801d-5d7d-b0ea-83d90ed89bf4/default_ott.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/beetlejuice2024.jpg",Beetle Juice 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c7ed8bf9d10c7dce1eac14d0b8de9610:623db46477ed9cc93e4e9919d9c4e599
+#EXTINF:-1 group-title="VOD Malay" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/jiwa182024.jpg",Jiwa 18 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9b4a322d-7a67-51de-85c5-06b0257f1cd5/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a2e36e866278297dc4fd6b44c9136810:1c9141ee3d020633af07bd8c2ec03f2a
+#EXTINF:-1 group-title="VOD Indo" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/pakutanahjawa2024.jpg",Paku Tanah Jawa 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8e9b15c9-6e5d-531a-8602-3e6088df7cdb/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|42a2d3fc7e909f9ff12bbbc3bec5f110:72288380fc78de3f36b31541cc43520d
+#EXTINF:-1 group-title="VOD Korean" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/handsomeguys2024.jpg",Handsome Guys 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f4d8afa4-7e17-5edd-bc65-894310de04f3/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|14a31c1e5f70dd6095a10f428446f110:b957efb6a4d71e0dce896b03c33a4586
+#EXTINF:-1 group-title="VOD Malay" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/telekinesis2024.jpg",Telekinesis 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fd635c11-1aef-5cd8-aa52-94a125f6dfa6/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fb5d8d29833c7a5feafe37a418963b10:99c8e4336dea23199e0fa88266315880
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/purplecrayon2024.jpg",Harold and Purple Crayon 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ffb25971-a87a-5778-a003-73307331af0d/default_dash.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fa86f27f7b2fccb5d5776551ada95810:4fe75f6fe382c606739ed0e86de7b84e
+#EXTINF:-1 group-title="VOD Indo" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/lampir2024.jpg",Lampir 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7b8e0a72-d310-56de-abd6-2597a53daa1c/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3c0d9dce63c9eff6c158faa798bb0110:d1c81980c58b5f6f2b1f1acc2f469da3
+#EXTINF:-1 group-title="VOD Korean" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/hijack19712024.jpg",Hijack 1971 (2024)
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c186a37c-6d84-5cb1-a081-d382ecf5ddcd/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5f5876d6d868934e91611b24c54bde10:b53bf99c9b7f57ebebdf4bf0d86bbdcc
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/despicable2024.jpg",Despicable Me 4 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|24f3139016d9bb78585811a2a191bd10:6ee6d40bfa8f1fc43fa717774c60d4e8
+#EXTINF:-1 group-title="VOD Animation" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/ultramanginga2024.jpg",Ultraman Ginga S 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/338c7334-6fb5-5fd1-8aac-b56315e2ef85/default_dash.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e00d7d226f27208121479385a4a20b10:feec00b0bc5ef867da6452d296d904de
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/quietplacedayone2024.jpg",A Quiet Place Day 1 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0a5d9373-340a-5783-be8e-c00bb8ab2196/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|044f3b0e2540b722dbf66ec8ee7aa410:6db819a84bb8b48bc38180c75a7c54b2
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/watchers2024.jpg",The Watchers 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ec79fcd9-446a-5694-9958-e47a75adf37a/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9c5654904348e9e1213efc47fa65f410:5b0c58fc8e4bdc5199764a4555845ee1
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/twisters2024.jpg",Twister 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2469b070-c300-56e2-9da3-9a0ef31c1816/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ab115ed13e9bddc2299a4eda5cd73410:a07f55bd1bdc2ef7e921d9597677e7c4
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/if2024.jpg",IF 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7f8a84a0-19ab-55dc-83ad-4454cfa8ef41/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cf625b09eaeb98dad939df9581262a10:40cc9997a8cc658ac6b262b2aab18cc4
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/thecursed2024.jpg",The Curse 2024 
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0170f1d3-4f46-56e2-8b89-84030abf6018/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|979ce26e91eaa0e122043b3f80818110:b238cb7b255e830193ab4cc686884ecf
+#EXTINF:-1 group-title="VOD Indian" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/rathnam2024.jpg",Rathnam 2024 
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/766eb135-89b7-538d-90da-5b3d727669d4/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2d41007e4ccd8094cdd91aeb02473b10:c86ca240eacef5e6aa4ed45b64901705
+#EXTINF:-1 group-title="VOD Indian" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/romeo2024.jpg",Romeo 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d8cb626d-66d0-56ac-aac9-5f4eca7bced9/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|7786a7a7a46f28ebd7adaa91b1cd2210:1a52c5f3a2cab283385e0af7b75e1792
+#EXTINF:-1 group-title="VOD Indian" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/shruthi2024.jpg",My Name Shruti 2024
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/41a81671-ed9d-58d7-ab5a-d48c029dacdc/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f3f78db63d6294b5f1bf198080f3a710:784e95f7d2db0386bc6faafbaf294dff
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/tarot2024.jpg",Tarot 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9a5679e9-ace8-590a-8843-ba12019799e7/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|33cf4c54194b60161c6a12c617c12e10:6f7dfa2e800403a4527e26463c4b705a
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/badboys2024.jpg",Bad Boys 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2813bed5-d159-50c9-9cc7-7668f24295b5/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f1ec03ed72195311c5365aae1757be10:ffc14a502dca4d635188b130942de589
+#EXTINF:-1 group-title="VOD Indian" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/vikram2024.jpg",Vikram 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f0c3c9bd-d76a-5e0a-81fd-f1143b6f67bd/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|732b162752464ddd68f4112d04056e10:4b4ff75bbff8761893f56c4f2a185163
+#EXTINF:-1 group-title="VOD Indian" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/siren2024.jpg",Siren 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/51558f66-f240-5f04-89a5-38384c17492e/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|31438377a746e36ac6e4bb8422c6d910:c4e83bbce5237128cc0f6566d631c8d0
+#EXTINF:-1 group-title="VOD Indian" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/maharaja2024.jpg",Maharaja 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/86ee1805-30f5-5a86-a2ef-08eac163993e/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|65a10660ac4b6e1cfc85112af6358b10:041fa0c7cf85cbad9cc3a3284680346f
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/abigail2024.jpg",Abigail 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e71ae9d0-1e34-5d2f-b734-73f31e0f58b5/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4e6aae74347b1b8f8952822229f1a410:edc733dcb2aebd608d63c2e0a779719b
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/garfield2024.jpg",The Garfield 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6b925e24-974f-574a-a798-07927003c9b7/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d818cd437470152ab1f1d4c58de0f410:cb6ae99436baef9195f8bed2376e3c2f
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/ghostbusters2024.jpg",Ghostbusters 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/28e8a6fe-98c5-5f0c-a2ae-2e193f0142a0/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|924629e4321c1ddab4fcf01cd86def10:46f90913f4e64e7c6dcc9e00510b3c81
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/furiosa2024.jpg",Furiosa 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7c079dbc-a62b-5b63-a04f-64eda34f361a/default_dash.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17506d6777ad16676b3af3ca1a3fc210:13e65797d007aff9ee592b0d8ea2987d
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/godzillakong2024.jpg",Godzilla X Kong 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fcfd553b-b611-5664-b2f0-0e306c5c31a9/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/monkeyman2024.jpg",Monkey Man 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|77a1eb5d87ab3d71c08aa89bc24dd410:251cbc0ece31d5b8a4a86c5b07576281
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/madamweb2024.jpg",Madame web 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d31650bc-4469-52c7-9ff5-3843f2c50a62/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d1c88a90651d1afe62ba6f5c3eebdb10:4c8ab4165be0dce7c1da2d866c8822a3
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/lightsout2024.jpg",Lights Out 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c161e6a9-1eff-5a00-8038-194923df8e3f/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|51291793e54b7c9efb4cf1baf8b3c110:f358e2bc2d32e893740c7889c5cc67a9
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/thanksgiving2024.jpg",Thanksgiving 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e3ea91fd-e682-55e1-b01a-68f74dadab20/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d4688e11f190416b0457bf26df631110:af9c6a136970ae531b9fc19bc318ffc8
+#EXTINF:-1 group-title="VOD Malay" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/ahlong2024.jpg",Baik Punya Ahlong 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/550afe51-41b2-5553-b4f6-1167bc3343d3/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5565c3084a4370d4f6d4bb25c0d3eb10:bf8717a617d32735a99e1d94ec853f68
+#EXTINF:-1 group-title="VOD Animation" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/takagisan2024.jpg",Teasing Master Takagi San 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02f16-f4f0-5c55-8bb2-1b9eb9789305/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2047d7067eac381a0b297153a9680c10:e8a1348af556a2438b27d3f0dcf142b2
+#EXTINF:-1 group-title="VOD Malay" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/gengjin2024.jpg",Geng Jin 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85501dcc-4012-5a6e-9148-fe88cb7ae190/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6a996ec55d7252d923c428e6d268e710:8b812702d51652785fbe94ec1d98cfae
+#EXTINF:-1 group-title="VOD English" tvg-id="NULL" media=true tvg-logo="https://perfecttv.net/first/thekiller2024.jpg",The Killer 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2a954abd-ddff-5491-80c3-983a134a0d21/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2025/02/01/xG5Tnq.jpg" group-title="VOD Malay" tvg-id="NULL" media=true, Kahar Kapla High Council (2025) 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
