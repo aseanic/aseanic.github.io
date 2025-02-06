@@ -569,15 +569,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indian" tvg-logo="https://pictr.com/images/2025/01/14/x12Nkx.png",BollywooDᴴᴰ बॉलीवुड
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Indian" tvg-logo="https://pictr.com/images/2025/01/14/x12iav.png",BollywooD Classicᴴᴰ बॉलीवुड क्लासिक
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #☯☯ || LIFESTYLE CHANNELS || ☯☯
