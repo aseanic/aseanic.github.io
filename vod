@@ -15219,7 +15219,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01646e8aca9697c5e3d94045640b9710:95b13a06c59486b9e87f3e621393f82e
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMALX_IVP_LAND_288x162_2024725_164953.jpg" group-title="VOD Chinese" tvg-id="NULL" media=true, OMG! Oh My Girl
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMALX_IVP_LAND_288x162_2024725_164953.jpg" group-title="VOD Thai" tvg-id="NULL" media=true, OMG! Oh My Girl
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/891a0a89-5d27-587e-b8a6-d7bac55be163/default_primary.mpd
 
 #KODIPROP:contentlookup=False
