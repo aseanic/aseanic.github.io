@@ -2645,7 +2645,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hy
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="141.unifi" group-title="unifiTV;Entertainment" tvg-logo="https://pictr.com/images/2025/02/06/xGnObY.png",Pesona HD
+#EXTINF:-1 tvg-id="141.unifi" group-title="UnifiTV;Entertainment" tvg-logo="https://pictr.com/images/2025/02/06/xGnObY.png",Pesona HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
 
 #KODIPROP:contentlookup=False
