@@ -295,28 +295,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
-#EXTINF:-1 tvg-id="201.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kVQc.png",Astro Vaanavil
+#EXTINF:-1 tvg-id="201.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kVQc.png",Astro Vaanavil வானவில்
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
-#EXTINF:-1 tvg-id="202.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1khsG.png",Astro Vinmeen
+#EXTINF:-1 tvg-id="202.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1khsG.png",Astro Vinmeen விண்மீன்
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 https://linearjitp.perfecttv.net/vinmeen.mpd
 
-#EXTINF:-1 tvg-id="203.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kMRl.png",Astro Vellithirai
+#EXTINF:-1 tvg-id="203.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kMRl.png",Astro Vellithirai வெள்ளித்திரை
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073//default_primary.mpd
 
-#EXTINF:-1 tvg-id="241.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kuYf.png",Astro Thangathirai
+#EXTINF:-1 tvg-id="241.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kuYf.png",Astro Thangathirai தங்கத்திரை
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -351,27 +351,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
-#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kbE9.png" group-title="Astro;Chinese",Astro AEC
+#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kbE9.png" group-title="Astro;Chinese",Astro AEC 亚洲娱乐频道
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="308.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1OAIO.png",Astro Quan Jia 
+#EXTINF:-1 tvg-id="308.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1OAIO.png",Astro Quan Jia 全佳
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/51.m3u8
 
-#EXTINF:-1 tvg-id="333.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1kfVu.png",Astro Hua Hee Dai
+#EXTINF:-1 tvg-id="333.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1kfVu.png",Astro Hua Hee Dai 华怡电视
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
-#EXTINF:-1 tvg-id="311.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1koTg.png",Astro AOD
+#EXTINF:-1 tvg-id="311.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1koTg.png",Astro AOD 点播
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1066,7 +1066,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_primary.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
 
-#EXTINF:-1 tvg-id="398.astro" group-title="Japan;News" tvg-logo="https://pictr.com/images/2025/02/04/xGSkkG.jpg",NHK World Premium
+#EXTINF:-1 tvg-id="398.astro" group-title="Japan;News" tvg-logo="https://pictr.com/images/2025/02/04/xGSkkG.jpg",NHK World Premium ワールド プレミアム
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1836,7 +1836,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754148/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="532" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan",Animax
+#EXTINF:-1 tvg-id="532" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan",Animax アニマックス
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1872,7 +1872,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 group-title="Korean" tvg-id="393.astro" tvg-logo="https://pictr.com/images/2025/01/15/xpPvX8.png",ONE
+#EXTINF:-1 group-title="Korean" tvg-id="393.astro" tvg-logo="https://pictr.com/images/2025/01/15/xpPvX8.png",ONE 원
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1908,7 +1908,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.m
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxT9Z.jpg" group-title="Korean", Arirang
+#EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxT9Z.jpg" group-title="Korean", Arirang 아리랑
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -1916,7 +1916,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
-#EXTINF:-1 group-title="Japan" tvg-id="Gem.id" tvg-logo="https://pictr.com/images/2025/01/24/xpjBLY.jpg", Gem HD 
+#EXTINF:-1 group-title="Japan" tvg-id="Gem.id" tvg-logo="https://pictr.com/images/2025/01/24/xpjBLY.jpg", Gem ジェム
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -2269,13 +2269,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/314.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/04/xGzbNA.jpg" group-title="Kids;Indian",Chittu
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/04/xGzbNA.jpg" group-title="Kids;Indian",Chutti சுட்டி
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/300.m3u8
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://pictr.com/images/2025/02/04/xGzY05.jpg" group-title="Kids;Japan;Indonesia",Aniplus
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://pictr.com/images/2025/02/04/xGzY05.jpg" group-title="Kids;Japan;Indonesia",Aniplus アニプラス
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2509,7 +2509,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
 #Japan
 
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/02/04/xGSOIc.jpg" tvg-id="NHK.id" group-title="Japan;News",NHK World Japan
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2025/02/04/xGSOIc.jpg" tvg-id="NHK.id" group-title="Japan;News",NHK World Japan ワールド
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
