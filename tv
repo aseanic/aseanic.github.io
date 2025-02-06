@@ -2605,9 +2605,9 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 #☯☯ || UNIFITV CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="UnifiTV;Movies" tvg-id="128.unifi" tvg-logo="https://pictr.com/images/2025/01/14/x12DQ1.png",Unifi Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="113.unifi" group-title="UnifiTV;Religion" tvg-logo="https://pictr.com/images/2024/11/08/xiD5aQ.png",Unifi Salam
