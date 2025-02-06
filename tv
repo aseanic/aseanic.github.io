@@ -46,7 +46,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="MYTV" tvg-id="103.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tQ51.png",TV3
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 group-title="MYTV" tvg-id="114.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tcWA.png",AlHijrah
@@ -96,7 +97,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/02/xif6nc.png",RTM Asean
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tbwx.png",Selangor TV
@@ -212,26 +214,28 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-s
 
 #EXTINF:-1 group-title="MYTV" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Rakyat
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
 
 #EXTINF:-1 group-title="MYTV" tvg-id="633.unifi" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",Parlimen Dewan Negara
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 
 #☯☯ || ASTRO CHANNELS || ☯☯
 
 #EXTINF:-1  tvg-id="104.astro"  group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1k69O.png",Astro Ria
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 https://aseanic.github.io/hls/33.m3u8
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 https://aseanic.github.io/hls/34.m3u8
@@ -245,7 +249,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="118" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
@@ -253,14 +257,14 @@ https://aseanic.github.io/hls/36.m3u8
 
 #EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://aseanic.github.io/hls/37.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="123" tvg-logo="https://pictr.com/images/2025/01/13/x1k1JJ.png",Astro Sensasi
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 #https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
@@ -352,7 +356,7 @@ https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="308.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1OAIO.png",Astro Quan Jia 
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/51.m3u8
 
@@ -365,7 +369,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 
 #EXTINF:-1 tvg-id="311.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1koTg.png",Astro AOD
 #KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286aef4e8d85db66e05fe4a5c799e410:17b8a4e2f39e5747215559a2440277f7
 https://aseanic.github.io/hls/53.m3u8
