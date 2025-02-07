@@ -100,7 +100,7 @@ https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 #EXTINF:-1 tvg-id="Nasional FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
 https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
-#EXTINF:-1 tvg-id="Traxx FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
+#EXTINF:-1 tvg-id="TRAXXFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
 https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 
 #EXTINF:-1 tvg-id="AI FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
