@@ -153,7 +153,7 @@ https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac
 #EXTINF:-1 tvg-id="Negeri FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-negeri-sembilan.d75a96b1.jpg",Negeri Sembilan FM
 https://22243.live.streamtheworld.com/NEGERI_FMAAC.aac
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perak.5157e833.jpg",Perak FM
+#EXTINF:-1 tvg-id="Perak FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perak.5157e833.jpg",Perak FM
 https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
 
 #EXTINF:-1 tvg-id="Mutiara FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-mutiara.2d02099e.jpg",Mutiara FM
