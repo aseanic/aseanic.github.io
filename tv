@@ -356,7 +356,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
-https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+#https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+https://aseanic.github.io/hls/47.m3u8
 
 #EXTINF:-1 tvg-id="308.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1OAIO.png",Astro Quan Jia 全佳
 #KODIPROP:contentlookup=False
