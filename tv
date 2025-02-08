@@ -1337,7 +1337,7 @@ https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://webhdrunns.mizhls.ru/lb/premium759/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium366/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports",Sky Sports Action
 #KODIPROP:inputstream.adaptive.common_headers=referrer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
