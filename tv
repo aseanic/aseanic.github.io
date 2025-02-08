@@ -106,8 +106,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tbwx.png",Selangor TV
-#KODIPROP:inputstream=inputstream.adaptive
-plugin://plugin.video.youtube/play/?video_id=AAYtmN-iY2CtC2Vt&live=1
+plugin://plugin.video.youtube/play/?video_id=qpxrP_67x5Y&live=1
 
 #EXTINF:-1 group-title="Sooka" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
 #KODIPROP:contentlookup=False
