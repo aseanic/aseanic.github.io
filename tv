@@ -1111,35 +1111,35 @@ https://aseanic.github.io/hls/164.m3u8
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1,fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
+https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
 
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena Bola Sooka B
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1|fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
-https://l01.dp.sooka.my/5099/linear/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1|fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
 
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena Bola Sooka C
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1,fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
-https://l01.dp.sooka.my/5099/linear/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1,fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
 
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena Bola Sooka D
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1|fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28|authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
-https://l01.dp.sooka.my/5099/linear/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1|fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
 
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena Bola Sooka E
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive                
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1,fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28|authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
-https://l01.dp.sooka.my/5099/linear/index.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1,fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUmxORFl4TkdZdE56Z3daQzAwTm1VNExXSXpZbVF0WTJWa01UVmhOamt4WXpndyIsIndtb3BpZCI6MzIsImV4cCI6MTczOTE0NDgxNCwiaWF0IjoxNzM4NTQwODE0fQ.CTvn-FvLD9qaGjp-Sc5uAJmPR9TXqTmB829_1xK8v-k
 
 #EXTINF:-1 tvg-id="804.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpplUB.png" group-title="Astro;Sports",Arena Bola 2
 #KODIPROP:contentlookup=False
