@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://iptv36.vercel.app/epg.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml" refresh="3600"
 
+#EXTM3U refresh="15" billed-msg="⚠️ THIS PLAYLIST DOESN'T WORK ON OTT | PLEASE DOWNLOAD KODI 22 FROM THE README PAGE! ⚠️"
+
 #☯☯ || THIS PLAYLIST IS FOR KODI 22 ONLY , ALL CHANNELS ONLY WORK ON KODI 22 || ☯☯
 
 #########################################################################################################################
@@ -18,7 +20,7 @@
 #############   #########################################################################################################
 #########################################################################################################################
 
-# WARNING : Most Channels DONT WORK on OTT navigator, TiviMate, OKTV, PerfectTV. VLC or older version of Kodi 21 or below
+# WARNING : Most Channels DONT WORK on OTT navigator, TiviMate, OKTV, PerfectTV. VLC or older version of Kodi 21 or lower
 # INSTRUCTION : Otherwise just add the playlist with iptvmerge addon using this short url = https://aseanic.github.io/tv
 
 #########################################################################################################################
