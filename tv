@@ -266,7 +266,6 @@ https://aseanic.github.io/hls/36.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=1080p
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://linearjitp.perfecttv.net/citra.mpd
 
@@ -1190,7 +1189,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=4K
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
@@ -1744,7 +1742,6 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=4K
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1afdcaf4198bfd3200584469fc3e5110:6edc92c49be84ca7a2f327beafbccae6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
