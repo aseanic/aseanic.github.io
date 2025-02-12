@@ -265,7 +265,8 @@ https://aseanic.github.io/hls/36.m3u8
 #EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="https://pictr.com/images/2025/01/13/x1OqF9.png",Astro Citra
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=1080p
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://linearjitp.perfecttv.net/citra.mpd
 
