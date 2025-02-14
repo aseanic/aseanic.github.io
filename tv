@@ -665,10 +665,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2025/02/02/xGxii2.jpg",Discovery Science
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/live/144264/661943/22145.ts
+http://45.159.93.14:8080/144264/661943/22145
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxza9.jpg",Discovery Family
 #KODIPROP:contentlookup=False
