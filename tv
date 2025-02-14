@@ -628,7 +628,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22162
+https://aseanic.github.io/hls/92.m3u8
 
 #EXTINF:-1 tvg-id="427" tvg-logo="https://pictr.com/images/2023/08/27/EA8Zl1.png" group-title="Lifestyle",Travel XP
 #KODIPROP:contentlookup=False
@@ -665,19 +665,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2025/02/02/xGxii2.jpg",Discovery Science
-http://45.159.93.14:8080/144264/661943/22145
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://aseanic.github.io/hls/98.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxza9.jpg",Discovery Family
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22076
+https://aseanic.github.io/hls/99.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxpFg.png",Discovery Life
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22075
+https://aseanic.github.io/hls/100.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="LoveNature" tvg-logo="https://pictr.com/images/2024/11/06/xi9qJ6.png",Love Nature
 #KODIPROP:contentlookup=False
@@ -725,25 +728,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22111
+https://aseanic.github.io/hls/107.m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2025/02/02/xGxhCx.jpg",NatGeo
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22123
+https://aseanic.github.io/hls/108.m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="Documentary" tvg-logo="https://pictr.com/images/2025/02/02/xGxn3v.jpg",NatGeo Wild
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22122
+https://aseanic.github.io/hls/109.m3u8
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxYkQ.jpg" group-title="Documentary",Smithsonian
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22148
+https://aseanic.github.io/hls/110.m3u8
 
 #☯☯ || ENTERTAINMENT CHANNELS || ☯☯
 
@@ -786,25 +789,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22906
+https://aseanic.github.io/hls/116.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxIFA.jpg" group-title="Entertainment",E!
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22081
+https://aseanic.github.io/hls/117.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxfB6.jpg" group-title="Entertainment",Comedy Central
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22065
+https://aseanic.github.io/hls/118.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment" tvg-logo="https://pictr.com/images/2025/02/02/xGxoGq.jpg",Syfy
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22947
+https://aseanic.github.io/hls/119.m3u8
 
 #☯☯ || KIDS CHANNELS || ☯☯
 
@@ -869,19 +872,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/21795
+https://aseanic.github.io/hls/128.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="Kids" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png",Disney Junior
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/21798
+https://aseanic.github.io/hls/129.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png",Disney XD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/21801
+https://aseanic.github.io/hls/130.m3u8
 
 #EXTINF:-1 tvg-id="619.astro" tvg-logo="https://pictr.com/images/2024/11/04/xiTU6q.png" group-title="Kids",Blippi & Friends
 #KODIPROP:contentlookup=False
@@ -945,31 +948,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22894
+https://aseanic.github.io/hls/139.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/13/xGsOmA.jpg" group-title="Movies",HBO 2
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22896
+https://aseanic.github.io/hls/140.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://pictr.com/images/2025/02/13/xGs9Jq.jpg" group-title="Movies",HBO Comedy
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22897
+https://aseanic.github.io/hls/141.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://pictr.com/images/2025/02/13/xGsqEI.jpg" group-title="Movies",HBO Signature
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22900
+https://aseanic.github.io/hls/142.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://pictr.com/images/2025/02/13/xGstVr.jpg" group-title="Movies",HBO Zone
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22901
+https://aseanic.github.io/hls/143.m3u8
 
 #☯☯ || NEWS CHANNELS || ☯☯
 
@@ -1269,7 +1272,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/86878
+https://aseanic.github.io/hls/186.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="FightSports.Id" tvg-logo="https://pictr.com/images/2023/05/18/E8sq5f.png",Fight Sports
 #KODIPROP:inputstream.adaptive.common_headers=referrer=https://www.indihometv.com/&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -1585,19 +1588,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/13752
+https://aseanic.github.io/hls/220.m3u
 
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="Music" tvg-logo="https://pictr.com/images/2024/11/17/x6WusX.png",MTV
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/22120
+https://aseanic.github.io/hls/221.m3u
 
 #EXTINF:-1 tvg-id="MTV.2.-.East.us" group-title="Music" tvg-logo="https://pictr.com/images/2024/11/17/x6WLRl.jpg",MTV2
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/13750
+https://aseanic.github.io/hls/222.m3u
 
 #EXTINF:-1 tvg-id="MTV.80s.uk" group-title="Music" tvg-logo="https://pictr.com/images/2024/11/24/xSHtvj.png",MTV 80s
 #KODIPROP:contentlookup=False
@@ -1617,19 +1620,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/13759
+https://aseanic.github.io/hls/225.m3u
 
 #EXTINF:-1 tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://pictr.com/images/2025/01/16/xp7nPV.png",MTV Club
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/13755
+https://aseanic.github.io/hls/226.m3u
 
 #EXTINF:-1 tvg-id="MTV.Classic.uk" tvg-logo="https://pictr.com/images/2024/11/17/x6WYVu.png" group-title="Music",MTV Classic
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/13751
+https://aseanic.github.io/hls/227.m3u
 
 #EXTINF:-1 tvg-id="NOW.80s.uk" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 #KODIPROP:contentlookup=False
@@ -2282,7 +2285,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://45.159.93.14:8080/144264/661943/21791
+https://aseanic.github.io/hls/314.m3u8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/04/xGzbNA.jpg" group-title="Kids;Indian",Chutti சுட்டி
 #KODIPROP:contentlookup=False
