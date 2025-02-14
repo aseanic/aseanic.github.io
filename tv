@@ -2212,8 +2212,8 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Indonesia;Entertainment" ,First Lifestyle
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -2229,8 +2229,7 @@ https://atemeshield1-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
+https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 #EXTINF:-1 tvg-id="Citra Dangdut.id" group-title="Indonesia;Entertainment" tvg-logo="https://pictr.com/images/2025/01/23/xpbgPu.jpg",Citra Dangdut
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -2524,6 +2523,12 @@ https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rodja TV.id" tvg-logo="https://pictr.com/images/2025/02/14/xLEdLX.jpg" group-title="Religion", Rodja TV
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://rodjatv.com/rodjatv/live.m3u8
 
 #Japan
 
