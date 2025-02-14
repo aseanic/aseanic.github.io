@@ -1616,13 +1616,13 @@ https://aseanic.github.io/hls/223.m3u8
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemeshield1-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
-#EXTINF:-1 tvg-id="MTV.HITS.uk" group-title="Music" tvg-logo="https://pictr.com/images/2024/11/20/x6XJmA.png",MTV Hits
+#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" group-title="Music" tvg-logo="https://pictr.com/images/2025/02/15/xLaZhn.jpg",MTV U
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/225.m3u
 
-#EXTINF:-1 tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://pictr.com/images/2025/01/16/xp7nPV.png",MTV Club
+#EXTINF:-1 tvg-id="MTV.MUSIC.uk" group-title="Music" tvg-logo="https://pictr.com/images/2025/02/15/xLaHxJ.jpg",MTV Music
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
