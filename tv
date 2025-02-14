@@ -1948,7 +1948,7 @@ https://atemeshield1-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://aseanic.github.io/hls/284.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="GTV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuTy5.png",GTV
 #KODIPROP:contentlookup=False
@@ -1960,19 +1960,19 @@ https://aseanic.github.io/hls/285.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://aseanic.github.io/hls/286.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="NET TV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpw2bx.jpg",NET
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+https://aseanic.github.io/hls/287.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="iNews.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuX16.jpg",iNews
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://aseanic.github.io/hls/288.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="ANTV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpw3kv.jpg",ANTV
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
