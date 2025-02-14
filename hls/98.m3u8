@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://45.159.93.14:8080/live/144264/661943/22145.ts
+http://45.159.93.14:8080/live/144264/661943/22145.m3u8
