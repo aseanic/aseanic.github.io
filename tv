@@ -1620,19 +1620,19 @@ https://atemeshield1-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/225.m3u
+https://aseanic.github.io/hls/225.m3u8
 
 #EXTINF:-1 tvg-id="MTV.MUSIC.uk" group-title="Music" tvg-logo="https://pictr.com/images/2025/02/15/xLaHxJ.jpg",MTV Music
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/226.m3u
+https://aseanic.github.io/hls/226.m3u8
 
 #EXTINF:-1 tvg-id="MTV.Classic.uk" tvg-logo="https://pictr.com/images/2024/11/17/x6WYVu.png" group-title="Music",MTV Classic
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/227.m3u
+https://aseanic.github.io/hls/227.m3u8
 
 #EXTINF:-1 tvg-id="NOW.80s.uk" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
 #KODIPROP:contentlookup=False
