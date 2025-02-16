@@ -52,7 +52,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 group-title="MYTV" tvg-id="114.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tcWA.png",AlHijrah
