@@ -17370,7 +17370,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4e032af6-
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9ba98538ed2cc7df69e9b1738def9010:9078363c5c52d34771aaf33e887b7542
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IIENY_p_IVP_PORT_390x585_2966C_2024313_165130.jpg" group-title="VOD English" tvg-id="NULL" media=true, The Farm: En Veettu Thottathil
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IIENY_p_IVP_PORT_390x585_2966C_2024313_165130.jpg" group-title="VOD Indian" tvg-id="NULL" media=true, The Farm: En Veettu Thottathil
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/01bfa761-b163-53fe-a64b-54d512876ddb/default_primary.mpd
 
 #KODIPROP:contentlookup=False
