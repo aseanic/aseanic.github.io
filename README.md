@@ -41,7 +41,5 @@ We'll bring these discontinued channels back online.
 * The VOD playlist contains more than 3000 movies, and grouped according to language
 * To widget them use pvr://recordings/tv/active?view=grouped for Arctic Fuse Mod Skin. 
 * Can rename it to "VOD" if you like. The group-logo param is not supported in kodi so the widget will appear blank.
-  
-To access to the movie, Click & Hold to bring up Browse Into menu dialog. Click that to browse by language thus preventing all 3000+ movies in one go.
 
-Note: Slyguy Youtube AutoTrailer is not supported currently for the VOD but working fine on others.
+Note: Youtube AutoTrailer is not supported currently for the VOD but the trailer is working fine
