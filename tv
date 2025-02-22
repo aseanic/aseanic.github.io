@@ -433,7 +433,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 https://aseanic.github.io/hls/53.m3u8
 
 #EXTINF:-1 tvg-id="311.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1koTg.png",Astro AOD 点播 B
-#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTc0MDQ1ODI0NiwiaWF0IjoxNzM5ODU0MjQ2fQ.KWwvQ6eRO2NcRes1V6Wrs_Omk35nFl07ElYmmG8UKTE
+#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpERm1PR1F5TUdZdE0yRTRaQzAwWVdZMExUbGhOamN0TldJd1pHUXlaR0U0Tm1OaCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNzkyNzk5MywiaWF0IjoxNzI3MzIzOTkzfQ.qAjJnAeZp6MXqWOf8FAWQz0Z1GwqE0YqpL4-e6XIY2g
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
