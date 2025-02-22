@@ -54,7 +54,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+https://janton.whacat.me/tonton/TV3
 
 #EXTINF:-1 group-title="MYTV" tvg-id="114.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tcWA.png",AlHijrah
 #KODIPROP:contentlookup=False
@@ -111,6 +112,9 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 
 #EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/01/14/x1tbwx.png",Selangor TV
 plugin://plugin.video.youtube/play/?video_id=qpxrP_67x5Y&live=1
+
+#EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://janton.whacat.me/tonton/DS
 
 #EXTINF:-1 group-title="Sooka" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
 #KODIPROP:contentlookup=False
@@ -427,6 +431,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|286aef4e8d85db66e05fe4a5c799e410:17b8a4e2f39e5747215559a2440277f7
 https://aseanic.github.io/hls/53.m3u8
+
+#EXTINF:-1 tvg-id="311.astro" group-title="Astro;Chinese" tvg-logo="https://pictr.com/images/2025/01/13/x1koTg.png",Astro AOD 点播 B
+#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EVmtZVGN4T0RBdFpEa3pNeTAwWldZNUxUaGhZVFV0WVRrMlpXUTFNVGM1WTJSbSIsIndtb3BpZCI6MzIsImV4cCI6MTc0MDQ1ODI0NiwiaWF0IjoxNzM5ODU0MjQ2fQ.KWwvQ6eRO2NcRes1V6Wrs_Omk35nFl07ElYmmG8UKTE
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6ef24711b79a4c13a4fe6d4d760d843c:c4f3511e1293e57e31cf422835551a6a
+https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="Movie.Dummy.us" tvg-logo="https://pictr.com/images/2024/11/23/xSH102.png",Astro First
 https://www.googleapis.com/drive/v3/files/1XNOxWcc0TOqhBQo9gXO9yQxolfcN5pJm?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
@@ -1947,6 +1959,14 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
 http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/23/xLe03l.png" group-title="Singapore", Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/23/xLeBIf.png" group-title="Singapore", Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/23/xLe7i2.png" group-title="Singapore", Mediacorp Entertainment Chinese
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 #EXTINF:-1 tvg-id="532" tvg-logo="https://pictr.com/images/2024/01/04/EXD1jP.png" group-title="Japan",Animax アニマックス
 #KODIPROP:contentlookup=False
