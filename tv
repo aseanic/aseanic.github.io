@@ -1868,6 +1868,9 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1afdcaf4198bfd3200584469fc3e5110:6edc92c49be84ca7a2f327beafbccae6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/24/xLJd9V.jpg" group-title="4K",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
 #☯☯ || BRUNEI CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera
