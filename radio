@@ -100,7 +100,7 @@ https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 #EXTINF:-1 tvg-id="Nasional FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
 https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
-#EXTINF:-1 tvg-id="TRAXXFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
+#EXTINF:-1 tvg-id="Traxx FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
 https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
 
 #EXTINF:-1 tvg-id="AI FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
@@ -135,7 +135,7 @@ https://28093.live.streamtheworld.com/LABUAN_FMAAC.aac
 #EXTINF:-1 tvg-id="Kedah FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kedah.ac6ad597.jpg",Kedah FM
 https://22243.live.streamtheworld.com/KEDAH_FMAAC.aac
 
-#EXTINF:-1 tvg-id="KL FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kl.cf9e2e96.jpg",KL FM
+#EXTINF:-1 tvg-id="KLFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kl.cf9e2e96.jpg",KL FM
 https://28103.live.streamtheworld.com/KL_FMAAC.aac
 
 #EXTINF:-1 tvg-id="Kelantan FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kelantan.8be90a2d.jpg",Kelantan FM
@@ -173,7 +173,7 @@ https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
 #EXTINF:-1 tvg-id="WAI FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai Iban FM
 https://28103.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
-#EXTINF:-1 tvg-id="Wai FM Iban" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai BK FM
+#EXTINF:-1 tvg-id="Wai FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai BK FM
 https://22273.live.streamtheworld.com/WAI_FM_BKAAC.aac
 
 #EXTINF:-1 tvg-id="Red FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-red.62159cea.jpg",Red FM
@@ -203,7 +203,7 @@ https://22273.live.streamtheworld.com/SANDAKAN_FMAAC.aac
 #EXTINF:-1 tvg-id="Tawau FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-tawau.eca8d8cb.jpg",Tawau FM
 https://28163.live.streamtheworld.com/TAWAU_FMAAC.aac
 
-#EXTINF:-1 tvg-id="Keningau FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-keningau.84553559.jpg",Keningau FM
+#EXTINF:-1 tvg-id="Sabah FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-keningau.84553559.jpg",Keningau FM
 https://28163.live.streamtheworld.com/KENINGAU_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
