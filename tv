@@ -311,7 +311,7 @@ https://linearjitp.perfecttv.net/citra.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+##KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 #https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 https://aseanic.github.io/hls/38.m3u8
 
