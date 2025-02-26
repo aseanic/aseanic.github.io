@@ -2482,6 +2482,13 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=Lifestyle
 #KODIPROP:inputstream=inputstream.adaptive
 https://haoyunlai.serv00.net/Smartv-1.php?id=MusicTV
 
+#EXTINF:-1 tvg-id="Musik Indonesia.id" group-title="Indonesia" tvg-logo="https://pictr.com/images/2025/02/26/xLDJKX.jpg",Musik Indonesia
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive               
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
 #EXTINF:0 tvg-id="Vision Prime.id" tvg-logo="https://pictr.com/images/2025/02/02/xGxRb2.jpg" group-title="Indonesia",Vision Prime
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
