@@ -1438,81 +1438,70 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://top2new.iosplayer.ru/top2/premium826/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/i8xdURd.png" group-title="Sports",Sky Sports Main Event
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw//&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/eplayerskymain2/mono.m3u8
+https://aseanic.github.io/hls/208.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/uZeyNBC.png" group-title="Sports",Sky Sports Premier League
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/eplayerSKYPL/mono.m3u8
+https://aseanic.github.io/hls/209.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/0Ze3U4H.png" group-title="Sports",Sky Sports Football
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/eplayerskyfoot/mono.m3u8
+https://aseanic.github.io/hls/210.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/3pySViT.png" group-title="Sports",Sky Sports F1
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/eplayerskyf1/mono.m3u8
+https://aseanic.github.io/hls/211.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://pictr.com/images/2024/12/11/xlw5LG.png" group-title="Sports",Sky Sports News
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/skysportsnews/mono.m3u8
+https://aseanic.github.io/hls/212.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/dKfTBbL.png" group-title="Sports",Sky Sports Action
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/skyaction/mono.m3u8
+https://aseanic.github.io/hls/213.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-logo="https://i.imgur.com/BoB4qIE.png" group-title="Sports",Sky Sports Golf
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/skygolf/mono.m3u8
+https://aseanic.github.io/hls/214.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/pyCr9fB.png" group-title="Sports",Sky Sports Cricket
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://top2new.iosplayer.ru/top2/eplayerskycric/mono.m3u8
+https://aseanic.github.io/hls/215.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/L9nSw5W.png" group-title="Sports",Sky Sports Mix
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/skymix/mono.m3u8
+https://aseanic.github.io/hls/216.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://i.imgur.com/d6Kzla9.png" group-title="Sports",Sky Sports Racing
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://wikinew.iosplayer.ru/wiki/skysportsracing/mono.m3u8
+https://aseanic.github.io/hls/217.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://pictr.com/images/2024/12/12/xlAoB1.png" group-title="Sports",Sky Sports NFL
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://topembed.pw/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://wikinew.iosplayer.ru/wiki/ustvnflredzone/mono.m3u8
+https://aseanic.github.io/hls/216.m3u8
 
 #☯☯ || RADIO CHANNELS || ☯☯
 
