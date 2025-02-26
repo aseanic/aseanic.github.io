@@ -1231,7 +1231,7 @@ https://linearjitp.perfecttv.net/grand.mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/178.m3u8
+https://aseanic.github.io/hls/177.m3u8
 
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://pictr.com/images/2025/01/20/xppGZP.png" group-title="Astro;Sports",Astro Premier League B
 #KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA1MzE5OTgsImlzcyI6IlZSIiwiZXhwIjoxNzQwNjA5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjFhZjkyY2UtYmM1MS00NzEwLTgxOTUtODg3MDI3MjIyMWQxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.VO-TG-qJBsxaP6ikuPgkE0eitq9gVxyWxmZMsmX_T2Q
