@@ -2196,7 +2196,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
 #EXTINF:-1 tvg-id="Citra Drama.id" group-title="Indonesia;Entertainment" tvg-logo="https://pictr.com/images/2025/01/23/xpbZT9.jpg",Citra Drama
-#KODIPROP:inputstream.adaptive.common_headers=Mozilla/5.0 (Windows NT 10.0; Win64; x64) user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
