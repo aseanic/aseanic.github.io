@@ -231,9 +231,7 @@ https://aseanic.github.io/hls/38.m3u8
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#https://linearjitp.perfecttv.net/citra.mpd
-#https://aseanic.github.io/hls/40.m3u8
-https://jandatv.online/memfs/ee3ab236-be4f-4a9c-8027-5701232933c6.m3u8
+https://linearjitp.perfecttv.net/citra.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="123" tvg-logo="https://pictr.com/images/2025/01/13/x1k1JJ.png",Astro Sensasi
 #KODIPROP:contentlookup=False
@@ -277,7 +275,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 https://linearjitp.perfecttv.net/vinmeen.mpd
-#https://astrox.short.gy/vinmeen.mpd
 
 #EXTINF:-1 tvg-id="203.astro" group-title="Astro;Indian" tvg-logo="https://pictr.com/images/2025/01/13/x1kMRl.png",Astro Vellithirai வெள்ளித்திரை
 #KODIPROP:contentlookup=False
@@ -291,8 +288,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073//default_primary.mp
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
-#https://linearjitp.perfecttv.net/abo.mpd
-https://astrox.short.gy/thangathirai.mpd
+https://linearjitp.perfecttv.net/abo.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="Test.Dummy.us" tvg-logo="https://pictr.com/images/2023/08/23/EAHL96.png",Astro Live Event 1
 #KODIPROP:contentlookup=False
