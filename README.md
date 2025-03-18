@@ -23,7 +23,7 @@ No manual EPG input is required as the EPG already integrated inside the playlis
 
 * For VOD : https://aseanic.github.io/vod
 
-Enjoy! Click below video to see demo.
+Click below video to see demo.
 
 [![Watch the video](https://github.com/user-attachments/assets/f6c83a46-2017-471d-ac76-b6eb950d913f)](https://www.dailymotion.com/embed/video/k5tkaeijqU0BuYCjKNQ)
 
@@ -34,8 +34,8 @@ We'll bring these discontinued channels back online.
 * More classic movies will be added on Mustika and Maya.
 
 * Added VOD with fanart, wallart, synopsis, multi-channel audios and subtitles are supported.
-
-![ezgif-202606715a224](https://github.com/user-attachments/assets/df34c4d4-fcfc-4d5f-9097-558333446d62)
+  
+![ezgif-8edf7202658036](https://github.com/user-attachments/assets/ab18ca78-44d0-44c2-9c11-7beed88c95e7)
 
 * After adding VOD, these movies can be found under "recordings" in Kodi IPTV Simple Client.
 * The VOD playlist contains more than 3000 movies, and grouped according to language
