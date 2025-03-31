@@ -295,7 +295,7 @@ https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="https://iili.io/JmomRu1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Jak FM
 https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmomPou.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Merdeka FM
-http://streaming.merdekafm.com:8020/;stream.nsv
+http://streaming.merdekafm.com:8020
 #EXTINF:-1 tvg-logo="https://iili.io/JmomtSV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Jakarta
 http://202.147.199.101:8000/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoyfqb.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Jakarta
