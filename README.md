@@ -25,7 +25,7 @@ No manual EPG input is required as the EPG already integrated inside the playlis
 
 Click below video to see demo.
 
-[![Watch the video](https://github.com/user-attachments/assets/f6c83a46-2017-471d-ac76-b6eb950d913f)](https://www.dailymotion.com/video/x9j3g7k).
+[![Watch the video](https://github.com/user-attachments/assets/f6c83a46-2017-471d-ac76-b6eb950d913f)](https://geo.dailymotion.com/player.html?video=x9j3g7k)
 
 We'll bring these discontinued channels back online.
 
