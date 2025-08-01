@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/melisten-EPG/refs/heads/main/melisten.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="3600"
 
 #☯☯ || ASTRO CHANNELS || ☯☯
 
@@ -228,37 +228,37 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 #☯☯ || SINGAPORE CHANNELS || ☯☯
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ZUyfucULwh.jpg" ,RIA 89.7
+#EXTINF:-1 tvg-id="Ria897" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ZUyfucULwh.jpg" ,RIA 89.7
 https://19183.live.streamtheworld.com/RIA897FMAAC
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/AWjWGLbzkc.jpg" ,GOLD 905
+#EXTINF:-1 tvg-id="meradioAdMap" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/AWjWGLbzkc.jpg" ,GOLD 905
 https://19183.live.streamtheworld.com/GOLD905_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/raXk2Xqq8W.jpg" ,YES 933
+#EXTINF:-1 tvg-id="Yes933" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/raXk2Xqq8W.jpg" ,YES 933
 https://19183.live.streamtheworld.com/YES933_PREM.aac
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/HXVXmdq7mT.png" ,WARNA 94.2
+#EXTINF:-1 tvg-id="Warna942" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/HXVXmdq7mT.png" ,WARNA 94.2
 https://19183.live.streamtheworld.com/WARNA942FMAAC
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XPcYpkaw3f.jpg" ,Symphony 924
+#EXTINF:-1 tvg-id="Symphony924" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XPcYpkaw3f.jpg" ,Symphony 924
 https://19183.live.streamtheworld.com/SYMPHONY924_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG"  radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/jKhx2VFARK.jpg" ,CLASS 95
+#EXTINF:-1 tvg-id="Class95" group-title="Radio-SG"  radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/jKhx2VFARK.jpg" ,CLASS 95
 https://19183.live.streamtheworld.com/CLASS95_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/6mTjKZgGMz.jpg" ,Oli 968
+#EXTINF:-1 tvg-id="Oli968" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/6mTjKZgGMz.jpg" ,Oli 968
 https://19183.live.streamtheworld.com/OLI968FM_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/JJEnxdCbGC.jpg" ,987
+#EXTINF:-1 tvg-id="987" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/JJEnxdCbGC.jpg" ,987
 https://19183.live.streamtheworld.com/987FM_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/22gXjWePmG.jpg" ,LOVE 972
+#EXTINF:-1 tvg-id="Love972" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/22gXjWePmG.jpg" ,LOVE 972
 https://19183.live.streamtheworld.com/LOVE972FM_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/EFUtj72GTd.jpg" ,CAPITAL 958
+#EXTINF:-1 tvg-id="Capital958" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/EFUtj72GTd.jpg" ,CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NAHdyhwt2C.png" ,CNA938
+#EXTINF:-1 tvg-id="CNA938" group-title="Radio-SG" radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NAHdyhwt2C.png" ,CNA938
 https://19183.live.streamtheworld.com/938NOW_PREM
 
 #☯☯ || INDONESIA CHANNELS || ☯☯
