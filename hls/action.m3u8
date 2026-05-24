@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=394547&extension=ts&play_token=OkTEn6qiDL
 #http://45.159.94.121:8080/live/006779/439866/78146.m3u8
