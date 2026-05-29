@@ -95,22 +95,22 @@ https://stream.rcs.revma.com/z56xa78mtd3vv
 #☯☯ || NATIONAL CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Radio Klasik" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RADIO_KLASIK.png",Radio Klasik
-https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC.m3u8
 
 #EXTINF:-1 tvg-id="Nasional FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/NASIONAL_FM.png",Nasional FM
-https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Traxx FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/TRAXX_FM.png",Traxx FM
-https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="AI FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/AI_FM.png",AI FM 
-https://28093.live.streamtheworld.com/AI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Minnal FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MINNAL_FM.png",MINNAL FM 
-https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Asyik FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SALAM_FM_RTMKLIK_REV.png",Radio Asyik
-https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC.m3u8
 
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",BEST FM
 https://stream.rcs.revma.com/h34x4kgg9hhvv
@@ -121,93 +121,93 @@ https://stream.rcs.revma.com/nzgauqq1v7zuv
 #☯☯ || STATE CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="Selangor FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/SelangorFM.png",Selangor FM
-https://28163.live.streamtheworld.com/SELANGOR_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Sabah FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SABAH_FM.png",Sabah FM
-https://28153.live.streamtheworld.com/SABAH_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Sarawak FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SARAWAK_FM.png",Sarawak FM
-https://22273.live.streamtheworld.com/SARAWAK_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Labuan FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/live_channel/LABUANfm.png",Labuan FM
-https://28093.live.streamtheworld.com/LABUAN_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Kedah FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/KEDAH_FM.png",Kedah FM
-https://22243.live.streamtheworld.com/KEDAH_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="KLFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/KL_FM.png",KL FM
-https://28103.live.streamtheworld.com/KL_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Kelantan FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/KELANTAN_FM.png",Kelantan FM
-https://22243.live.streamtheworld.com/KELANTAN_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Terengganu FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/TERENGGANU_FM.png",Terengganu FM
-https://22243.live.streamtheworld.com/TERENGGANU_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Pahang FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/PAHANG_FM.png",Pahang FM
-https://22243.live.streamtheworld.com/PAHANG_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Johor FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/JOHOR_FM.png",Johor FM
-https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Negeri FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/NEGERI_FM.png",Negeri Sembilan FM
-https://22243.live.streamtheworld.com/NEGERI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Perak FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/PERAK_FM.png",Perak FM
-https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Mutiara FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MUTIARA_FM.png",Mutiara FM
-https://22243.live.streamtheworld.com/MUTIARA_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Perlis FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/PERLIS_FM.png",Perlis FM
-https://22243.live.streamtheworld.com/PERLIS_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Melaka FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MELAKA_FM.png",Melaka FM
-https://22243.live.streamtheworld.com/MELAKA_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="VFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SABAH_VFM.png",Sabah VFM
-https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.m3u8
 
 #☯☯ || LOCAL CHANNELS || ☯☯
 
 #EXTINF:-1 tvg-id="WAI FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/WAI_FM_IBAN.png",Wai Iban FM
-https://28103.live.streamtheworld.com/WAI_FM_IBANAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBANAAC.m3u8
 
 #EXTINF:-1 tvg-id="Wai FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/WAI_FM_BK.png",Wai BK FM
-https://22273.live.streamtheworld.com/WAI_FM_BKAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BKAAC.m3u8
 
 #EXTINF:-1 tvg-id="Red FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RED_FM.png",Red FM
-https://22273.live.streamtheworld.com/RED_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Langkawi FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/LANGKAWI_FM.png",Langkawi FM
-https://28163.live.streamtheworld.com/LANGKAWI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Limbang FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/LIMBANG.png",Limbang FM
-https://28163.live.streamtheworld.com/LIMBANGAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIMBANGAAC.m3u8
 
 #EXTINF:-1 tvg-id="Miri FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MIRI_FM.png",Miri FM
-https://28163.live.streamtheworld.com/MIRI_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIRI_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Sri Aman FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SRIAMAN_FM.png",Sri Aman FM
-https://28103.live.streamtheworld.com/SRIAMAN_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRIAMAN_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Bintulu FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/BINTULU_FM.png",Bintulu FM
-https://28103.live.streamtheworld.com/BINTULU_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/BINTULU_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Sibu FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SIBU_FM.png",Sibu FM
-https://28103.live.streamtheworld.com/SIBU_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SIBU_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Sandakan FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SANDAKAN_FM.png",Sandakan FM
-https://22273.live.streamtheworld.com/SANDAKAN_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Tawau FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/TAWAU_FM.png",Tawau FM
-https://28163.live.streamtheworld.com/TAWAU_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/TAWAU_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Sabah FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/KENINGAU_FM.png",Keningau FM
-https://28163.live.streamtheworld.com/KENINGAU_FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FMAAC.m3u8
 
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pwaimg.listenlive.co/BFM_2336851_config_station_logo_image_1554434085.png",89.9 BFM
-https://28103.live.streamtheworld.com/BFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.m3u8
 
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MUZIKFM.png",Muzik FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC.m3u8
