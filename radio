@@ -150,7 +150,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.m
 #EXTINF:-1 tvg-id="Johor FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/JOHOR_FM.png",Johor FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.m3u8
 
-#EXTINF:-1 tvg-id="Negeri FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/NEGERI_FM.png",Negeri Sembilan FM
+#EXTINF:-1 tvg-id="Negeri Sembilan FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/NEGERI_FM.png",Negeri Sembilan FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NEGERI_FMAAC.m3u8
 
 #EXTINF:-1 tvg-id="Perak FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/PERAK_FM.png",Perak FM
@@ -165,7 +165,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PERLIS_FMAAC.m
 #EXTINF:-1 tvg-id="Melaka FM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MELAKA_FM.png",Melaka FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC.m3u8
 
-#EXTINF:-1 tvg-id="VFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SABAH_VFM.png",Sabah VFM
+#EXTINF:-1 tvg-id="Sabah VFM" group-title="Radio-MY" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/SABAH_VFM.png",Sabah VFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.m3u8
 
 #☯☯ || LOCAL CHANNELS || ☯☯
