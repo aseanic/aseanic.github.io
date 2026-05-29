@@ -212,7 +212,7 @@ https://28103.live.streamtheworld.com/BFMAAC.aac
 #EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/MUZIKFM.png",Muzik FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUZIKFMAAC.m3u8
 
-#EXTINF:-1 group-title="RB FM" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RADIOBISNES.png",RB FM
+#EXTINF:-1 group-title="Radio-MY" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://rtm-images.glueapi.io/400x300/radio-asset/RADIOBISNES.png",RB FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOBISNESAAC.m3u8
 
 #☯☯ || BRUNEI CHANNELS || ☯☯
