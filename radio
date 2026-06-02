@@ -268,50 +268,24 @@ https://19183.live.streamtheworld.com/CAPITAL958FM_PREM
 https://19183.live.streamtheworld.com/938NOW_PREM
 
 #☯☯ || INDONESIA CHANNELS || ☯☯
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoy8T7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Suara Kupang
-http://45.64.97.211:9506/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9QKG.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elshinta Jakarta
 https://stream-ssl.arenastreaming.com:8000/jakarta
 #EXTINF:-1 tvg-logo="https://iili.io/JmoySj9.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Suara Surabaya
 https://c5.siar.us:443/proxy/ssfm/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9ane.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Ardan Radio
-https://stream.rcs.revma.com/1q762wy5a9hvv
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9WAB.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",B-Radio
-https://stream.rcs.revma.com/9s8q27svceuvv
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHBRV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gen FM Jakarta
-https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHCOB.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gen FM Surabaya
-https://wz.mari.co.id:1936/web_genfmsby/gensbyic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jmopj5B.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",PRFM
-https://radio.pikiran-rakyat.com/prfm
 #EXTINF:-1 tvg-logo="https://iili.io/JmopezF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Andika
 http://andikafm.onlivestreaming.net:1057/mount
-#EXTINF:-1 tvg-logo="https://iili.io/JmE7ae4.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",City Guide 911 FM
-https://i.klikhost.com:8230/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmom4te.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Mercury FM
-https://svara-stream.radioddns.net:8443/surabaya_mercuryfm-aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmopJVa.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Most 1058
 https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmophJV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Prambors Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9vcv.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Delta FM
-https://stream.cloudmu.id/listen/delta_fm/stream?icy=http
 #EXTINF:-1 tvg-logo="https://iili.io/JmomnGj.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Jakarta
 https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="https://iili.io/JmomRu1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Jak FM
 https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmomPou.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Merdeka FM
-http://streaming.merdekafm.com:8020
+http://streaming.merdekafm.com:8020/;stream.nsv
 #EXTINF:-1 tvg-logo="https://iili.io/JmomtSV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Jakarta
 http://202.147.199.101:8000/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoyfqb.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Jakarta
 https://cast2.my-control-panel.com/proxy/radioso3/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9Ia4.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Voks Radio Bandung
-https://svara-stream.radioddns.net:8443/bandung_voksradio
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoyq1j.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Makassar
-https://cast2.my-control-panel.com/proxy/radios13/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmopuff.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",OZ Radio Bandung
-http://45.64.97.211:1031/;stream.nsv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmomz3Q.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Bandung
 http://stream.radiojar.com/u6ppe6hswk8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmomIaV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Makassar
@@ -328,44 +302,18 @@ http://streaming.bahterayudhafm.com:8050/;stream.nsv
 http://rpkfm.indostreamserver.com:8028/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoml6v.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Kharisma FM
 https://ssg.streamingmurah.com:8342/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmopWUQ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Prambors Makassar
-https://rust.mrngroup.co/listen/prambors_makasar/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmomyDF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Surabaya
-https://live.indostreamserver.com:10961/;listen.pls?sid=1
-#EXTINF:-1 tvg-logo="https://iili.io/JmomZcQ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Bandung
-http://stream.radbdg.net:8000/sindoradio.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoyc2R.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Sonora FM Jakarta
-http://cast1.my-control-panel.com/proxy/radioso1/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx97t9.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",A-Radio
-https://a1.siar.us/radio/8270/radio.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9cMu.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bahana FM
-https://stream.cloudmu.id/listen/bahana_fm
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx91Fj.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bali United FM
 https://c1.siar.us:10690/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9Ecx.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Beat FM Bali
-http://fm.gemamedia.id/beatfm
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9V9V.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Bens Radio
-https://stream-047.zeno.fm/047dgsp3v68uv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9XwP.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Brava Radio
 https://stream.radiojar.com/5k7t0rq3bnzuv
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9ht1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",C Radio
-https://stream.cradio.co.id/cradio.aac
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9NMg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Celebrities Radio
 http://202.147.199.100:8000/;stream.nsv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9woF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Cosmo Radio
 http://scg.streamingmurah.com:8074/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9OPa.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Cosmopolitan Radio
 https://stream.radiojar.com/u7d8heq3bnzuv
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9kKJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Dahlia FM
-https://svara-stream.radioddns.net:8443/bandung_dahliafm
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx98SR.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",DJFM Surabaya
-https://svara-stream.radioddns.net:8443/surabaya_djfm_
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9gAN.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",DMS FM
-http://live2.indostreamserver.com:8130/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9rNI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Duta FM
-https://live2.indostreamserver.com:8182/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9PoX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elfara FM
-http://207.244.251.202:8300/;stream.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGYOnn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",DMI Radio
+https://stream.radiojar.com/7csmg90fuqruv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9Zlf.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elshinta Lampung
 https://stream-ssl.arenastreaming.com:8070/lampung
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9tS4.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elshinta Medan
@@ -374,24 +322,12 @@ https://stream-ssl.arenastreaming.com:8035/medan
 https://stream-ssl.arenastreaming.com:8015/palembang
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9mR2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Elshinta Semarang
 https://stream-ssl.arenastreaming.com:8025/semarang
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHHx9.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Favorit FM
-http://s4.vinhostmedia.com:8000/favoritfm
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHJVe.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",FBI Radio Bali
-http://server.fbifm.com:9180/fbibaliradio
-#EXTINF:-1 tvg-logo="https://iili.io/JmxH3Kb.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Female Radio
-https://stream.cloudmu.id/listen/female/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHFlj.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gajahmada FM
 https://server.radioimeldafm.co.id:8040/gajahmadafm
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHKUx.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gamasi
-https://s3.vinhostmedia.com/9504/;
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHqHQ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Gema Merdeka
 http://110.44.169.32/gema
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHnDP.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Genta Bali
 http://stream.werdimedia.com:8200/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHxx1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Geronimo FM
-http://103.153.2.58:8004/;stream.nsv
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHzWF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Goodnews FM
-https://goodnewsfm.id/radio.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHufa.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hard Rock FM Bandung
 http://stream.radiojar.com/fnex9bkswk8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHIig.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hard Rock FM Bali
@@ -400,162 +336,82 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 https://stream.radiojar.com/7csmg90fuqruv
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHRUv.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hard Rock FM Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmxH7JR.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Heartline Bali
-https://svara-stream.radioddns.net:8443/bali_heartlineradio_stereo
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHaON.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Heartline Samarinda
-http://202.129.186.43:7025/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHcbI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Heartline Tangerang
-https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo
 #EXTINF:-1 tvg-logo="https://iili.io/JmxH0xt.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hits UNIKOM Radio
 http://hits.unikom.ac.id:9996/;
 #EXTINF:-1 tvg-logo="https://iili.io/JmxH1WX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hot FM
 https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHEsn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Imelda FM
 https://server.radioimeldafm.co.id:8030/imeldafm
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHMfs.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",IMI Radio
-https://live1.indostreamserver.com/8008/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmomo6x.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Banjarmasin
+#EXTINF:-1 tvg-logo="https://iili.io/3wG0uiF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Jakarta
+https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
+#EXTINF:-1 tvg-logo="https://iili.io/3wG0uiF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Banjarmasin
 http://stream.radiojar.com/qfqd2aw80k8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomT8B.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Medan
+#EXTINF:-1 tvg-logo="https://iili.io/3wG0uiF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Medan
 http://stream.radiojar.com/hkuevehswk8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomCCb.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Jogja
+#EXTINF:-1 tvg-logo="https://iili.io/3wG0uiF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Makasar
+https://stream.radiojar.com/seqmzfeu5k8uv
+#EXTINF:-1 tvg-logo="https://iili.io/3wG0uiF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",iRadio Jogja
 http://stream.radiojar.com/hnf2cbv80k8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomuyP.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Istara FM
-http://live.serverstreaming.net:8100/istarafm
-#EXTINF:-1 tvg-logo="https://iili.io/Jmom7Zg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Jeje Radio
-https://i.klikhost.com/8026/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmomana.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Jiz FM
-https://pu.klikhost.com/proxy/jizfm/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmomWut.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",K-Lite
-https://svara-stream.radioddns.net:8443/bandung_klitefm_acc
 #EXTINF:-1 tvg-logo="https://iili.io/JmomG8N.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",KLCBS
 https://streaming.klcbsofficial.com/listen/klcbs/klcbs
-#EXTINF:-1 tvg-logo="https://iili.io/JmomV9I.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Klik FM
-http://78.129.229.120:17450/;
 #EXTINF:-1 tvg-logo="https://iili.io/JmomcMJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Kalimaya Bhaskara
 https://streamingv2.shoutcast.com/kalimaya-bhaskara-malang
-#EXTINF:-1 tvg-logo="https://iili.io/Jmom1FR.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Kis FM Jakarta
-https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmomEap.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Kiss FM Medan
-http://live.kissfm-medan.com:8080/kissfm.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/JmomXwX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",M FM Malang
-http://202.164.223.22:8222/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmomhtn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",M Radio Surabaya
 https://c4.siar.us/proxy/mradio/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmomwns.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Madama Radio
-https://sca.streamingmurah.com:8200/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmomNMG.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Maestro FM
 http://maestro.skyline.net.id:10925/radio.maestro
-#EXTINF:-1 tvg-logo="https://iili.io/JmomOPf.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Mara FM
-https://svara-stream.radioddns.net:8443/bandung_marafm
-#EXTINF:-1 tvg-logo="https://iili.io/JmomkF4.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Max FM
-https://pu.klikhost.com/proxy/maxfmwaingapu/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmomvcl.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Medan FM
-http://streaming.cityradio.id:8000/medanfm.ogg
-#EXTINF:-1 tvg-logo="https://iili.io/Jmom8S2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Megaswara FM Bogor
-http://103.53.189.18:8010/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmomU9S.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Memora Radio
-http://i.klikhost.com:9044/;stream.nsv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomgA7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Menara FM
-http://server.menara-fm.com:10280/menarafmbali
-#EXTINF:-1 tvg-logo="https://iili.io/Jm1m2v2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Maneuver Radio Makassar
-http://server-by.antoners.com:8020/mercurius
-#EXTINF:-1 tvg-logo="https://iili.io/Jm1m2v2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Maneuver Radio Semarang
-http://server-by.antoners.com:8020/topfm
-#EXTINF:-1 tvg-logo="https://iili.io/JmomiMb.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Metta FM
-http://c1.siar.us:10136/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmomsPj.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MG Radio Network
-https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1820042344_b192000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmomQKx.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MGT Radio
 https://s1.gntr.net/listen/mgtradio/mgtradio
-#EXTINF:-1 tvg-logo="https://iili.io/JmombHB.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Mandailing Natal
-http://158.69.119.235:8014/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmommAP.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Palembang
-https://svara-stream.radioddns.net:8443/trijayafmplg_mono
-#EXTINF:-1 tvg-logo="https://iili.io/JmompN1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",MNC Trijaya FM Semarang
-http://stream.suararadio.com:8000/sindosemarang.stereo
 #EXTINF:-1 tvg-logo="https://iili.io/JmopdiJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Most FM Medan
 http://u.klikhost.net:7106/;
-#EXTINF:-1 tvg-logo="https://iili.io/Jmop3Kv.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Motion Radio Bangka
-https://cast2.my-control-panel.com/proxy/radios19/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopFlR.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Motion Radio Banjarmasin
-https://cast1.my-control-panel.com/proxy/radios16/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopKSp.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Motion Radio Jakarta
-https://cast1.my-control-panel.com/proxy/radioso2/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopqHN.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Motion Radio Manado
-https://cast3.asurahosting.com/proxy/radios26/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmopBRI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Music City
 http://sci.streamingmurah.com:8003/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopCNt.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Mustang FM
-https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmopnDX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Nagaswara FM
-https://live.nagaswarafm.com:9900/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmopxxn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Ninetysix
 https://c4.siar.us:8950/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopzVs.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Okezone Radio Bandung
-http://stream.radbdg.net:8000/globalradiobandung.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/JmopIiG.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Okezone Radio Jakarta
-http://202.147.199.98:80/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmopRUl.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",OZ Radio Bali
-https://void.idserverhost.com:8008/10/
 #EXTINF:-1 tvg-logo="https://iili.io/JmopAl4.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",OZ Radio Jakarta
 https://streaming.ozradiojakarta.com:8443/ozjakarta
-#EXTINF:-1 tvg-logo="https://iili.io/Jmop7J2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Paramuda FM
-http://115.178.48.43:9990/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmopYRS.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Pas FM Jakarta
-https://i.klikhost.com/8266/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmopaO7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Pas FM Surabaya
 http://radio.wow.net.id:8102/;?.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/Jmopcb9.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Persib Radio
-https://s3.vinhostmedia.com:10945/;stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmop0xe.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Phoenix Radio
 https://live.phoenixradiobali.com:8250/phoenixradio
 #EXTINF:-1 tvg-logo="https://iili.io/Jmop1Wu.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Pinguin FM
 https://live.radiopinguinfm.com:8350/;stream.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/JmopMfj.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Play FM Palembang
 http://66.96.237.109:8000/
-#EXTINF:-1 tvg-logo="https://iili.io/JmopV0x.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Pop FM
-http://i.klikhost.com:8272/
 #EXTINF:-1 tvg-logo="https://iili.io/JmopwOP.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",PTPN Radio
 https://ssg.streamingmurah.com:8040/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopNb1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Publica FM
-https://streaming.publicafm.com/publica-fm
 #EXTINF:-1 tvg-logo="https://iili.io/Jmopvsa.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio AR
 https://live.radioarbali.com:8450/radioar
-#EXTINF:-1 tvg-logo="https://iili.io/JmopkWg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Cakra
-https://stream-41.zeno.fm/yoengdcdzyauv
-#EXTINF:-1 tvg-logo="https://iili.io/JmopSqJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Gobers
-https://sx.alhasmedia.com/radio/8140/radio
-#EXTINF:-1 tvg-logo="https://iili.io/JmopU0v.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Idola
-https://server.radioidola.com:8880/idolafm
-#EXTINF:-1 tvg-logo="https://iili.io/JmopggR.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Katolikana
-https://ssg.streamingmurah.com:8096/;stream.mp3?_=1
 #EXTINF:-1 tvg-logo="https://iili.io/Jmop65N.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio PPI Dunia
 http://s1.voscast.com:8080/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmopPeI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Telstar
-http://telstarfm.indostreamserver.com:8174/;
-#EXTINF:-1 tvg-logo="https://iili.io/Jmopibt.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Radio Tirilolok
-https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_39956_stream_995050319
-#EXTINF:-1 tvg-logo="https://iili.io/JmopLzX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Raka FM
-https://cast2.my-control-panel.com/proxy/radioso5/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmopZss.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Rama FM
-http://i.klikhost.com:8330/;stream.nsv
-#EXTINF:-1 tvg-logo="https://iili.io/JmopQXn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Rase FM
-http://radio.jabarmaya.net.id:8000/rasefm?1613823975625
-#EXTINF:-1 tvg-logo="https://iili.io/Jmopb1f.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",RCT FM
-http://i.klikhost.com:9614/
 #EXTINF:-1 tvg-logo="https://iili.io/JmopDqG.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",RDI Jakarta
 http://202.147.199.99:8000/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmopmg4.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Retjo Buntung
 https://ssg.streamingmurah.com:9940/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmopydl.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Rhema Radio
 http://streaming.rhemaradio.com:5757/;
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoy972.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Ria FM
-https://cast1.my-control-panel.com/proxy/radioso6/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyJm7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",SAS FM
-http://i.klikhost.com:9616/
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyFLu.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Scout Radio
-https://live2.indostreamserver.com/8036/stream
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI Jakarta
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 3 RRI
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI Surabaya
+https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 2 RRI Surabaya
+https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro2.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 2 RRI kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro2.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 4 RRI kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro4.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI Makasar
+https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI Atambua
+https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/3wGwkYP.jpg" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID", Pro 1 RRI Labuan bajo
+https://stream-node2.rri.co.id/streaming/37/9337/rrilabuanbajopro1.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoy2I9.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Balikpapan
 https://cast3.asurahosting.com/proxy/radios32/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoy3Xe.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Banjarmasin
@@ -570,10 +426,6 @@ https://cast3.asurahosting.com/proxy/radios22/stream
 https://cast3.asurahosting.com/proxy/radios27/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmoyTI1.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Surabaya
 https://cast3.asurahosting.com/proxy/radios23/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyuhF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Smart FM Yogyakarta
-https://cast3.asurahosting.com/proxy/radios31/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyALg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Solopos FM
-https://radio.solopos.com:8002/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoy5Ba.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Sonora FM Bali
 https://cast1.my-control-panel.com/proxy/radios12/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoy7EJ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Sonora FM Bandung
@@ -596,112 +448,49 @@ https://cast3.asurahosting.com/proxy/radios30/stream
 https://cast3.asurahosting.com/proxy/radios25/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmoyhEG.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Sonora FM Yogyakarta
 https://cast3.asurahosting.com/proxy/radios28/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoyj4f.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",SPFM Makassar
-http://i18.klikhost.net:8712/;radio.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyN24.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",SSFM Semarang
-http://live.indostreamserver.com:8142/;
 #EXTINF:-1 tvg-logo="https://iili.io/JmoyOYl.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Star Radio
 http://listen.staradio1073fm.net:8070/;
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoyev2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Studio East
-https://live.indostreamserver.com:10979/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmoykpS.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Suara Edukasi
-http://118.98.221.84:8803/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyUQe.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Suara Mahakam
-http://u.klikhost.com:8000/suara_mahakam
 #EXTINF:-1 tvg-logo="https://iili.io/JmoyrCu.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Suzana FM
 http://streaming.suzanafm.com:8000/listen.pls
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoy4Eb.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Swara Semarang
 https://server.radioimeldafm.co.id/radio/8010/swarasemarang
-#EXTINF:-1 tvg-logo="https://iili.io/Jmoyi3x.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Swara Timor
-https://stream.zeno.fm/a2gedypktp8uv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoy64j.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Swaragama
 http://202.65.114.229:9314/;
 #EXTINF:-1 tvg-logo="https://iili.io/JmoysYQ.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",TA Radio
 http://taradio.onlivestreaming.net:10350/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyLvV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Thomson FM
-http://sgp2.onlivestreaming.net:9730/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyQyB.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Thomson News
-http://i.klikhost.com:8240/
 #EXTINF:-1 tvg-logo="https://iili.io/JmoytTP.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax FM Palembang
 http://stream.radiojar.com/qv4muvhswk8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmoybZF.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax FM Semarang
 http://stream.radiojar.com/fr9zqhv80k8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmoypCg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax Jakarta
-https://stream.radiojar.com/rrqf78p3bnzuv
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyyGa.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trendy FM
-http://i.klikhost.net:8018/;
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx996J.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",UB Radio
-http://175.45.185.215:8000/admin
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9J3v.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Unasko FM
-https://svara-stream.radioddns.net:8443/unasko_radio
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9daR.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Unisi Radio
-http://202.162.32.23:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx93yN.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Urban Radio 106.3 FM
-https://live.indostreamserver.com/8250/;
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx92vp.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Urban 90.1 FM Bandung
-https://stream.rcs.revma.com/uzxk3bzbtbkvv
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9fjt.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Urban Yudha Bali
-http://live.indostreamserver.com:8090/;
+#EXTINF:-1 tvg-logo="https://iili.io/JmoypCg.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Trax FM Jakarta
+https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9qZX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",UTY FM Medari
 http://utyfmedari.us.myradio.web.id:8000/utyfmedari
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9Cnn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Venus FM
 https://stream-52.zeno.fm/3wiuocujuobtv
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9nGs.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Visi FM
-https://i.klikhost.com/8274/;stream.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9o6G.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Voks 99.3 FM Bali
-https://svara-stream.radioddns.net:8443/Bali_voksradio_993fm
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9zFf.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Voks 102 FM Bali
-https://onlineradiobox.com/json/id/cassanova/play?platform=web
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9T8l.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Voks Radio Jogja
-http://c1.siar.us:10219/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9RuS.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Voks Radio Medan
-http://svara-stream.radioddns.net:8000/medan_voksradio
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",XChannel Bandung
-http://202.78.200.228:8002/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",XChannel Banten
-http://202.78.200.228:8103/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",XChannel Bogor
-http://202.78.200.228:8788/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",XChannel Jakarta
-http://202.78.200.228:8000/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx95w7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Z 99.9 FM
-https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2026/06/02/xOwxg8.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-ID",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
 
 #☯☯ || PHILIPPINES CHANNELS || ☯☯
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTuh7.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmUqxg2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Radyo5 True FM
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/radyo5_qp.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTHep.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",DWPM Radyo 630
-https://23683.live.streamtheworld.com/DZMMAAC.aac?dist=tunein
-#EXTINF:-1 tvg-logo="https://iili.io/JmST2II.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Wish 107.5
-https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmST3Xt.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",DZRH News
-https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTxkl.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Magic 89.9
-https://stream.zeno.fm/fw1368t3vc9uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTn2f.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Monster RX 93.1
-https://ph-icecast-win.eradioportal.com:8443/monsterrx
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTfBn.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Energy 106.7
-http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTBrG.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Home Radio
 https://hrmanila.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTq1s.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Love Radio
-https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTo74.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",MOR Entertainment
 https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01AAC_48.aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTzp2.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Myx Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/MYXFMAAC_48.aac
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTTIS.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Play FM
-https://stream-14.zeno.fm/ktsuntffnpeuv
 #EXTINF:-1 tvg-logo="https://iili.io/JmST5Be.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Star FM
 https://stream.zeno.fm/536cwdq78heuv
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTAQ9.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",V81 Radio
 http://162.244.80.52:5960/;stream.aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTJmN.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Win Radio
 https://streamingv2.shoutcast.com/915-win-radio-manila
-#EXTINF:-1 tvg-logo="https://iili.io/JmSTFLX.png" radio="true" tvg-id="24.7.Dummy.us" group-title="Radio-PH",Yes 101.1
-https://s2.radio.co/sa85100da7/listen
+
 #☯☯ || THAILAND CHANNELS || ☯☯
 
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/green.png" group-title="Radio-TH", GreenWave
@@ -710,47 +499,8 @@ https://atimeonline3.smartclick.co.th/green
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/cool.png" group-title="Radio-TH", Cool Farenheit
 https://coolism-web3rd.cdn.byteark.com/stream/1/
 
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mellow.png" group-title="Radio-TH", Mellow 97.5
-https://rcdn.mcot.net/radiocdn_edge/fm975.stream_aac/chunklist.m3u8
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/eazy-fm.png" group-title="Radio-TH", Easy FM
-https://18313.live.streamtheworld.com/EAZYFM_1055AAC_SC
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/rr-one.png" group-title="Radio-TH", 101 FM
-https://media.login.in.th:8443/smilehost/8135
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png" group-title="Radio-TH", MET 107 FM
-https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/playlist.m3u8
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/virginhitz.png" group-title="Radio-TH",HITZ 955 FM
-https://24863.live.streamtheworld.com/HITZ_955AAC_SC
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/chill.png" group-title="Radio-TH",Chill FM
-https://atimeonline3.smartclick.co.th/chill
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/big.png" group-title="Radio-TH",Big FM
-https://media.login.in.th:8443/smilehost/8195
-
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mcot.png" group-title="Radio-TH",MCOT FM
 http://rstream.mcot.net:8000/fm1005
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/active.png" group-title="Radio-TH",Active 99 FM
-https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/one-fm.png" group-title="Radio-TH",ONE 103.5 FM
-https://cdn-th2.livestreaming.in.th/shoutcast/8835
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/city.png" group-title="Radio-TH",City Radio FM
-https://streaming.thaismarthost.com:8020/ctmobile.mp3
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/thailand-88.png" group-title="Radio-TH",88 FM
-http://prdonline.prd.go.th:8200/stream/1/
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png" group-title="Radio-TH",90.5 FM
-http://live3.smartbomb.co.th:8624/stream/1/
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fung-fung-fung.png" group-title="Radio-TH",Fung FM
-http://link2.onair.network:8006/stream/1/
 
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fm91.png" group-title="Radio-TH",91 FM
 https://www.fm91bkk.com:8900/stream/1/
@@ -758,23 +508,11 @@ https://www.fm91bkk.com:8900/stream/1/
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/city-life.png" group-title="Radio-TH",City Life FM
 http://onair.onair.network:8076/stream/1/
 
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://pictr.com/images/2023/02/22/E1Yz1B.png" group-title="Radio-TH",91.5 FM
-https://stream.phuketfmradio.com/pfmMP3
-
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/cu.png" group-title="Radio-TH",Chula FM
 https://radio11.plathong.net/7590/;stream.mp3
 
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/sunshine.png" group-title="Radio-TH",Sunshine FM
-http://live4.netdesignhost.com/sunshinefmlive/sunshinefmlive/chunklist_w559356828.m3u8
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/anurak.png" group-title="Radio-TH",Anurak FM
-http://112.121.150.133:8143/live
-
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fat-93.png" group-title="Radio-TH", Fat 93 FM
 http://112.121.151.133:8272/stream.m3u
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/96-5.png" group-title="Radio-TH",96.5 FM
-https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8
 
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/modern-9875.png" group-title="Radio-TH",98.75 FM
 http://112.121.150.133:9102/stream/1/
@@ -800,17 +538,8 @@ https://cdn-th2.livestreaming.in.th/shoutcast/8610
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/live-phuket.png" group-title="Radio-TH",Phuket 89.5 FM
 https://4118.radio4.thzhost.com/stream/1/
 
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/chill-89.png" group-title="Radio-TH",Chill 93 FM
-https://atimeonline.smartclick.co.th/chill
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fm-105.png" group-title="Radio-TH",Family 105 FM
-http://prdonline.prd.go.th:8210/listen.pls
-
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/capitol-fm-bangkok.png" group-title="Radio-TH",Capitol FM
 http://atlanticthai.primcast.com:5898/listen.pls?sid=1
-
-#EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/one.png" group-title="Radio-TH",One 102.75 FM
-https://apps4.mcot.net/stream578.aac
 
 #EXTINF:0 radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fm91-bangkok.png" group-title="Radio-TH",Bangkok 91 FM
 https://www.fm91bkk.com:8900/stream/1/
