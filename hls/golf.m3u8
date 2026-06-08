@@ -4,4 +4,5 @@
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1236224&extension=ts&play_token=OkTEn6qiDL&extension=m3u8
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1236224&extension=ts&play_token=OkTEn6qiDL&extension=m3u8
