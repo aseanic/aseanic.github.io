@@ -4,4 +4,5 @@
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
-http://166.0.198.156:5052/trams/2781/playlist.m3u8?token=1314
+http://15.235.146.29:8080/live/zulmohd25/02112025/18864.m3u8
+#http://166.0.198.156:5052/trams/2781/playlist.m3u8?token=1314
