@@ -7,7 +7,6 @@ WARNING : All channels in these playlists are compiled specifically for Kodi, th
 Download:
 
 App : Kodi [(https://kodi.tv/download/)](https://kodi.tv/download/)
-(Note: kodi 22 for any OS can be found under "Master" folder) i.e Root > nightlies > windows > win64 > master
 
 Addon : IPTV Merge https://slyguy.uk/
 
