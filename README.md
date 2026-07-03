@@ -17,11 +17,6 @@ Instruction:
 
 No manual EPG input is required as the EPG already integrated inside the playlist header. Just input these simple urls and you're done. 
 
-* For IPTV : https://aseanic.github.io/tv
-
-* For Radio : https://aseanic.github.io/radio
-
-* For VOD : https://aseanic.github.io/vod
 
 Click below video to see demo.
 
