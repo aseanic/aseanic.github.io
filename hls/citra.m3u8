@@ -4,6 +4,7 @@
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
-http://ktpremium.site:2095/kk2009/7855245/25852
+http://31.43.191.125:8080/live/VIP016151761118478102/b84ce4b6c3af/34538.m3u8
+#http://ktpremium.site:2095/kk2009/7855245/25852
 #http://15.235.146.29:8080/live/zulmohd25/02112025/8453.m3u8
 #http://166.0.198.156:5052/trams/2718/playlist.m3u8?token=1314
