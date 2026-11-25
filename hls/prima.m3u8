@@ -5,6 +5,6 @@
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 #http://15.235.146.29:8080/live/zulmohd25/02112025/8446.m3u8
-http://31.43.191.125:8080/live/VIP018671742134028370/799c8439dd30/34542.m3u8
+#http://31.43.191.125:8080/live/VIP018671742134028370/799c8439dd30/34542.m3u8
 #http://166.0.198.156:5052/trams/2658/playlist.m3u8?token=1314
-#https://caonima.898757.xyz/l/f5cZ_7ws8j43hfcUqerxeBfyzHKZOoy0ByAHc946Zg0P3jMu7nNhsoIUgAe46XDz/index.m3u8
+https://caonima.898757.xyz/l/f5cZ_7ws8j43hfcUqerxeBfyzHKZOoy0ByAHc946Zg0P3jMu7nNhsoIUgAe46XDz/video/index.m3u8
